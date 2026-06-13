@@ -1,0 +1,4 @@
+flood_risk_label,n,mean_flood_probability,median_flood_probability,mean_pressure,hazard_score
+Low Flood Risk,16691,0.4455173446767719,0.45,4.455994533695091,0.33
+Medium Flood Risk,17298,0.49976760319112035,0.5,4.998949231675558,0.665
+High Flood Risk,16011,0.5559871338454813,0.55,5.559577492854615,1.0

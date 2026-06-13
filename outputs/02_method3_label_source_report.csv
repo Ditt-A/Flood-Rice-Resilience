@@ -1,0 +1,6 @@
+vulnerability_label,label_source,n,mean_score,median_rc
+Low Vulnerability,default_positive_buffer,450,0.24941009817439092,2.023202383937489
+Medium Vulnerability,soft_rule_medium_composite_pressure,1,0.45495280609431493,1.1572915826002743
+Medium Vulnerability,soft_rule_thin_financial_buffer,62,0.4828472910833763,1.0599373919260566
+High Vulnerability,hard_rule_below_break_even,270,0.7773646568069609,0.6913197660040464
+High Vulnerability,soft_rule_high_composite_pressure,4,0.6407880141579665,1.0127817590983708

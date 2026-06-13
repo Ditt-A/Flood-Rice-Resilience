@@ -1,0 +1,57 @@
+dataset,feature,group,usage
+Flood,MonsoonIntensity,Climate & natural pressure,hazard predictor
+Flood,ClimateChange,Climate & natural pressure,hazard predictor
+Flood,TopographyDrainage,Climate & natural pressure,hazard predictor
+Flood,CoastalVulnerability,Climate & natural pressure,hazard predictor
+Flood,Landslides,Climate & natural pressure,hazard predictor
+Flood,Watersheds,Climate & natural pressure,hazard predictor
+Flood,WetlandLoss,Climate & natural pressure,hazard predictor
+Flood,Deforestation,Land-use pressure,hazard predictor
+Flood,Urbanization,Land-use pressure,hazard predictor
+Flood,AgriculturalPractices,Land-use pressure,hazard predictor
+Flood,Encroachments,Land-use pressure,hazard predictor
+Flood,PopulationScore,Land-use pressure,hazard predictor
+Flood,RiverManagement,Hydraulic infrastructure,hazard predictor
+Flood,DrainageSystems,Hydraulic infrastructure,hazard predictor
+Flood,Siltation,Hydraulic infrastructure,hazard predictor
+Flood,DamsQuality,Hydraulic infrastructure,hazard predictor
+Flood,DeterioratingInfrastructure,Hydraulic infrastructure,hazard predictor
+Flood,IneffectiveDisasterPreparedness,Governance & preparedness,hazard predictor
+Flood,InadequatePlanning,Governance & preparedness,hazard predictor
+Flood,PoliticalFactors,Governance & preparedness,hazard predictor
+Flood,FloodProbability,Target,regression target
+Rice,land_lease_value_idr,Farmer,cost/input
+Rice,labor_cost_idr,Farmer,cost/input
+Rice,seed_purchase_value_idr,Farmer,cost/input
+Rice,fertilizer_purchase_value_idr,Farmer,cost/input
+Rice,pesticide_purchase_value_idr,Farmer,cost/input
+Rice,equipment_rent_value_idr,Farmer,cost/input
+Rice,production_value_idr,Farmer,output/revenue
+Rice,land_area_m2,Farmer,quantity/capacity
+Rice,value_of_milled_grains_idr,Rice Miller,cost/input
+Rice,labor_cost_idr,Rice Miller,cost/input
+Rice,supporting_equipment_cost_idr,Rice Miller,cost/input
+Rice,nilaiberashasilgiling,Rice Miller,output/revenue
+Rice,total_revenue_of_milling_machine_idr,Rice Miller,output/revenue
+Rice,amount_of_milled_rice_kg,Rice Miller,quantity/capacity
+Rice,number_of_machines_unit,Rice Miller,quantity/capacity
+Rice,total_rice_purchase_idr,Middlemen,cost/input
+Rice,building_rent_cost_idr,Middlemen,cost/input
+Rice,labor_cost_idr,Middlemen,cost/input
+Rice,supporting_equipment_cost_idr,Middlemen,cost/input
+Rice,value_of_rice_sold_idr,Middlemen,output/revenue
+Rice,total_rice_purchase_kg,Middlemen,quantity/capacity
+Rice,total_precipitation_pct,Middlemen,environmental proxy
+Rice,precipitation_quality_pct,Middlemen,environmental proxy
+Rice,value_of_rice_purchase_idr,Wholesaler,cost/input
+Rice,building_rent_cost_idr,Wholesaler,cost/input
+Rice,labor_cost_idr,Wholesaler,cost/input
+Rice,supporting_equipment_cost_idr,Wholesaler,cost/input
+Rice,value_of_rice_sold_idr,Wholesaler,output/revenue
+Rice,precipitation_quality_pct,Wholesaler,environmental proxy
+Rice,value_of_rice_purchase_idr,Retail,cost/input
+Rice,building_rent_cost_idr,Retail,cost/input
+Rice,labor_cost_idr,Retail,cost/input
+Rice,supporting_equipment_cost_idr,Retail,cost/input
+Rice,value_of_rice_sold_idr,Retail,output/revenue
+Rice,precipitation_quality_pct,Retail,environmental proxy

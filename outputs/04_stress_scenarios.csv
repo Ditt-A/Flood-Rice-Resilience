@@ -1,0 +1,4 @@
+flood_scenario,cost_shock_pct,scenario_interpretation,n_flood_cases,flood_probability_reference,flood_probability_min,flood_probability_max
+Low,0.05,low cost-side stress grid,16667,0.4500022590135356,0.2850096598031884,0.4750012119801683
+Medium,0.15,medium cost-side stress grid,16666,0.4999999437061118,0.4750012123936232,0.5199991023949719
+High,0.3,high cost-side stress grid,16667,0.5499976285304322,0.5199991024241158,0.7249898489348393

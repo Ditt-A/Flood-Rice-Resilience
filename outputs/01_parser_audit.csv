@@ -1,0 +1,26 @@
+actor,region,header_row,n_cols
+Farmer,Garut,1,9
+Farmer,Indramayu,102,9
+Farmer,Karawang,167,9
+Farmer,Subang,223,9
+Farmer,Tasikmalaya,303,9
+Rice Miller,Garut,1,8
+Rice Miller,Indramayu,28,8
+Rice Miller,Karawang,48,8
+Rice Miller,Subang,65,8
+Rice Miller,Tasikmalaya,89,8
+Middlemen,Garut,1,9
+Middlemen,Indramayu,28,9
+Middlemen,Karawang,47,9
+Middlemen,Subang,64,9
+Middlemen,Tasikmalaya,88,9
+Wholesaler,Garut,1,7
+Wholesaler,Indramayu,29,7
+Wholesaler,Karawang,48,7
+Wholesaler,Subang,65,7
+Wholesaler,Tasikmalaya,89,7
+Retail,Garut,1,7
+Retail,Indramayu,27,7
+Retail,Karawang,46,7
+Retail,Subang,66,7
+Retail,Tasikmalaya,88,7

@@ -1,0 +1,7 @@
+labeling_function,condition,label_signal,priority,domain_basis
+lf_below_break_even,rc_ratio < 1.00,High Vulnerability,1,R/C feasibility: revenue below cost
+lf_negative_margin,margin < 0,High Vulnerability,2,Negative margin: no financial buffer
+lf_high_composite_pressure,final_vulnerability_score >= 0.62,High Vulnerability,3,Internal calibrated high composite pressure
+lf_thin_rc_buffer,1.00 <= rc_ratio < 1.15,Medium Vulnerability,4,Revenue covers cost but with thin buffer
+lf_thin_margin_buffer,0 <= margin_ratio < 0.10,Medium Vulnerability,5,Positive but thin margin buffer
+lf_medium_composite_pressure,0.40 <= final_vulnerability_score < 0.62,Medium Vulnerability,6,Internal calibrated medium composite pressure

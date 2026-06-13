@@ -1,0 +1,3 @@
+task,selected_model,selection_metric,holdout_summary,main_caution
+FloodProbability regression,Ridge,"Lowest CV RMSE, checked on holdout RMSE/R2",RMSE=0.00000; R2=1.00000,Flood dataset target is tabular and may be strongly formula-like; interpret feature importance with caution.
+Rice vulnerability classification,Decision Tree,0.70 × Macro F1 + 0.30 × Balanced Accuracy,MacroF1=0.96325; BalancedAcc=0.96936,"Target is a paper-grounded pseudo-label, not external field ground truth."

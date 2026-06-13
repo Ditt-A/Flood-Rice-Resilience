@@ -1,0 +1,6 @@
+decision_level,condition,label_effect,domain_basis
+Hard rule,rc_ratio < 1.00,High Vulnerability,R/C feasibility: revenue below cost / below break-even
+Hard rule,margin < 0,High Vulnerability,Negative margin means no financial buffer before disruption
+Soft composite rule,rule score >= 0.62,High Vulnerability,Internal calibrated threshold after hard financial rules
+Soft buffer rule,rc_ratio < 1.15 OR margin_ratio < 0.10 OR rule score >= 0.40,Medium Vulnerability,Thin financial/operational buffer
+Default,otherwise,Low Vulnerability,Positive financial and operational buffer

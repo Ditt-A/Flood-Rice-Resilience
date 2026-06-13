@@ -1,0 +1,118 @@
+{
+  "target_flood": "FloodProbability",
+  "flood_feature_groups": {
+    "Climate & natural pressure": [
+      "MonsoonIntensity",
+      "ClimateChange",
+      "TopographyDrainage",
+      "CoastalVulnerability",
+      "Landslides",
+      "Watersheds",
+      "WetlandLoss"
+    ],
+    "Land-use pressure": [
+      "Deforestation",
+      "Urbanization",
+      "AgriculturalPractices",
+      "Encroachments",
+      "PopulationScore"
+    ],
+    "Hydraulic infrastructure": [
+      "RiverManagement",
+      "DrainageSystems",
+      "Siltation",
+      "DamsQuality",
+      "DeterioratingInfrastructure"
+    ],
+    "Governance & preparedness": [
+      "IneffectiveDisasterPreparedness",
+      "InadequatePlanning",
+      "PoliticalFactors"
+    ]
+  },
+  "actor_config": {
+    "Farmer": {
+      "cost_cols": [
+        "land_lease_value_idr",
+        "labor_cost_idr",
+        "seed_purchase_value_idr",
+        "fertilizer_purchase_value_idr",
+        "pesticide_purchase_value_idr",
+        "equipment_rent_value_idr"
+      ],
+      "output_cols": [
+        "production_value_idr"
+      ],
+      "quantity_cols": [
+        "land_area_m2"
+      ],
+      "role": "upstream production"
+    },
+    "Rice Miller": {
+      "cost_cols": [
+        "value_of_milled_grains_idr",
+        "labor_cost_idr",
+        "supporting_equipment_cost_idr"
+      ],
+      "output_cols": [
+        "nilaiberashasilgiling",
+        "total_revenue_of_milling_machine_idr"
+      ],
+      "quantity_cols": [
+        "amount_of_milled_rice_kg",
+        "number_of_machines_unit"
+      ],
+      "role": "processing capacity"
+    },
+    "Middlemen": {
+      "cost_cols": [
+        "total_rice_purchase_idr",
+        "building_rent_cost_idr",
+        "labor_cost_idr",
+        "supporting_equipment_cost_idr"
+      ],
+      "output_cols": [
+        "value_of_rice_sold_idr"
+      ],
+      "quantity_cols": [
+        "total_rice_purchase_kg"
+      ],
+      "precip_cols": [
+        "total_precipitation_pct",
+        "precipitation_quality_pct"
+      ],
+      "role": "aggregation and trading"
+    },
+    "Wholesaler": {
+      "cost_cols": [
+        "value_of_rice_purchase_idr",
+        "building_rent_cost_idr",
+        "labor_cost_idr",
+        "supporting_equipment_cost_idr"
+      ],
+      "output_cols": [
+        "value_of_rice_sold_idr"
+      ],
+      "precip_cols": [
+        "precipitation_quality_pct"
+      ],
+      "role": "bulk distribution"
+    },
+    "Retail": {
+      "cost_cols": [
+        "value_of_rice_purchase_idr",
+        "building_rent_cost_idr",
+        "labor_cost_idr",
+        "supporting_equipment_cost_idr"
+      ],
+      "output_cols": [
+        "value_of_rice_sold_idr"
+      ],
+      "precip_cols": [
+        "precipitation_quality_pct"
+      ],
+      "role": "consumer-facing distribution"
+    }
+  },
+  "integration_note": "Two datasets are integrated at analytical/scenario level, not row-wise merge, because no shared key exists."
+}

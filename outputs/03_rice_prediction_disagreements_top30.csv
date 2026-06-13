@@ -1,0 +1,4 @@
+actor,region,vulnerability_label,predicted_vulnerability_label,cost_revenue_ratio,margin,operational_burden_ratio,label_reason
+Farmer,Garut,High Vulnerability,Medium Vulnerability,0.9845965770171148,126000.0,0.7004889975550123,Thin R/C buffer; Thin margin buffer; Far from actor frontier
+Farmer,Indramayu,High Vulnerability,Medium Vulnerability,0.9877862595419848,80000.0,0.7465648854961832,Thin R/C buffer; Thin margin buffer; Far from actor frontier
+Farmer,Tasikmalaya,Medium Vulnerability,Low Vulnerability,0.8640864714086471,1949000.0,0.6209902370990237,Far from actor frontier

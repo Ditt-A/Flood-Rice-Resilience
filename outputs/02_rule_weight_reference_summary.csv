@@ -1,0 +1,7 @@
+rule_component,weight,mean_score,domain_decision,reference_logic
+financial_infeasibility_score,0.35,0.47458703939008895,Hardest soft component: below break-even and thin R/C buffer,Agricultural financial feasibility / R-C / benefit-cost logic
+margin_pressure_score,0.25,0.476556543837357,Financial buffer against disruption,Margin health / shock absorption
+operational_burden_score,0.15,0.21745915235052418,Operating-cost pressure in supply chain node,Supply chain efficiency and operating burden
+frontier_inefficiency_score,0.1,0.6323811082538349,DEA-style relative frontier inefficiency,Charnes et al. (1978); Banker et al. (1984)
+precipitation_stress_score,0.1,0.41860228716645487,Environmental stress proxy where available,Flood/disruption exposure proxy available in dataset
+low_utilization_pressure,0.05,0.5643377959769923,Asset/quantity utilization proxy,Farm/processing/distribution utilization logic

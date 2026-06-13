@@ -1,0 +1,395 @@
+actor,region,dmu,vulnerability_label,final_vulnerability_score,predicted_label,mode,model
+Rice Miller,Indramayu,3,Low Vulnerability,0.1571197093216626,Low Vulnerability,operational_prediction,Random Forest
+Retail,Tasikmalaya,9,High Vulnerability,0.7804092438670818,High Vulnerability,operational_prediction,Random Forest
+Retail,Tasikmalaya,16,High Vulnerability,0.8025878000830343,High Vulnerability,operational_prediction,Random Forest
+Rice Miller,Karawang,1,Medium Vulnerability,0.4427090655102665,Medium Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,77,Low Vulnerability,0.2416146711158884,Low Vulnerability,operational_prediction,Random Forest
+Wholesaler,Subang,7,Low Vulnerability,0.2837918374219569,Low Vulnerability,operational_prediction,Random Forest
+Retail,Tasikmalaya,8,High Vulnerability,0.7954044026663777,High Vulnerability,operational_prediction,Random Forest
+Middlemen,Indramayu,16,Medium Vulnerability,0.3803847081833037,Medium Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,44,Low Vulnerability,0.2572629644339874,Low Vulnerability,operational_prediction,Random Forest
+Wholesaler,Subang,10,Low Vulnerability,0.2668900137506797,Low Vulnerability,operational_prediction,Random Forest
+Rice Miller,Karawang,10,High Vulnerability,0.7319082812294803,High Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,49,Low Vulnerability,0.2284581306664504,Low Vulnerability,operational_prediction,Random Forest
+Retail,Tasikmalaya,23,High Vulnerability,0.7896440692078572,High Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,44,Low Vulnerability,0.2796487331795671,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,80,High Vulnerability,0.8450829517297955,High Vulnerability,operational_prediction,Random Forest
+Retail,Garut,16,High Vulnerability,0.7768170909956855,High Vulnerability,operational_prediction,Random Forest
+Rice Miller,Indramayu,12,Medium Vulnerability,0.537113410663441,Medium Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,98,Low Vulnerability,0.23783387281311,Low Vulnerability,operational_prediction,Random Forest
+Middlemen,Garut,21,Medium Vulnerability,0.4723419808934763,Medium Vulnerability,operational_prediction,Random Forest
+Wholesaler,Indramayu,9,Low Vulnerability,0.282417044297197,Low Vulnerability,operational_prediction,Random Forest
+Middlemen,Tasikmalaya,12,High Vulnerability,0.7928598783872005,High Vulnerability,operational_prediction,Random Forest
+Rice Miller,Karawang,3,High Vulnerability,0.7186068577083352,High Vulnerability,operational_prediction,Random Forest
+Retail,Karawang,3,High Vulnerability,0.7954044026663777,High Vulnerability,operational_prediction,Random Forest
+Wholesaler,Indramayu,2,Low Vulnerability,0.2019933143458111,Low Vulnerability,operational_prediction,Random Forest
+Retail,Subang,18,High Vulnerability,0.8987419354838709,High Vulnerability,operational_prediction,Random Forest
+Retail,Subang,17,High Vulnerability,0.8862160404223579,High Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,1,Low Vulnerability,0.2268248303090736,Low Vulnerability,operational_prediction,Random Forest
+Middlemen,Indramayu,7,High Vulnerability,0.6803291358018095,High Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,70,Low Vulnerability,0.233719302120012,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Subang,54,Low Vulnerability,0.2553194649843968,Low Vulnerability,operational_prediction,Random Forest
+Middlemen,Indramayu,11,High Vulnerability,0.6893615406231495,High Vulnerability,operational_prediction,Random Forest
+Middlemen,Indramayu,3,High Vulnerability,0.684461735821817,High Vulnerability,operational_prediction,Random Forest
+Farmer,Subang,58,Low Vulnerability,0.2712899110401567,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Karawang,47,Low Vulnerability,0.2818610648812971,Low Vulnerability,operational_prediction,Random Forest
+Retail,Tasikmalaya,25,High Vulnerability,0.8456728335661777,High Vulnerability,operational_prediction,Random Forest
+Farmer,Subang,18,Low Vulnerability,0.2120226318371375,Low Vulnerability,operational_prediction,Random Forest
+Retail,Tasikmalaya,7,High Vulnerability,0.7872091907594403,High Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,87,High Vulnerability,0.8469144517335183,High Vulnerability,operational_prediction,Random Forest
+Farmer,Karawang,35,Low Vulnerability,0.2543731966438486,Low Vulnerability,operational_prediction,Random Forest
+Rice Miller,Indramayu,5,Low Vulnerability,0.2593702524889292,Low Vulnerability,operational_prediction,Random Forest
+Rice Miller,Tasikmalaya,1,Medium Vulnerability,0.4241417649684945,Medium Vulnerability,operational_prediction,Random Forest
+Farmer,Karawang,21,Low Vulnerability,0.2402017246765481,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,84,Low Vulnerability,0.2410662855420572,Low Vulnerability,operational_prediction,Random Forest
+Rice Miller,Garut,23,High Vulnerability,0.7949235074648453,High Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,24,High Vulnerability,0.8634296395084071,High Vulnerability,operational_prediction,Random Forest
+Middlemen,Tasikmalaya,9,High Vulnerability,0.7397794741820898,High Vulnerability,operational_prediction,Random Forest
+Farmer,Indramayu,46,Low Vulnerability,0.227359156603807,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,45,Medium Vulnerability,0.5645495030317731,Medium Vulnerability,operational_prediction,Random Forest
+Retail,Indramayu,10,High Vulnerability,0.8125316592036081,High Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,26,Low Vulnerability,0.2524647652145078,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,8,Low Vulnerability,0.2165022047484868,Low Vulnerability,operational_prediction,Random Forest
+Retail,Indramayu,12,High Vulnerability,0.8672271243503323,High Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,45,Low Vulnerability,0.2439148545839098,Low Vulnerability,operational_prediction,Random Forest
+Rice Miller,Indramayu,4,Low Vulnerability,0.1519106927452643,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Karawang,44,Low Vulnerability,0.1947308102320005,Low Vulnerability,operational_prediction,Random Forest
+Wholesaler,Indramayu,11,Low Vulnerability,0.2821462054884925,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,76,Low Vulnerability,0.229784384690466,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Indramayu,44,Low Vulnerability,0.2747340249743574,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Indramayu,8,High Vulnerability,0.6294748978726384,High Vulnerability,operational_prediction,Random Forest
+Middlemen,Indramayu,1,Low Vulnerability,0.2308261552353785,Low Vulnerability,operational_prediction,Random Forest
+Retail,Tasikmalaya,12,High Vulnerability,0.7854044026663777,High Vulnerability,operational_prediction,Random Forest
+Rice Miller,Subang,9,Low Vulnerability,0.1570277987943875,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,79,High Vulnerability,0.8773425224728157,High Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,100,Low Vulnerability,0.2272883443917069,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Karawang,25,Low Vulnerability,0.2460113730888465,Low Vulnerability,operational_prediction,Random Forest
+Wholesaler,Indramayu,14,Low Vulnerability,0.2818957694035797,Low Vulnerability,operational_prediction,Random Forest
+Wholesaler,Garut,22,High Vulnerability,0.7466194314074682,High Vulnerability,operational_prediction,Random Forest
+Farmer,Karawang,27,Low Vulnerability,0.2805538143619889,Low Vulnerability,operational_prediction,Random Forest
+Rice Miller,Garut,11,Low Vulnerability,0.3255303702419264,Low Vulnerability,operational_prediction,Random Forest
+Retail,Indramayu,3,High Vulnerability,0.761411698196735,High Vulnerability,operational_prediction,Random Forest
+Farmer,Subang,22,Low Vulnerability,0.3740535710452232,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,92,High Vulnerability,0.6462513833749204,Medium Vulnerability,operational_prediction,Random Forest
+Farmer,Indramayu,22,Low Vulnerability,0.3684138507401709,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Karawang,51,Low Vulnerability,0.2665081760842263,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,73,Low Vulnerability,0.2534830018926282,Low Vulnerability,operational_prediction,Random Forest
+Retail,Karawang,8,High Vulnerability,0.7890079235001903,High Vulnerability,operational_prediction,Random Forest
+Middlemen,Subang,13,High Vulnerability,0.7894671131423635,High Vulnerability,operational_prediction,Random Forest
+Farmer,Karawang,49,Low Vulnerability,0.285140078002802,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Indramayu,60,Low Vulnerability,0.2289585171842414,Low Vulnerability,operational_prediction,Random Forest
+Middlemen,Tasikmalaya,27,Medium Vulnerability,0.4884804462300598,Medium Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,46,Low Vulnerability,0.3892737413681721,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Subang,61,Low Vulnerability,0.1279685958440709,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,35,Low Vulnerability,0.2784557354698455,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,66,Low Vulnerability,0.2492923748640926,Low Vulnerability,operational_prediction,Random Forest
+Middlemen,Subang,8,Low Vulnerability,0.1906242565649318,Low Vulnerability,operational_prediction,Random Forest
+Retail,Garut,19,High Vulnerability,0.6988030240263492,High Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,10,Low Vulnerability,0.2316403140111516,Low Vulnerability,operational_prediction,Random Forest
+Middlemen,Garut,13,High Vulnerability,0.6964980151387906,High Vulnerability,operational_prediction,Random Forest
+Farmer,Indramayu,48,Low Vulnerability,0.2899902565611576,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,62,Low Vulnerability,0.2328289737500812,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,35,Low Vulnerability,0.2802047378808227,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,32,Low Vulnerability,0.3826555870248326,Low Vulnerability,operational_prediction,Random Forest
+Middlemen,Indramayu,6,High Vulnerability,0.6780873493493446,High Vulnerability,operational_prediction,Random Forest
+Farmer,Subang,13,Low Vulnerability,0.2781748593781792,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Subang,69,Low Vulnerability,0.2665086190553034,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,48,Low Vulnerability,0.2394352585289265,Low Vulnerability,operational_prediction,Random Forest
+Rice Miller,Garut,22,High Vulnerability,0.7949235074648453,High Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,46,Medium Vulnerability,0.4549528060943149,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,65,Low Vulnerability,0.2543693226918141,Low Vulnerability,operational_prediction,Random Forest
+Rice Miller,Tasikmalaya,17,High Vulnerability,0.7164778426805595,High Vulnerability,operational_prediction,Random Forest
+Middlemen,Garut,5,High Vulnerability,0.7259196299173236,High Vulnerability,operational_prediction,Random Forest
+Farmer,Indramayu,59,Low Vulnerability,0.2691421133538768,Low Vulnerability,operational_prediction,Random Forest
+Rice Miller,Indramayu,8,Low Vulnerability,0.3327556204774627,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Indramayu,29,Low Vulnerability,0.222302493097233,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,43,Low Vulnerability,0.2477451681024675,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Subang,37,Low Vulnerability,0.260660817187488,Low Vulnerability,operational_prediction,Random Forest
+Middlemen,Tasikmalaya,8,High Vulnerability,0.7466051422955307,High Vulnerability,operational_prediction,Random Forest
+Farmer,Indramayu,27,Low Vulnerability,0.3778567397631029,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Subang,24,Medium Vulnerability,0.564378600242529,Medium Vulnerability,operational_prediction,Random Forest
+Rice Miller,Indramayu,2,Low Vulnerability,0.3288630675526029,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Subang,64,Low Vulnerability,0.262570269275412,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,42,Low Vulnerability,0.2594344649874989,Low Vulnerability,operational_prediction,Random Forest
+Wholesaler,Indramayu,6,Low Vulnerability,0.3630389594502375,Low Vulnerability,operational_prediction,Random Forest
+Retail,Subang,14,High Vulnerability,0.7799164110586305,High Vulnerability,operational_prediction,Random Forest
+Retail,Karawang,7,High Vulnerability,0.7836779788449685,High Vulnerability,operational_prediction,Random Forest
+Farmer,Karawang,5,Low Vulnerability,0.2182063312639099,Low Vulnerability,operational_prediction,Random Forest
+Wholesaler,Indramayu,13,Low Vulnerability,0.0975,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,36,Low Vulnerability,0.2763876293789562,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Karawang,37,Low Vulnerability,0.2473172845805165,Low Vulnerability,operational_prediction,Random Forest
+Middlemen,Garut,14,High Vulnerability,0.7059199780780608,High Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,25,Low Vulnerability,0.2457629643287742,Low Vulnerability,operational_prediction,Random Forest
+Middlemen,Karawang,9,High Vulnerability,0.7013071504562697,High Vulnerability,operational_prediction,Random Forest
+Middlemen,Subang,21,Low Vulnerability,0.170590860565171,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,60,Low Vulnerability,0.2373941547617543,Low Vulnerability,operational_prediction,Random Forest
+Retail,Subang,1,High Vulnerability,0.7000348236527126,High Vulnerability,operational_prediction,Random Forest
+Middlemen,Karawang,3,High Vulnerability,0.6834940401621336,High Vulnerability,operational_prediction,Random Forest
+Retail,Garut,15,High Vulnerability,0.7795866061706125,High Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,83,Low Vulnerability,0.2271967965428246,Low Vulnerability,operational_prediction,Random Forest
+Rice Miller,Tasikmalaya,22,Medium Vulnerability,0.5154805353934458,Medium Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,5,Low Vulnerability,0.2372827442640172,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,19,Low Vulnerability,0.2122563469072204,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Karawang,43,Low Vulnerability,0.2685072406642534,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,70,Low Vulnerability,0.2262662911797878,Low Vulnerability,operational_prediction,Random Forest
+Wholesaler,Garut,25,High Vulnerability,0.7589534473203926,High Vulnerability,operational_prediction,Random Forest
+Farmer,Subang,50,Low Vulnerability,0.2857469697204239,Low Vulnerability,operational_prediction,Random Forest
+Middlemen,Garut,8,High Vulnerability,0.7494207517910765,High Vulnerability,operational_prediction,Random Forest
+Retail,Garut,17,High Vulnerability,0.7737081736601286,High Vulnerability,operational_prediction,Random Forest
+Middlemen,Indramayu,14,Low Vulnerability,0.1085793782086148,Low Vulnerability,operational_prediction,Random Forest
+Wholesaler,Subang,15,High Vulnerability,0.7658907120350672,High Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,39,Low Vulnerability,0.2278686362975309,Low Vulnerability,operational_prediction,Random Forest
+Middlemen,Garut,24,Medium Vulnerability,0.4720938976209363,Medium Vulnerability,operational_prediction,Random Forest
+Rice Miller,Karawang,8,High Vulnerability,0.7328967256523887,High Vulnerability,operational_prediction,Random Forest
+Farmer,Subang,4,Low Vulnerability,0.2655439597810544,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,64,Low Vulnerability,0.2486052730530054,Low Vulnerability,operational_prediction,Random Forest
+Middlemen,Tasikmalaya,25,Medium Vulnerability,0.4951918949633005,Medium Vulnerability,operational_prediction,Random Forest
+Farmer,Subang,17,Low Vulnerability,0.1982141975710112,Low Vulnerability,operational_prediction,Random Forest
+Rice Miller,Subang,4,Low Vulnerability,0.2530387478603708,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,8,Low Vulnerability,0.2639662493588027,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,28,Low Vulnerability,0.276602596001753,Low Vulnerability,operational_prediction,Random Forest
+Rice Miller,Subang,13,Low Vulnerability,0.2635269533222278,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,15,Low Vulnerability,0.2376272756605366,Low Vulnerability,operational_prediction,Random Forest
+Wholesaler,Subang,12,Low Vulnerability,0.2618710513753661,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,38,Low Vulnerability,0.2772677660625627,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Subang,14,High Vulnerability,0.8514968271050914,High Vulnerability,operational_prediction,Random Forest
+Rice Miller,Subang,2,Low Vulnerability,0.1631170156299199,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Subang,77,Low Vulnerability,0.2793962215680232,Low Vulnerability,operational_prediction,Random Forest
+Middlemen,Garut,16,High Vulnerability,0.7060258012722981,High Vulnerability,operational_prediction,Random Forest
+Farmer,Subang,57,Low Vulnerability,0.2769070110599772,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,102,Low Vulnerability,0.230624357760948,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Subang,21,Low Vulnerability,0.3738999268939224,Low Vulnerability,operational_prediction,Random Forest
+Middlemen,Indramayu,13,Low Vulnerability,0.1077463496350729,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,30,Low Vulnerability,0.2286696856275204,Low Vulnerability,operational_prediction,Random Forest
+Middlemen,Tasikmalaya,7,High Vulnerability,0.7624568206406155,High Vulnerability,operational_prediction,Random Forest
+Wholesaler,Karawang,14,High Vulnerability,0.7522589436514815,High Vulnerability,operational_prediction,Random Forest
+Rice Miller,Karawang,14,High Vulnerability,0.9123771087366828,High Vulnerability,operational_prediction,Random Forest
+Middlemen,Tasikmalaya,29,Medium Vulnerability,0.5383864334371931,Medium Vulnerability,operational_prediction,Random Forest
+Rice Miller,Tasikmalaya,25,High Vulnerability,0.8383251708114089,High Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,59,Low Vulnerability,0.2821025639875394,Low Vulnerability,operational_prediction,Random Forest
+Rice Miller,Tasikmalaya,10,Low Vulnerability,0.2559329773453138,Low Vulnerability,operational_prediction,Random Forest
+Middlemen,Garut,12,High Vulnerability,0.7529751537954333,High Vulnerability,operational_prediction,Random Forest
+Farmer,Karawang,32,Low Vulnerability,0.2501892166399195,Low Vulnerability,operational_prediction,Random Forest
+Middlemen,Karawang,4,Medium Vulnerability,0.416062487273977,Medium Vulnerability,operational_prediction,Random Forest
+Rice Miller,Subang,12,Low Vulnerability,0.1583125564942839,Low Vulnerability,operational_prediction,Random Forest
+Wholesaler,Karawang,4,High Vulnerability,0.7481624610957837,High Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,57,Low Vulnerability,0.2295927712986106,Low Vulnerability,operational_prediction,Random Forest
+Wholesaler,Subang,19,Low Vulnerability,0.291685609958589,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,41,Low Vulnerability,0.387817799783983,Low Vulnerability,operational_prediction,Random Forest
+Retail,Subang,16,High Vulnerability,0.836127879936236,High Vulnerability,operational_prediction,Random Forest
+Farmer,Karawang,29,Low Vulnerability,0.2404271340790115,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,56,Low Vulnerability,0.2256476259265219,Low Vulnerability,operational_prediction,Random Forest
+Retail,Tasikmalaya,28,High Vulnerability,0.8071403904494053,High Vulnerability,operational_prediction,Random Forest
+Middlemen,Karawang,10,Medium Vulnerability,0.4342153914836408,Medium Vulnerability,operational_prediction,Random Forest
+Rice Miller,Garut,21,High Vulnerability,0.7949235074648453,High Vulnerability,operational_prediction,Random Forest
+Wholesaler,Garut,4,High Vulnerability,0.8296280261617589,High Vulnerability,operational_prediction,Random Forest
+Wholesaler,Garut,6,High Vulnerability,0.7696055113891711,High Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,34,Low Vulnerability,0.2504516727438762,Low Vulnerability,operational_prediction,Random Forest
+Rice Miller,Indramayu,16,High Vulnerability,0.7693142793208789,High Vulnerability,operational_prediction,Random Forest
+Retail,Subang,8,High Vulnerability,0.8167953093914838,High Vulnerability,operational_prediction,Random Forest
+Rice Miller,Tasikmalaya,19,Medium Vulnerability,0.4406995078778071,Medium Vulnerability,operational_prediction,Random Forest
+Wholesaler,Karawang,11,High Vulnerability,0.7287230588606312,High Vulnerability,operational_prediction,Random Forest
+Wholesaler,Karawang,8,Low Vulnerability,0.2184690383338972,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Garut,47,High Vulnerability,0.8639958065670348,High Vulnerability,operational_prediction,Random Forest
+Retail,Tasikmalaya,2,High Vulnerability,0.9173833437729648,High Vulnerability,operational_prediction,Random Forest
+Wholesaler,Indramayu,5,Low Vulnerability,0.3639499084320132,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,7,Low Vulnerability,0.2041859211622634,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Indramayu,35,Low Vulnerability,0.2385329099601666,Low Vulnerability,operational_prediction,Random Forest
+Farmer,Tasikmalaya,109,Low Vulnerability,0.2248549820016133,Low Vulnerability,operational_prediction,Random Forest
+Rice Miller,Indramayu,3,Low Vulnerability,0.1571197093216626,Low Vulnerability,domain_rule_replication,Random Forest
+Retail,Tasikmalaya,9,High Vulnerability,0.7804092438670818,High Vulnerability,domain_rule_replication,Random Forest
+Retail,Tasikmalaya,16,High Vulnerability,0.8025878000830343,High Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Karawang,1,Medium Vulnerability,0.4427090655102665,Medium Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,77,Low Vulnerability,0.2416146711158884,Low Vulnerability,domain_rule_replication,Random Forest
+Wholesaler,Subang,7,Low Vulnerability,0.2837918374219569,Low Vulnerability,domain_rule_replication,Random Forest
+Retail,Tasikmalaya,8,High Vulnerability,0.7954044026663777,High Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Indramayu,16,Medium Vulnerability,0.3803847081833037,Medium Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,44,Low Vulnerability,0.2572629644339874,Low Vulnerability,domain_rule_replication,Random Forest
+Wholesaler,Subang,10,Low Vulnerability,0.2668900137506797,Low Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Karawang,10,High Vulnerability,0.7319082812294803,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,49,Low Vulnerability,0.2284581306664504,Low Vulnerability,domain_rule_replication,Random Forest
+Retail,Tasikmalaya,23,High Vulnerability,0.7896440692078572,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,44,Low Vulnerability,0.2796487331795671,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,80,High Vulnerability,0.8450829517297955,High Vulnerability,domain_rule_replication,Random Forest
+Retail,Garut,16,High Vulnerability,0.7768170909956855,High Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Indramayu,12,Medium Vulnerability,0.537113410663441,Medium Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,98,Low Vulnerability,0.23783387281311,Low Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Garut,21,Medium Vulnerability,0.4723419808934763,Medium Vulnerability,domain_rule_replication,Random Forest
+Wholesaler,Indramayu,9,Low Vulnerability,0.282417044297197,Low Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Tasikmalaya,12,High Vulnerability,0.7928598783872005,High Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Karawang,3,High Vulnerability,0.7186068577083352,High Vulnerability,domain_rule_replication,Random Forest
+Retail,Karawang,3,High Vulnerability,0.7954044026663777,High Vulnerability,domain_rule_replication,Random Forest
+Wholesaler,Indramayu,2,Low Vulnerability,0.2019933143458111,Low Vulnerability,domain_rule_replication,Random Forest
+Retail,Subang,18,High Vulnerability,0.8987419354838709,High Vulnerability,domain_rule_replication,Random Forest
+Retail,Subang,17,High Vulnerability,0.8862160404223579,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,1,Low Vulnerability,0.2268248303090736,Low Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Indramayu,7,High Vulnerability,0.6803291358018095,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,70,Low Vulnerability,0.233719302120012,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Subang,54,Low Vulnerability,0.2553194649843968,Low Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Indramayu,11,High Vulnerability,0.6893615406231495,High Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Indramayu,3,High Vulnerability,0.684461735821817,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Subang,58,Low Vulnerability,0.2712899110401567,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Karawang,47,Low Vulnerability,0.2818610648812971,Low Vulnerability,domain_rule_replication,Random Forest
+Retail,Tasikmalaya,25,High Vulnerability,0.8456728335661777,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Subang,18,Low Vulnerability,0.2120226318371375,Low Vulnerability,domain_rule_replication,Random Forest
+Retail,Tasikmalaya,7,High Vulnerability,0.7872091907594403,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,87,High Vulnerability,0.8469144517335183,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Karawang,35,Low Vulnerability,0.2543731966438486,Low Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Indramayu,5,Low Vulnerability,0.2593702524889292,Low Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Tasikmalaya,1,Medium Vulnerability,0.4241417649684945,Medium Vulnerability,domain_rule_replication,Random Forest
+Farmer,Karawang,21,Low Vulnerability,0.2402017246765481,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,84,Low Vulnerability,0.2410662855420572,Low Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Garut,23,High Vulnerability,0.7949235074648453,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,24,High Vulnerability,0.8634296395084071,High Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Tasikmalaya,9,High Vulnerability,0.7397794741820898,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Indramayu,46,Low Vulnerability,0.227359156603807,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,45,Medium Vulnerability,0.5645495030317731,Medium Vulnerability,domain_rule_replication,Random Forest
+Retail,Indramayu,10,High Vulnerability,0.8125316592036081,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,26,Low Vulnerability,0.2524647652145078,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,8,Low Vulnerability,0.2165022047484868,Low Vulnerability,domain_rule_replication,Random Forest
+Retail,Indramayu,12,High Vulnerability,0.8672271243503323,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,45,Low Vulnerability,0.2439148545839098,Low Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Indramayu,4,Low Vulnerability,0.1519106927452643,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Karawang,44,Low Vulnerability,0.1947308102320005,Low Vulnerability,domain_rule_replication,Random Forest
+Wholesaler,Indramayu,11,Low Vulnerability,0.2821462054884925,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,76,Low Vulnerability,0.229784384690466,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Indramayu,44,Low Vulnerability,0.2747340249743574,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Indramayu,8,High Vulnerability,0.6294748978726384,Medium Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Indramayu,1,Low Vulnerability,0.2308261552353785,Low Vulnerability,domain_rule_replication,Random Forest
+Retail,Tasikmalaya,12,High Vulnerability,0.7854044026663777,High Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Subang,9,Low Vulnerability,0.1570277987943875,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,79,High Vulnerability,0.8773425224728157,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,100,Low Vulnerability,0.2272883443917069,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Karawang,25,Low Vulnerability,0.2460113730888465,Low Vulnerability,domain_rule_replication,Random Forest
+Wholesaler,Indramayu,14,Low Vulnerability,0.2818957694035797,Low Vulnerability,domain_rule_replication,Random Forest
+Wholesaler,Garut,22,High Vulnerability,0.7466194314074682,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Karawang,27,Low Vulnerability,0.2805538143619889,Low Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Garut,11,Low Vulnerability,0.3255303702419264,Low Vulnerability,domain_rule_replication,Random Forest
+Retail,Indramayu,3,High Vulnerability,0.761411698196735,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Subang,22,Low Vulnerability,0.3740535710452232,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,92,High Vulnerability,0.6462513833749204,Medium Vulnerability,domain_rule_replication,Random Forest
+Farmer,Indramayu,22,Low Vulnerability,0.3684138507401709,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Karawang,51,Low Vulnerability,0.2665081760842263,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,73,Low Vulnerability,0.2534830018926282,Low Vulnerability,domain_rule_replication,Random Forest
+Retail,Karawang,8,High Vulnerability,0.7890079235001903,High Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Subang,13,High Vulnerability,0.7894671131423635,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Karawang,49,Low Vulnerability,0.285140078002802,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Indramayu,60,Low Vulnerability,0.2289585171842414,Low Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Tasikmalaya,27,Medium Vulnerability,0.4884804462300598,Medium Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,46,Low Vulnerability,0.3892737413681721,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Subang,61,Low Vulnerability,0.1279685958440709,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,35,Low Vulnerability,0.2784557354698455,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,66,Low Vulnerability,0.2492923748640926,Low Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Subang,8,Low Vulnerability,0.1906242565649318,Low Vulnerability,domain_rule_replication,Random Forest
+Retail,Garut,19,High Vulnerability,0.6988030240263492,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,10,Low Vulnerability,0.2316403140111516,Low Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Garut,13,High Vulnerability,0.6964980151387906,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Indramayu,48,Low Vulnerability,0.2899902565611576,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,62,Low Vulnerability,0.2328289737500812,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,35,Low Vulnerability,0.2802047378808227,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,32,Low Vulnerability,0.3826555870248326,Low Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Indramayu,6,High Vulnerability,0.6780873493493446,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Subang,13,Low Vulnerability,0.2781748593781792,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Subang,69,Low Vulnerability,0.2665086190553034,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,48,Low Vulnerability,0.2394352585289265,Low Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Garut,22,High Vulnerability,0.7949235074648453,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,46,Medium Vulnerability,0.4549528060943149,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,65,Low Vulnerability,0.2543693226918141,Low Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Tasikmalaya,17,High Vulnerability,0.7164778426805595,High Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Garut,5,High Vulnerability,0.7259196299173236,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Indramayu,59,Low Vulnerability,0.2691421133538768,Low Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Indramayu,8,Low Vulnerability,0.3327556204774627,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Indramayu,29,Low Vulnerability,0.222302493097233,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,43,Low Vulnerability,0.2477451681024675,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Subang,37,Low Vulnerability,0.260660817187488,Low Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Tasikmalaya,8,High Vulnerability,0.7466051422955307,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Indramayu,27,Low Vulnerability,0.3778567397631029,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Subang,24,Medium Vulnerability,0.564378600242529,Medium Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Indramayu,2,Low Vulnerability,0.3288630675526029,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Subang,64,Low Vulnerability,0.262570269275412,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,42,Low Vulnerability,0.2594344649874989,Low Vulnerability,domain_rule_replication,Random Forest
+Wholesaler,Indramayu,6,Low Vulnerability,0.3630389594502375,Low Vulnerability,domain_rule_replication,Random Forest
+Retail,Subang,14,High Vulnerability,0.7799164110586305,High Vulnerability,domain_rule_replication,Random Forest
+Retail,Karawang,7,High Vulnerability,0.7836779788449685,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Karawang,5,Low Vulnerability,0.2182063312639099,Low Vulnerability,domain_rule_replication,Random Forest
+Wholesaler,Indramayu,13,Low Vulnerability,0.0975,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,36,Low Vulnerability,0.2763876293789562,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Karawang,37,Low Vulnerability,0.2473172845805165,Low Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Garut,14,High Vulnerability,0.7059199780780608,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,25,Low Vulnerability,0.2457629643287742,Low Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Karawang,9,High Vulnerability,0.7013071504562697,High Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Subang,21,Low Vulnerability,0.170590860565171,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,60,Low Vulnerability,0.2373941547617543,Low Vulnerability,domain_rule_replication,Random Forest
+Retail,Subang,1,High Vulnerability,0.7000348236527126,High Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Karawang,3,High Vulnerability,0.6834940401621336,High Vulnerability,domain_rule_replication,Random Forest
+Retail,Garut,15,High Vulnerability,0.7795866061706125,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,83,Low Vulnerability,0.2271967965428246,Low Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Tasikmalaya,22,Medium Vulnerability,0.5154805353934458,Medium Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,5,Low Vulnerability,0.2372827442640172,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,19,Low Vulnerability,0.2122563469072204,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Karawang,43,Low Vulnerability,0.2685072406642534,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,70,Low Vulnerability,0.2262662911797878,Low Vulnerability,domain_rule_replication,Random Forest
+Wholesaler,Garut,25,High Vulnerability,0.7589534473203926,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Subang,50,Low Vulnerability,0.2857469697204239,Low Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Garut,8,High Vulnerability,0.7494207517910765,High Vulnerability,domain_rule_replication,Random Forest
+Retail,Garut,17,High Vulnerability,0.7737081736601286,High Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Indramayu,14,Low Vulnerability,0.1085793782086148,Low Vulnerability,domain_rule_replication,Random Forest
+Wholesaler,Subang,15,High Vulnerability,0.7658907120350672,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,39,Low Vulnerability,0.2278686362975309,Low Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Garut,24,Medium Vulnerability,0.4720938976209363,Medium Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Karawang,8,High Vulnerability,0.7328967256523887,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Subang,4,Low Vulnerability,0.2655439597810544,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,64,Low Vulnerability,0.2486052730530054,Low Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Tasikmalaya,25,Medium Vulnerability,0.4951918949633005,Medium Vulnerability,domain_rule_replication,Random Forest
+Farmer,Subang,17,Low Vulnerability,0.1982141975710112,Low Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Subang,4,Low Vulnerability,0.2530387478603708,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,8,Low Vulnerability,0.2639662493588027,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,28,Low Vulnerability,0.276602596001753,Low Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Subang,13,Low Vulnerability,0.2635269533222278,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,15,Low Vulnerability,0.2376272756605366,Low Vulnerability,domain_rule_replication,Random Forest
+Wholesaler,Subang,12,Low Vulnerability,0.2618710513753661,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,38,Low Vulnerability,0.2772677660625627,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Subang,14,High Vulnerability,0.8514968271050914,High Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Subang,2,Low Vulnerability,0.1631170156299199,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Subang,77,Low Vulnerability,0.2793962215680232,Low Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Garut,16,High Vulnerability,0.7060258012722981,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Subang,57,Low Vulnerability,0.2769070110599772,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,102,Low Vulnerability,0.230624357760948,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Subang,21,Low Vulnerability,0.3738999268939224,Low Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Indramayu,13,Low Vulnerability,0.1077463496350729,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,30,Low Vulnerability,0.2286696856275204,Low Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Tasikmalaya,7,High Vulnerability,0.7624568206406155,High Vulnerability,domain_rule_replication,Random Forest
+Wholesaler,Karawang,14,High Vulnerability,0.7522589436514815,High Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Karawang,14,High Vulnerability,0.9123771087366828,High Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Tasikmalaya,29,Medium Vulnerability,0.5383864334371931,Medium Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Tasikmalaya,25,High Vulnerability,0.8383251708114089,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,59,Low Vulnerability,0.2821025639875394,Low Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Tasikmalaya,10,Low Vulnerability,0.2559329773453138,Low Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Garut,12,High Vulnerability,0.7529751537954333,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Karawang,32,Low Vulnerability,0.2501892166399195,Low Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Karawang,4,Medium Vulnerability,0.416062487273977,Medium Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Subang,12,Low Vulnerability,0.1583125564942839,Low Vulnerability,domain_rule_replication,Random Forest
+Wholesaler,Karawang,4,High Vulnerability,0.7481624610957837,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,57,Low Vulnerability,0.2295927712986106,Low Vulnerability,domain_rule_replication,Random Forest
+Wholesaler,Subang,19,Low Vulnerability,0.291685609958589,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,41,Low Vulnerability,0.387817799783983,Low Vulnerability,domain_rule_replication,Random Forest
+Retail,Subang,16,High Vulnerability,0.836127879936236,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Karawang,29,Low Vulnerability,0.2404271340790115,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,56,Low Vulnerability,0.2256476259265219,Low Vulnerability,domain_rule_replication,Random Forest
+Retail,Tasikmalaya,28,High Vulnerability,0.8071403904494053,High Vulnerability,domain_rule_replication,Random Forest
+Middlemen,Karawang,10,Medium Vulnerability,0.4342153914836408,Medium Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Garut,21,High Vulnerability,0.7949235074648453,High Vulnerability,domain_rule_replication,Random Forest
+Wholesaler,Garut,4,High Vulnerability,0.8296280261617589,High Vulnerability,domain_rule_replication,Random Forest
+Wholesaler,Garut,6,High Vulnerability,0.7696055113891711,High Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,34,Low Vulnerability,0.2504516727438762,Low Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Indramayu,16,High Vulnerability,0.7693142793208789,High Vulnerability,domain_rule_replication,Random Forest
+Retail,Subang,8,High Vulnerability,0.8167953093914838,High Vulnerability,domain_rule_replication,Random Forest
+Rice Miller,Tasikmalaya,19,Medium Vulnerability,0.4406995078778071,Medium Vulnerability,domain_rule_replication,Random Forest
+Wholesaler,Karawang,11,High Vulnerability,0.7287230588606312,High Vulnerability,domain_rule_replication,Random Forest
+Wholesaler,Karawang,8,Low Vulnerability,0.2184690383338972,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Garut,47,High Vulnerability,0.8639958065670348,High Vulnerability,domain_rule_replication,Random Forest
+Retail,Tasikmalaya,2,High Vulnerability,0.9173833437729648,High Vulnerability,domain_rule_replication,Random Forest
+Wholesaler,Indramayu,5,Low Vulnerability,0.3639499084320132,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,7,Low Vulnerability,0.2041859211622634,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Indramayu,35,Low Vulnerability,0.2385329099601666,Low Vulnerability,domain_rule_replication,Random Forest
+Farmer,Tasikmalaya,109,Low Vulnerability,0.2248549820016133,Low Vulnerability,domain_rule_replication,Random Forest

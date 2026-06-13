@@ -1,0 +1,138 @@
+{
+  "method_name": "Method 3 - Paper-grounded weak labeling",
+  "target_flood": "FloodProbability",
+  "flood_features": [
+    "MonsoonIntensity",
+    "TopographyDrainage",
+    "RiverManagement",
+    "Deforestation",
+    "Urbanization",
+    "ClimateChange",
+    "DamsQuality",
+    "Siltation",
+    "AgriculturalPractices",
+    "Encroachments",
+    "IneffectiveDisasterPreparedness",
+    "DrainageSystems",
+    "CoastalVulnerability",
+    "Landslides",
+    "Watersheds",
+    "DeterioratingInfrastructure",
+    "PopulationScore",
+    "WetlandLoss",
+    "InadequatePlanning",
+    "PoliticalFactors"
+  ],
+  "rice_target": "vulnerability_label",
+  "label_order": [
+    "Low Vulnerability",
+    "Medium Vulnerability",
+    "High Vulnerability"
+  ],
+  "rule_weights": {
+    "financial_infeasibility_score": 0.35,
+    "margin_pressure_score": 0.25,
+    "operational_burden_score": 0.15,
+    "frontier_inefficiency_score": 0.1,
+    "precipitation_stress_score": 0.1,
+    "low_utilization_pressure": 0.05
+  },
+  "rule_component_columns": [
+    "financial_infeasibility_score",
+    "margin_pressure_score",
+    "operational_burden_score",
+    "frontier_inefficiency_score",
+    "precipitation_stress_score",
+    "low_utilization_pressure"
+  ],
+  "labeling_function_columns": [
+    "lf_below_break_even",
+    "lf_negative_margin",
+    "lf_high_composite_pressure",
+    "lf_thin_rc_buffer",
+    "lf_thin_margin_buffer",
+    "lf_medium_composite_pressure"
+  ],
+  "audit_only_columns": [
+    "vulnerability_cluster",
+    "cluster_support_score",
+    "cluster_support_label",
+    "rule_cluster_agreement",
+    "cluster_support_gap"
+  ],
+  "label_construction_columns": [
+    "final_vulnerability_score",
+    "rule_vulnerability_score",
+    "financial_infeasibility_score",
+    "margin_pressure_score",
+    "operational_burden_score",
+    "frontier_inefficiency_score",
+    "precipitation_stress_score",
+    "low_utilization_pressure",
+    "below_break_even_flag",
+    "negative_margin_flag",
+    "label_reason",
+    "label_source",
+    "labeling_function_hits",
+    "lf_below_break_even",
+    "lf_negative_margin",
+    "lf_high_composite_pressure",
+    "lf_thin_rc_buffer",
+    "lf_thin_margin_buffer",
+    "lf_medium_composite_pressure"
+  ],
+  "redundant_operational_exclude_columns": [
+    "rc_ratio"
+  ],
+  "admin_columns": [
+    "source_sheet",
+    "source_row",
+    "actor_role"
+  ],
+  "domain_references": {
+    "Weak supervision": {
+      "source": "Ratner et al. (2017). Snorkel: Rapid Training Data Creation with Weak Supervision.",
+      "use_in_notebook": "Justifies creating pseudo labels from transparent labeling functions when hand labels are unavailable."
+    },
+    "DEA / DMU efficiency": {
+      "source": "Charnes, A., Cooper, W. W., & Rhodes, E. (1978). Measuring the efficiency of decision making units. European Journal of Operational Research.",
+      "use_in_notebook": "Justifies actor-wise benchmarking of decision-making units through input-output efficiency logic."
+    },
+    "Variable returns / scale inefficiency": {
+      "source": "Banker, R. D., Charnes, A., & Cooper, W. W. (1984). Some models for estimating technical and scale inefficiencies in data envelopment analysis. Management Science.",
+      "use_in_notebook": "Supports the idea that efficiency differs by scale; this notebook uses a transparent actor-wise frontier approximation, not full LP DEA."
+    },
+    "Agricultural financial feasibility / R-C ratio": {
+      "source": "Gittinger, J. P. (1982). Economic Analysis of Agricultural Projects; Soekartawi (2002). Analisis Usahatani; benefit-cost analysis literature.",
+      "use_in_notebook": "R/C < 1 means revenue/output value is lower than cost, so the actor-region unit is below break-even and treated as high vulnerability."
+    },
+    "Margin health": {
+      "source": "Farm/enterprise financial feasibility logic.",
+      "use_in_notebook": "Negative or thin margin indicates limited financial buffer before disruption."
+    },
+    "Supply chain resilience": {
+      "source": "Ponomarov, S. Y., & Holcomb, M. C. (2009); Wieland, A., & Durach, C. F. (2021). Supply chain resilience literature.",
+      "use_in_notebook": "Operationally weak nodes are treated as less able to persist, adapt, or recover during flood-related disruption."
+    },
+    "Cluster validation": {
+      "source": "Rousseeuw, P. J. (1987). Silhouettes: A graphical aid to the interpretation and validation of cluster analysis.",
+      "use_in_notebook": "Silhouette validates cluster compactness/separation; clusters support audit only."
+    }
+  },
+  "labeling_policy": "Rule-based weak supervision is primary; clustering is support/audit only.",
+  "operational_model_policy": "Notebook 03 must exclude cluster outputs, rule scores, final scores, hard rule flags, labeling function outputs, labels, redundant inverse ratios, and admin identifiers from operational_prediction.",
+  "thresholds": {
+    "break_even_rc": 1.0,
+    "thin_rc_buffer": 1.15,
+    "thin_margin_ratio": 0.1,
+    "high_score_threshold": 0.62,
+    "medium_score_threshold": 0.4,
+    "high_vulnerability": "R/C < 1, margin < 0, or rule score >= 0.62",
+    "medium_vulnerability": "R/C < 1.15, margin_ratio < 0.10, or rule score >= 0.40",
+    "low_vulnerability": "otherwise"
+  },
+  "selected_cluster_k": 3,
+  "best_silhouette": 0.40597548991834054,
+  "cluster_agreement_rate": 0.7496823379923762,
+  "integration_note": "Scenario-based integration only; no row-wise merge."
+}

@@ -1,0 +1,5 @@
+decision,domain_basis,reference
+Use stress-test as sensitivity analysis,Supply chain resilience evaluates whether a chain can persist/adapt under disruption.,Ponomarov & Holcomb (2009); Wieland & Durach (2021)
+Use break-even survival threshold,Actor is financially viable when revenue covers cost; margin gives buffer before break-even.,Boardman et al. (2018); cost-benefit / break-even logic
+Use Low/Medium/High cost shock grid,Scenario grid for sensitivity analysis because observed flood-to-cost causal labels are unavailable.,Scenario analysis / supply-chain stress-test logic; Simchi-Levi et al. (2018)
+Do not train supervised model for stress impact,"No observed target for actual disruption, actual delay, or actual stockout exists in the provided datasets.",Data limitation statement

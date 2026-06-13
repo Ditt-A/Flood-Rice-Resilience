@@ -1,0 +1,17 @@
+flood_scenario,predicted_vulnerability_label,stress_risk_label,n_units,share_within_vulnerability
+High,High Vulnerability,Already Failed,270,0.996309963099631
+High,High Vulnerability,Critical Under High Stress,1,0.0036900369003690036
+High,Low Vulnerability,Critical Under High Stress,62,0.13747228381374724
+High,Low Vulnerability,Survives Scenario,389,0.8625277161862528
+High,Medium Vulnerability,Critical Under High Stress,65,1.0
+Low,High Vulnerability,Already Failed,270,0.996309963099631
+Low,High Vulnerability,Fails Under Scenario,1,0.0036900369003690036
+Low,Low Vulnerability,Borderline,8,0.017738359201773836
+Low,Low Vulnerability,Survives Scenario,443,0.9822616407982262
+Low,Medium Vulnerability,Borderline,36,0.5538461538461539
+Low,Medium Vulnerability,Fails Under Scenario,29,0.4461538461538462
+Medium,High Vulnerability,Already Failed,270,0.996309963099631
+Medium,High Vulnerability,Fails Under Scenario,1,0.0036900369003690036
+Medium,Low Vulnerability,Borderline,8,0.017738359201773836
+Medium,Low Vulnerability,Survives Scenario,443,0.9822616407982262
+Medium,Medium Vulnerability,Fails Under Scenario,65,1.0

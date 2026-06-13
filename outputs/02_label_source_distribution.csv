@@ -1,0 +1,6 @@
+vulnerability_label,label_source,n_units,share_within_label
+High Vulnerability,hard_rule_below_break_even,270,0.9854014598540146
+High Vulnerability,soft_rule_high_composite_pressure,4,0.014598540145985401
+Low Vulnerability,default_positive_buffer,450,1.0
+Medium Vulnerability,soft_rule_medium_composite_pressure,1,0.015873015873015872
+Medium Vulnerability,soft_rule_thin_financial_buffer,62,0.9841269841269841

@@ -1,0 +1,4 @@
+flood_scenario,Low Vulnerability,Medium Vulnerability,High Vulnerability
+Low,2,4,4
+Medium,4,5,5
+High,5,5,5

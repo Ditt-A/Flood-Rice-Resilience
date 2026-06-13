@@ -1,0 +1,6 @@
+actor,n_holdout,error_rate
+Farmer,95,0.031578947368421054
+Middlemen,30,0.0
+Retail,25,0.0
+Rice Miller,27,0.0
+Wholesaler,20,0.0

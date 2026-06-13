@@ -1,0 +1,198 @@
+actor,region,dmu,vulnerability_label,label_reason,total_cost,output_value,margin,cost_revenue_ratio,operational_burden_ratio,margin_ratio,predicted_vulnerability_label,is_error
+Rice Miller,Indramayu,3,Low Vulnerability,Positive financial/operational buffer,4249599538.461538,6126481959.378733,1876882420.9171944,0.6936443405266269,0.0080959250007435,0.306355659473373,Low Vulnerability,False
+Retail,Tasikmalaya,9,High Vulnerability,R/C < 1: below break-even; Negative margin,5500000.0,3000000.0,-2500000.0,1.8333333333333333,1.0166666666666666,-0.8333333333333334,High Vulnerability,False
+Retail,Tasikmalaya,16,High Vulnerability,R/C < 1: below break-even; Negative margin,6295000.0,3000000.0,-3295000.0,2.098333333333333,1.2,-1.0983333333333334,High Vulnerability,False
+Rice Miller,Karawang,1,Medium Vulnerability,Thin R/C buffer; Thin margin buffer,677300000.0,720720000.0,43420000.0,0.9397546897546898,0.0131812631812631,0.0602453102453102,Medium Vulnerability,False
+Farmer,Tasikmalaya,77,Low Vulnerability,Far from actor frontier,6604900.0,16200000.0,9595100.0,0.4077098765432099,0.2857716049382716,0.5922901234567901,Low Vulnerability,False
+Wholesaler,Subang,7,Low Vulnerability,Far from actor frontier; High precipitation proxy exposure,84700000.0,120000000.0,35300000.0,0.7058333333333333,0.1225,0.2941666666666667,Low Vulnerability,False
+Retail,Tasikmalaya,8,High Vulnerability,R/C < 1: below break-even; Negative margin,6095000.0,3000000.0,-3095000.0,2.0316666666666667,1.1333333333333333,-1.0316666666666667,High Vulnerability,False
+Middlemen,Indramayu,16,Medium Vulnerability,Thin R/C buffer; Thin margin buffer,973100000.0,1056000000.0,82900000.0,0.921496212121212,0.012405303030303,0.0785037878787878,Medium Vulnerability,False
+Farmer,Tasikmalaya,44,Low Vulnerability,Far from actor frontier,8762200.0,17550000.0,8787800.0,0.4992706552706553,0.3649572649572649,0.5007293447293447,Low Vulnerability,False
+Wholesaler,Subang,10,Low Vulnerability,Far from actor frontier; High precipitation proxy exposure,341000000.0,547500000.0,206500000.0,0.6228310502283105,0.0474885844748858,0.3771689497716895,Low Vulnerability,False
+Rice Miller,Karawang,10,High Vulnerability,R/C < 1: below break-even; Negative margin,67987594.96676165,63200000.000000015,-4787594.966761634,1.0757530849171144,0.2054999203601526,-0.0757530849171144,High Vulnerability,False
+Farmer,Garut,49,Low Vulnerability,Positive financial/operational buffer,2135000.0,6550000.0,4415000.0,0.3259541984732824,0.199236641221374,0.6740458015267176,Low Vulnerability,False
+Retail,Tasikmalaya,23,High Vulnerability,R/C < 1: below break-even; Negative margin,6295000.0,3520000.0,-2775000.0,1.7883522727272727,1.0227272727272727,-0.7883522727272727,High Vulnerability,False
+Farmer,Garut,44,Low Vulnerability,Far from actor frontier,21882000.0,28800000.0,6918000.0,0.7597916666666666,0.5565972222222222,0.2402083333333333,Low Vulnerability,False
+Farmer,Garut,80,High Vulnerability,R/C < 1: below break-even; Negative margin; Far from actor frontier,12842500.0,12840000.0,-2500.0,1.0001947040498442,0.7093068535825545,-0.0001947040498442,High Vulnerability,False
+Retail,Garut,16,High Vulnerability,R/C < 1: below break-even; Negative margin,6325000.0,3500000.0,-2825000.0,1.8071428571428567,1.1,-0.8071428571428572,High Vulnerability,False
+Rice Miller,Indramayu,12,Medium Vulnerability,Thin R/C buffer; Thin margin buffer,366599538.4615385,376908000.0,10308461.538461506,0.9726499264052196,0.1766997210500666,0.0273500735947804,Medium Vulnerability,False
+Farmer,Tasikmalaya,98,Low Vulnerability,Far from actor frontier,681000.0,1620000.0,939000.0,0.4203703703703704,0.3179012345679012,0.5796296296296296,Low Vulnerability,False
+Middlemen,Garut,21,Medium Vulnerability,Thin R/C buffer; Thin margin buffer,86900000.0,88000000.0,1100000.0,0.9875,0.0443181818181818,0.0125,Medium Vulnerability,False
+Wholesaler,Indramayu,9,Low Vulnerability,Far from actor frontier,1097000000.0,1320000000.0,223000000.0,0.831060606060606,0.0128787878787878,0.1689393939393939,Low Vulnerability,False
+Middlemen,Tasikmalaya,12,High Vulnerability,R/C < 1: below break-even; Negative margin,41600000.0,22880000.0,-18720000.0,1.818181818181818,0.6971153846153846,-0.8181818181818182,High Vulnerability,False
+Rice Miller,Karawang,3,High Vulnerability,R/C < 1: below break-even; Negative margin,166487594.96676165,158100000.0,-8387594.966761649,1.0530524665829326,0.0663351990307504,-0.0530524665829326,High Vulnerability,False
+Retail,Karawang,3,High Vulnerability,R/C < 1: below break-even; Negative margin,6095000.0,3000000.0,-3095000.0,2.0316666666666667,1.1333333333333333,-1.0316666666666667,High Vulnerability,False
+Wholesaler,Indramayu,2,Low Vulnerability,Far from actor frontier,132000000.0,180000000.0,48000000.0,0.7333333333333333,0.1,0.2666666666666666,Low Vulnerability,False
+Retail,Subang,18,High Vulnerability,R/C < 1: below break-even; Negative margin; High operational burden,4650000.0,1800000.0,-2850000.0,2.583333333333333,1.805555555555556,-1.5833333333333333,High Vulnerability,False
+Retail,Subang,17,High Vulnerability,R/C < 1: below break-even; Negative margin; High operational burden,5000000.0,2000000.0,-3000000.0,2.5,1.625,-1.5,High Vulnerability,False
+Farmer,Tasikmalaya,1,Low Vulnerability,Positive financial/operational buffer,17227000.0,54450000.0,37223000.0,0.3163820018365473,0.188337924701561,0.6836179981634527,Low Vulnerability,False
+Middlemen,Indramayu,7,High Vulnerability,R/C < 1: below break-even; Negative margin,100000000.0,88000000.0,-12000000.0,1.1363636363636365,0.1931818181818181,-0.1363636363636363,High Vulnerability,False
+Farmer,Tasikmalaya,70,Low Vulnerability,Positive financial/operational buffer,4480480.0,13050000.0,8569520.0,0.3433318007662835,0.2062068965517241,0.6566681992337164,Low Vulnerability,False
+Farmer,Subang,54,Low Vulnerability,Far from actor frontier,6190000.0,14080000.0,7890000.0,0.4396306818181818,0.2606534090909091,0.5603693181818182,Low Vulnerability,False
+Middlemen,Indramayu,11,High Vulnerability,R/C < 1: below break-even; Negative margin,106200000.0,88000000.0,-18200000.0,1.2068181818181818,0.2636363636363636,-0.2068181818181818,High Vulnerability,False
+Middlemen,Indramayu,3,High Vulnerability,R/C < 1: below break-even; Negative margin,102806035.0,88000000.0,-14806035.0,1.168250397727273,0.2250685795454545,-0.1682503977272727,High Vulnerability,False
+Farmer,Subang,58,Low Vulnerability,Far from actor frontier,24590000.0,43500000.0,18910000.0,0.5652873563218391,0.3744827586206896,0.4347126436781609,Low Vulnerability,False
+Farmer,Karawang,47,Low Vulnerability,Far from actor frontier,33690000.0,48000000.0,14310000.0,0.701875,0.320625,0.298125,Low Vulnerability,False
+Retail,Tasikmalaya,25,High Vulnerability,R/C < 1: below break-even; Negative margin; High operational burden,5800000.0,2000000.0,-3800000.0,2.9,1.675,-1.9,High Vulnerability,False
+Farmer,Subang,18,Low Vulnerability,Positive financial/operational buffer,4379000.0,17550000.0,13171000.0,0.2495156695156695,0.1170940170940171,0.7504843304843305,Low Vulnerability,False
+Retail,Tasikmalaya,7,High Vulnerability,R/C < 1: below break-even; Negative margin,6145000.0,3000000.0,-3145000.0,2.0483333333333333,1.15,-1.0483333333333331,High Vulnerability,False
+Farmer,Garut,87,High Vulnerability,R/C < 1: below break-even; Negative margin; Far from actor frontier,12856400.0,12600000.0,-256400.0,1.0203492063492063,0.7252380952380952,-0.0203492063492063,High Vulnerability,False
+Farmer,Karawang,35,Low Vulnerability,Far from actor frontier,43890000.0,99000000.0,55110000.0,0.4433333333333333,0.1736363636363636,0.5566666666666666,Low Vulnerability,False
+Rice Miller,Indramayu,5,Low Vulnerability,Positive financial/operational buffer,612190075.9734093,748695750.128008,136505674.1545987,0.8176753719634983,0.0162817485892301,0.1823246280365017,Low Vulnerability,False
+Rice Miller,Tasikmalaya,1,Medium Vulnerability,Thin R/C buffer; Thin margin buffer,605194576.4482431,662400000.0,57205423.55175686,0.9136391552660676,0.0078420538167921,0.0863608447339324,Medium Vulnerability,False
+Farmer,Karawang,21,Low Vulnerability,Positive financial/operational buffer,51390000.0,148500000.0,97110000.0,0.346060606060606,0.1224915824915824,0.6539393939393939,Low Vulnerability,False
+Farmer,Garut,84,Low Vulnerability,Positive financial/operational buffer,3360000.0,9300000.0,5940000.0,0.3612903225806451,0.1784946236559139,0.6387096774193548,Low Vulnerability,False
+Rice Miller,Garut,23,High Vulnerability,R/C < 1: below break-even; Negative margin,8745037.98670466,5920000.0,-2825037.9867046606,1.4772023626190305,0.6326077680244359,-0.4772023626190305,High Vulnerability,False
+Farmer,Garut,24,High Vulnerability,R/C < 1: below break-even; Negative margin; Far from actor frontier,8194000.0,6750000.0,-1444000.0,1.213925925925926,0.8696296296296296,-0.2139259259259259,High Vulnerability,False
+Middlemen,Tasikmalaya,9,High Vulnerability,R/C < 1: below break-even; Negative margin,24785346.79825165,17100000.0,-7685346.798251651,1.4494354852778744,0.4318916256287515,-0.4494354852778743,High Vulnerability,False
+Farmer,Indramayu,46,Low Vulnerability,Positive financial/operational buffer,30460000.0,94050000.0,63590000.0,0.3238702817650186,0.2003189792663476,0.6761297182349814,Low Vulnerability,False
+Farmer,Garut,45,Medium Vulnerability,Thin R/C buffer; Thin margin buffer; Far from actor frontier,16980000.0,18600000.0,1620000.0,0.9129032258064516,0.6451612903225806,0.0870967741935483,Medium Vulnerability,False
+Retail,Indramayu,10,High Vulnerability,R/C < 1: below break-even; Negative margin; High operational burden,6095000.0,2500000.0,-3595000.0,2.438,1.36,-1.438,High Vulnerability,False
+Farmer,Garut,26,Low Vulnerability,Far from actor frontier,14450000.0,34650000.0,20200000.0,0.417027417027417,0.1818181818181818,0.5829725829725829,Low Vulnerability,False
+Farmer,Tasikmalaya,8,Low Vulnerability,Positive financial/operational buffer,25770000.0,94050000.0,68280000.0,0.2740031897926634,0.1504518872939925,0.7259968102073365,Low Vulnerability,False
+Retail,Indramayu,12,High Vulnerability,R/C < 1: below break-even; Negative margin; High operational burden,7795000.0,3500000.0,-4295000.0,2.2271428571428573,1.457142857142857,-1.227142857142857,High Vulnerability,False
+Farmer,Tasikmalaya,45,Low Vulnerability,Far from actor frontier,6822000.0,16200000.0,9378000.0,0.4211111111111111,0.2981481481481481,0.5788888888888889,Low Vulnerability,False
+Rice Miller,Indramayu,4,Low Vulnerability,Positive financial/operational buffer,1619199538.4615386,2488719167.09336,869519628.6318214,0.6506156097767527,0.0077146263489271,0.3493843902232472,Low Vulnerability,False
+Farmer,Karawang,44,Low Vulnerability,Positive financial/operational buffer,50970000.0,252900000.0,201930000.0,0.2015421115065243,0.0715697904310004,0.7984578884934757,Low Vulnerability,False
+Wholesaler,Indramayu,11,Low Vulnerability,Far from actor frontier,2186000000.0,2640000000.0,454000000.0,0.828030303030303,0.0098484848484848,0.1719696969696969,Low Vulnerability,False
+Farmer,Tasikmalaya,76,Low Vulnerability,Positive financial/operational buffer,4941340.0,14850000.0,9908660.0,0.3327501683501683,0.205986531986532,0.6672498316498316,Low Vulnerability,False
+Farmer,Indramayu,44,Low Vulnerability,Far from actor frontier,49110000.0,83750000.0,34640000.0,0.5863880597014925,0.3485373134328358,0.4136119402985074,Low Vulnerability,False
+Farmer,Indramayu,8,High Vulnerability,Thin R/C buffer; Thin margin buffer; Far from actor frontier,6470000.0,6550000.0,80000.0,0.9877862595419848,0.7465648854961832,0.0122137404580152,Medium Vulnerability,True
+Middlemen,Indramayu,1,Low Vulnerability,Positive financial/operational buffer,53300000.0,66000000.0,12700000.0,0.8075757575757576,0.0575757575757575,0.1924242424242424,Low Vulnerability,False
+Retail,Tasikmalaya,12,High Vulnerability,R/C < 1: below break-even; Negative margin,6095000.0,3000000.0,-3095000.0,2.0316666666666667,1.1333333333333333,-1.0316666666666667,High Vulnerability,False
+Rice Miller,Subang,9,Low Vulnerability,Positive financial/operational buffer,216300000.0,309591764.729476,93291764.72947598,0.6986619950598649,0.0155042883785823,0.3013380049401351,Low Vulnerability,False
+Farmer,Garut,79,High Vulnerability,R/C < 1: below break-even; Negative margin; Far from actor frontier,13186000.0,9600000.0,-3586000.0,1.3735416666666669,1.0104166666666667,-0.3735416666666666,High Vulnerability,False
+Farmer,Tasikmalaya,100,Low Vulnerability,Positive financial/operational buffer,17352000.0,54450000.0,37098000.0,0.3186776859504132,0.1906336088154269,0.6813223140495868,Low Vulnerability,False
+Farmer,Karawang,25,Low Vulnerability,Positive financial/operational buffer,58100000.0,153000000.0,94900000.0,0.3797385620915032,0.1627450980392157,0.6202614379084967,Low Vulnerability,False
+Wholesaler,Indramayu,14,Low Vulnerability,Far from actor frontier,6539000000.0,8200000000.000008,1661000000.0000076,0.7974390243902432,0.0071951219512195,0.2025609756097568,Low Vulnerability,False
+Wholesaler,Garut,22,High Vulnerability,R/C < 1: below break-even; Negative margin; Far from actor frontier,95000000.0,88000000.0,-7000000.0,1.0795454545454546,0.1704545454545454,-0.0795454545454545,High Vulnerability,False
+Farmer,Karawang,27,Low Vulnerability,Far from actor frontier,32530000.0,50500000.0,17970000.0,0.6441584158415842,0.3732673267326732,0.3558415841584158,Low Vulnerability,False
+Rice Miller,Garut,11,Low Vulnerability,Positive financial/operational buffer,84490146.65440015,97800000.0,13309853.345599843,0.8639074300040915,0.0970362643599197,0.1360925699959084,Low Vulnerability,False
+Retail,Indramayu,3,High Vulnerability,R/C < 1: below break-even; Negative margin,5962500.0,3500000.0,-2462500.0,1.7035714285714283,0.9571428571428572,-0.7035714285714286,High Vulnerability,False
+Farmer,Subang,22,Low Vulnerability,Far from actor frontier,18922000.0,23850000.0,4928000.0,0.7933752620545074,0.6607966457023061,0.2066247379454926,Low Vulnerability,False
+Farmer,Garut,92,High Vulnerability,Thin R/C buffer; Thin margin buffer; Far from actor frontier,8054000.0,8180000.0,126000.0,0.9845965770171148,0.7004889975550123,0.015403422982885,Medium Vulnerability,True
+Farmer,Indramayu,22,Low Vulnerability,Far from actor frontier,33890000.0,41600000.0,7710000.0,0.8146634615384616,0.6776442307692307,0.1853365384615384,Low Vulnerability,False
+Farmer,Karawang,51,Low Vulnerability,Far from actor frontier,33700000.0,63000000.0,29300000.0,0.5349206349206349,0.2523809523809524,0.4650793650793651,Low Vulnerability,False
+Farmer,Tasikmalaya,73,Low Vulnerability,Far from actor frontier,6372160.0,13050000.0,6677840.0,0.488288122605364,0.3654099616858237,0.511711877394636,Low Vulnerability,False
+Retail,Karawang,8,High Vulnerability,R/C < 1: below break-even; Negative margin,6195000.0,3000000.0,-3195000.0,2.065,1.1666666666666667,-1.065,High Vulnerability,False
+Middlemen,Subang,13,High Vulnerability,R/C < 1: below break-even; Negative margin; High precipitation proxy exposure,171700000.0,148500000.0,-23200000.0,1.1562289562289565,0.0383838383838383,-0.1562289562289562,High Vulnerability,False
+Farmer,Karawang,49,Low Vulnerability,Far from actor frontier,28150000.0,41600000.0,13450000.0,0.6766826923076923,0.4372596153846154,0.3233173076923077,Low Vulnerability,False
+Farmer,Indramayu,60,Low Vulnerability,Positive financial/operational buffer,22090000.0,66150000.0,44060000.0,0.3339380196523053,0.1993953136810279,0.6660619803476946,Low Vulnerability,False
+Middlemen,Tasikmalaya,27,Medium Vulnerability,Thin R/C buffer; Thin margin buffer,86380000.0,88000000.0,1620000.0,0.9815909090909092,0.0384090909090909,0.0184090909090909,Medium Vulnerability,False
+Farmer,Garut,46,Low Vulnerability,Far from actor frontier,8244000.0,9900000.0,1656000.0,0.8327272727272728,0.597979797979798,0.1672727272727272,Low Vulnerability,False
+Farmer,Subang,61,Low Vulnerability,Positive financial/operational buffer,7950000.0,67900000.0,59950000.0,0.1170839469808542,0.0720176730486008,0.8829160530191458,Low Vulnerability,False
+Farmer,Garut,35,Low Vulnerability,Far from actor frontier,17042000.0,27540000.0,10498000.0,0.6188090050835149,0.3656499636891794,0.3811909949164851,Low Vulnerability,False
+Farmer,Tasikmalaya,66,Low Vulnerability,Far from actor frontier,6343000.0,13950000.0,7607000.0,0.4546953405017921,0.3297491039426523,0.5453046594982078,Low Vulnerability,False
+Middlemen,Subang,8,Low Vulnerability,High precipitation proxy exposure,59700000.0,88200000.0,28500000.0,0.6768707482993197,0.1099773242630385,0.3231292517006803,Low Vulnerability,False
+Retail,Garut,19,High Vulnerability,R/C < 1: below break-even; Negative margin,3945000.0,3000000.0,-945000.0,1.315,0.4166666666666667,-0.315,High Vulnerability,False
+Farmer,Tasikmalaya,10,Low Vulnerability,Positive financial/operational buffer,16831000.0,49500000.0,32669000.0,0.340020202020202,0.2109090909090909,0.659979797979798,Low Vulnerability,False
+Middlemen,Garut,13,High Vulnerability,R/C < 1: below break-even; Negative margin,38300000.0,29040000.0,-9260000.0,1.318870523415978,0.1825068870523416,-0.3188705234159779,High Vulnerability,False
+Farmer,Indramayu,48,Low Vulnerability,Far from actor frontier,32200000.0,44550000.0,12350000.0,0.7227833894500562,0.4619528619528619,0.2772166105499439,Low Vulnerability,False
+Farmer,Garut,62,Low Vulnerability,Positive financial/operational buffer,3269000.0,9900000.0,6631000.0,0.3302020202020202,0.1747474747474747,0.6697979797979798,Low Vulnerability,False
+Farmer,Tasikmalaya,35,Low Vulnerability,Far from actor frontier,6556000.0,9900000.0,3344000.0,0.6622222222222223,0.3101010101010101,0.3377777777777778,Low Vulnerability,False
+Farmer,Tasikmalaya,32,Low Vulnerability,Far from actor frontier,2952400.0,3564000.0,611600.0,0.828395061728395,0.4371492704826038,0.1716049382716049,Low Vulnerability,False
+Middlemen,Indramayu,6,High Vulnerability,R/C < 1: below break-even; Negative margin,98500000.0,88000000.0,-10500000.0,1.119318181818182,0.1761363636363636,-0.1193181818181818,High Vulnerability,False
+Farmer,Subang,13,Low Vulnerability,Far from actor frontier,16607000.0,23400000.0,6793000.0,0.7097008547008548,0.5745726495726495,0.2902991452991453,Low Vulnerability,False
+Farmer,Subang,69,Low Vulnerability,Far from actor frontier,4978000.0,9700000.0,4722000.0,0.5131958762886598,0.322680412371134,0.4868041237113402,Low Vulnerability,False
+Farmer,Garut,48,Low Vulnerability,Positive financial/operational buffer,5783200.0,14850000.0,9066800.0,0.3894410774410774,0.2642424242424242,0.6105589225589225,Low Vulnerability,False
+Rice Miller,Garut,22,High Vulnerability,R/C < 1: below break-even; Negative margin,8745037.98670466,5920000.0,-2825037.9867046606,1.4772023626190305,0.6326077680244359,-0.4772023626190305,High Vulnerability,False
+Farmer,Tasikmalaya,46,Medium Vulnerability,Far from actor frontier,12391000.0,14340000.0,1949000.0,0.8640864714086471,0.6209902370990237,0.1359135285913528,Low Vulnerability,True
+Farmer,Garut,65,Low Vulnerability,Far from actor frontier,3502000.0,8100000.0,4598000.0,0.4323456790123456,0.1864197530864197,0.5676543209876543,Low Vulnerability,False
+Rice Miller,Tasikmalaya,17,High Vulnerability,R/C < 1: below break-even; Negative margin,32345037.98670466,32300000.0,-45037.98670465872,1.001394364913457,0.1190414237369863,-0.0013943649134569,High Vulnerability,False
+Middlemen,Garut,5,High Vulnerability,R/C < 1: below break-even; Negative margin,11670000.0,8100000.0,-3570000.0,1.4407407407407409,0.5185185185185185,-0.4407407407407407,High Vulnerability,False
+Farmer,Indramayu,59,Low Vulnerability,Far from actor frontier,33870000.0,62440000.0,28570000.0,0.5424407431133889,0.3297565663036515,0.4575592568866111,Low Vulnerability,False
+Rice Miller,Indramayu,8,Low Vulnerability,Positive financial/operational buffer,346537513.2953467,402887182.6932923,56349669.39794564,0.8601353634006192,0.1155100367905586,0.1398646365993807,Low Vulnerability,False
+Farmer,Indramayu,29,Low Vulnerability,Positive financial/operational buffer,6182000.0,18600000.0,12418000.0,0.3323655913978494,0.1994623655913978,0.6676344086021505,Low Vulnerability,False
+Farmer,Garut,43,Low Vulnerability,Positive financial/operational buffer,6309000.0,16200000.0,9891000.0,0.3894444444444444,0.1537654320987654,0.6105555555555555,Low Vulnerability,False
+Farmer,Subang,37,Low Vulnerability,Far from actor frontier,8560000.0,17050000.0,8490000.0,0.5020527859237537,0.3067448680351906,0.4979472140762463,Low Vulnerability,False
+Middlemen,Tasikmalaya,8,High Vulnerability,R/C < 1: below break-even; Negative margin,22500000.0,13200000.0,-9300000.0,1.7045454545454546,0.25,-0.7045454545454546,High Vulnerability,False
+Farmer,Indramayu,27,Low Vulnerability,Far from actor frontier,26290000.0,32850000.0,6560000.0,0.8003044140030442,0.673972602739726,0.1996955859969558,Low Vulnerability,False
+Farmer,Subang,24,Medium Vulnerability,Thin R/C buffer; Thin margin buffer; Far from actor frontier,77290000.0,84150000.0,6860000.0,0.9184789067142008,0.6225787284610814,0.0815210932857991,Medium Vulnerability,False
+Rice Miller,Indramayu,2,Low Vulnerability,Positive financial/operational buffer,355525108.2621083,415320000.0,59794891.73789168,0.8560269388955705,0.1336923535156225,0.1439730611044295,Low Vulnerability,False
+Farmer,Subang,64,Low Vulnerability,Far from actor frontier,11960000.0,24150000.0,12190000.0,0.4952380952380952,0.2853002070393374,0.5047619047619047,Low Vulnerability,False
+Farmer,Tasikmalaya,42,Low Vulnerability,Far from actor frontier,8945200.0,17550000.0,8604800.0,0.5096980056980057,0.3706552706552706,0.4903019943019943,Low Vulnerability,False
+Wholesaler,Indramayu,6,Low Vulnerability,Far from actor frontier,154160000.0,180000000.0,25840000.0,0.8564444444444445,0.2231111111111111,0.1435555555555555,Low Vulnerability,False
+Retail,Subang,14,High Vulnerability,R/C < 1: below break-even; Negative margin; High precipitation proxy exposure,4362500.0,3000000.0,-1362500.0,1.4541666666666666,0.5833333333333334,-0.4541666666666666,High Vulnerability,False
+Retail,Karawang,7,High Vulnerability,R/C < 1: below break-even; Negative margin,5875000.0,3000000.0,-2875000.0,1.9583333333333333,1.1333333333333333,-0.9583333333333334,High Vulnerability,False
+Farmer,Karawang,5,Low Vulnerability,Positive financial/operational buffer,74990000.0,267300000.0,192310000.0,0.280546202768425,0.156341189674523,0.719453797231575,Low Vulnerability,False
+Wholesaler,Indramayu,13,Low Vulnerability,Positive financial/operational buffer,131000000.0,5292000000.0,5161000000.0,0.0247543461829176,0.0032123960695389,0.9752456538170824,Low Vulnerability,False
+Farmer,Tasikmalaya,36,Low Vulnerability,Far from actor frontier,5750200.0,9300000.0,3549800.0,0.6183010752688172,0.2934408602150538,0.3816989247311828,Low Vulnerability,False
+Farmer,Karawang,37,Low Vulnerability,Positive financial/operational buffer,45530000.0,117002000.0,71472000.0,0.3891386472026119,0.158031486641254,0.6108613527973881,Low Vulnerability,False
+Middlemen,Garut,14,High Vulnerability,R/C < 1: below break-even; Negative margin,43000000.0,31680000.0,-11320000.0,1.3573232323232325,0.2777777777777778,-0.3573232323232323,High Vulnerability,False
+Farmer,Garut,25,Low Vulnerability,Positive financial/operational buffer,5610000.0,14850000.0,9240000.0,0.3777777777777777,0.1542087542087542,0.6222222222222222,Low Vulnerability,False
+Middlemen,Karawang,9,High Vulnerability,R/C < 1: below break-even; Negative margin,18400000.0,15000000.0,-3400000.0,1.2266666666666666,0.2266666666666666,-0.2266666666666666,High Vulnerability,False
+Middlemen,Subang,21,Low Vulnerability,High precipitation proxy exposure,267200000.0,448200000.0,181000000.0,0.5961624274877287,0.038375725122713,0.4038375725122713,Low Vulnerability,False
+Farmer,Garut,60,Low Vulnerability,Positive financial/operational buffer,3289000.0,9400000.0,6111000.0,0.3498936170212766,0.1861702127659574,0.6501063829787234,Low Vulnerability,False
+Retail,Subang,1,High Vulnerability,R/C < 1: below break-even; Negative margin,3595000.0,2500000.0,-1095000.0,1.438,0.36,-0.438,High Vulnerability,False
+Middlemen,Karawang,3,High Vulnerability,R/C < 1: below break-even; Negative margin,52700000.0,45000000.0,-7700000.0,1.1711111111111112,0.2488888888888888,-0.1711111111111111,High Vulnerability,False
+Retail,Garut,15,High Vulnerability,R/C < 1: below break-even; Negative margin,5935000.0,3000000.0,-2935000.0,1.9783333333333333,1.08,-0.9783333333333334,High Vulnerability,False
+Farmer,Tasikmalaya,83,Low Vulnerability,Positive financial/operational buffer,576000.0,1620000.0,1044000.0,0.3555555555555555,0.2530864197530864,0.6444444444444445,Low Vulnerability,False
+Rice Miller,Tasikmalaya,22,Medium Vulnerability,Thin R/C buffer; Thin margin buffer,16150000.0,16456000.0,306000.0,0.981404958677686,0.1306514341273699,0.018595041322314,Medium Vulnerability,False
+Farmer,Garut,5,Low Vulnerability,Positive financial/operational buffer,3778000.0,10200000.0,6422000.0,0.3703921568627451,0.2401960784313725,0.6296078431372549,Low Vulnerability,False
+Farmer,Tasikmalaya,19,Low Vulnerability,Positive financial/operational buffer,3152600.0,12250000.0,9097400.0,0.2573551020408163,0.1340408163265306,0.7426448979591836,Low Vulnerability,False
+Farmer,Karawang,43,Low Vulnerability,Far from actor frontier,37735000.0,67200000.0,29465000.0,0.5615327380952381,0.2483630952380952,0.4384672619047619,Low Vulnerability,False
+Farmer,Garut,70,Low Vulnerability,Positive financial/operational buffer,8010000.0,25650000.0,17640000.0,0.312280701754386,0.1828460038986354,0.6877192982456141,Low Vulnerability,False
+Wholesaler,Garut,25,High Vulnerability,R/C < 1: below break-even; Negative margin; Far from actor frontier,128000000.0,36000000.0,-92000000.0,3.555555555555556,0.3888888888888889,-2.555555555555556,High Vulnerability,False
+Farmer,Subang,50,Low Vulnerability,Far from actor frontier,34270000.0,50050000.0,15780000.0,0.6847152847152848,0.4193806193806194,0.3152847152847153,Low Vulnerability,False
+Middlemen,Garut,8,High Vulnerability,R/C < 1: below break-even; Negative margin,28950000.0,15840000.0,-13110000.0,1.8276515151515151,0.6912878787878788,-0.8276515151515151,High Vulnerability,False
+Retail,Garut,17,High Vulnerability,R/C < 1: below break-even; Negative margin,6395000.0,3500000.0,-2895000.0,1.8271428571428567,1.0571428571428572,-0.8271428571428572,High Vulnerability,False
+Middlemen,Indramayu,14,Low Vulnerability,Positive financial/operational buffer,142000000.0,190000000.0,48000000.0,0.7473684210526316,0.1157894736842105,0.2526315789473684,Low Vulnerability,False
+Wholesaler,Subang,15,High Vulnerability,R/C < 1: below break-even; Negative margin; Far from actor frontier,150000000.0,135000000.0,-15000000.0,1.1111111111111112,0.2777777777777778,-0.1111111111111111,High Vulnerability,False
+Farmer,Tasikmalaya,39,Low Vulnerability,Positive financial/operational buffer,6345900.0,19800000.0,13454100.0,0.3205,0.1913888888888889,0.6795,Low Vulnerability,False
+Middlemen,Garut,24,Medium Vulnerability,Thin R/C buffer; Thin margin buffer,86750000.0,88000000.0,1250000.0,0.9857954545454546,0.0426136363636363,0.0142045454545454,Medium Vulnerability,False
+Rice Miller,Karawang,8,High Vulnerability,R/C < 1: below break-even; Negative margin,94285113.96011396,83800000.0,-10485113.960113972,1.125120691648138,0.1764333408128159,-0.1251206916481381,High Vulnerability,False
+Farmer,Subang,4,Low Vulnerability,Far from actor frontier,19536000.0,37720000.0,18184000.0,0.5179215270413574,0.264050901378579,0.4820784729586426,Low Vulnerability,False
+Farmer,Tasikmalaya,64,Low Vulnerability,Far from actor frontier,5876800.0,13050000.0,7173200.0,0.4503295019157088,0.3256704980842911,0.5496704980842911,Low Vulnerability,False
+Middlemen,Tasikmalaya,25,Medium Vulnerability,Thin R/C buffer; Thin margin buffer,85607069.35965033,88000000.0,2392930.6403496712,0.9728076063596628,0.0296257881778446,0.0271923936403371,Medium Vulnerability,False
+Farmer,Subang,17,Low Vulnerability,Positive financial/operational buffer,6971200.0,33300000.0,26328800.0,0.2093453453453453,0.0837237237237237,0.7906546546546547,Low Vulnerability,False
+Rice Miller,Subang,4,Low Vulnerability,Positive financial/operational buffer,281000000.0,364949226.0340217,83949226.03402168,0.7699701217445638,0.016440643168923,0.2300298782554362,Low Vulnerability,False
+Farmer,Garut,8,Low Vulnerability,Far from actor frontier,3994000.0,7850000.0,3856000.0,0.5087898089171975,0.2127388535031847,0.4912101910828025,Low Vulnerability,False
+Farmer,Tasikmalaya,28,Low Vulnerability,Far from actor frontier,8157600.0,13050000.0,4892400.0,0.6251034482758621,0.2867432950191571,0.3748965517241379,Low Vulnerability,False
+Rice Miller,Subang,13,Low Vulnerability,Positive financial/operational buffer,214780151.94681865,253031916.709336,38251764.76251736,0.8488263249159271,0.0584122040374731,0.1511736750840729,Low Vulnerability,False
+Farmer,Garut,15,Low Vulnerability,Positive financial/operational buffer,7480000.0,19800000.0,12320000.0,0.3777777777777777,0.252020202020202,0.6222222222222222,Low Vulnerability,False
+Wholesaler,Subang,12,Low Vulnerability,Far from actor frontier; High precipitation proxy exposure,25500000.0,93300000.0,67800000.0,0.2733118971061093,0.0482315112540192,0.7266881028938906,Low Vulnerability,False
+Farmer,Tasikmalaya,38,Low Vulnerability,Far from actor frontier,8548000.0,13500000.0,4952000.0,0.6331851851851852,0.2888888888888888,0.3668148148148148,Low Vulnerability,False
+Farmer,Subang,14,High Vulnerability,R/C < 1: below break-even; Negative margin; Far from actor frontier,14980009.0,13050000.0,-1930009.0,1.1478934099616858,1.0114949425287356,-0.1478934099616858,High Vulnerability,False
+Rice Miller,Subang,2,Low Vulnerability,Positive financial/operational buffer,303200000.0,402887182.6932923,99687182.69329232,0.7525679967605681,0.0079426701505073,0.2474320032394319,Low Vulnerability,False
+Farmer,Subang,77,Low Vulnerability,Far from actor frontier,24350000.0,38800000.0,14450000.0,0.6275773195876289,0.4136597938144329,0.3724226804123711,Low Vulnerability,False
+Middlemen,Garut,16,High Vulnerability,R/C < 1: below break-even; Negative margin,50200000.0,36960000.0,-13240000.0,1.3582251082251082,0.2786796536796537,-0.3582251082251082,High Vulnerability,False
+Farmer,Subang,57,Low Vulnerability,Far from actor frontier,6704000.0,11300000.0,4596000.0,0.5932743362831858,0.3600884955752212,0.4067256637168142,Low Vulnerability,False
+Farmer,Tasikmalaya,102,Low Vulnerability,Positive financial/operational buffer,608000.0,1620000.0,1012000.0,0.3753086419753086,0.2728395061728395,0.6246913580246913,Low Vulnerability,False
+Farmer,Subang,21,Low Vulnerability,Far from actor frontier,7972500.0,9900000.0,1927500.0,0.8053030303030303,0.6287878787878788,0.1946969696969697,Low Vulnerability,False
+Middlemen,Indramayu,13,Low Vulnerability,Positive financial/operational buffer,119000000.0,176000000.0,57000000.0,0.6761363636363636,0.0738636363636363,0.3238636363636363,Low Vulnerability,False
+Farmer,Garut,30,Low Vulnerability,Positive financial/operational buffer,8290000.0,25650000.0,17360000.0,0.3231968810916179,0.1961013645224171,0.6768031189083821,Low Vulnerability,False
+Middlemen,Tasikmalaya,7,High Vulnerability,R/C < 1: below break-even; Negative margin,22307069.35965033,13200000.0,-9107069.359650329,1.6899294969432068,0.205081012094722,-0.6899294969432067,High Vulnerability,False
+Wholesaler,Karawang,14,High Vulnerability,R/C < 1: below break-even; Negative margin; Far from actor frontier,730500000.0,180000000.0,-550500000.0,4.058333333333334,0.1,-3.058333333333333,High Vulnerability,False
+Rice Miller,Karawang,14,High Vulnerability,R/C < 1: below break-even; Negative margin; High operational burden,16787594.96676165,5020000.0,-11767594.966761649,3.344142423657699,2.3879671248529184,-2.344142423657699,High Vulnerability,False
+Middlemen,Tasikmalaya,29,Medium Vulnerability,Thin R/C buffer; Thin margin buffer; High precipitation proxy exposure,347701481.4814816,350240000.0,2538518.5185183883,0.9927520599631156,0.0448264047510278,0.0072479400368843,Medium Vulnerability,False
+Rice Miller,Tasikmalaya,25,High Vulnerability,R/C < 1: below break-even; Negative margin,19549685.115938608,10040000.0,-9509685.115938608,1.947179792424164,1.050765449794682,-0.947179792424164,High Vulnerability,False
+Farmer,Tasikmalaya,59,Low Vulnerability,Far from actor frontier,4680520.0,7196000.0,2515480.0,0.6504335742078933,0.3985269594219011,0.3495664257921067,Low Vulnerability,False
+Rice Miller,Tasikmalaya,10,Low Vulnerability,Positive financial/operational buffer,62397518.99335233,76800000.0,14402481.006647669,0.8124676952259419,0.0312176952259418,0.1875323047740582,Low Vulnerability,False
+Middlemen,Garut,12,High Vulnerability,R/C < 1: below break-even; Negative margin,43450000.0,24640000.0,-18810000.0,1.7633928571428572,0.5458603896103896,-0.7633928571428571,High Vulnerability,False
+Farmer,Karawang,32,Low Vulnerability,Far from actor frontier,32190000.0,79200000.0,47010000.0,0.4064393939393939,0.1968434343434343,0.593560606060606,Low Vulnerability,False
+Middlemen,Karawang,4,Medium Vulnerability,Thin R/C buffer,197000000.0,220000000.0,23000000.0,0.8954545454545455,0.1,0.1045454545454545,Medium Vulnerability,False
+Rice Miller,Subang,12,Low Vulnerability,Positive financial/operational buffer,184000000.0,258837714.6270694,74837714.62706941,0.7108701305955557,0.0154536984912077,0.2891298694044443,Low Vulnerability,False
+Wholesaler,Karawang,4,High Vulnerability,R/C < 1: below break-even; Negative margin; Far from actor frontier,153500000.0,150000000.0,-3500000.0,1.0233333333333334,0.0733333333333333,-0.0233333333333333,High Vulnerability,False
+Farmer,Garut,57,Low Vulnerability,Positive financial/operational buffer,5578000.0,16875000.0,11297000.0,0.3305481481481481,0.2026666666666666,0.6694518518518519,Low Vulnerability,False
+Wholesaler,Subang,19,Low Vulnerability,Far from actor frontier; High precipitation proxy exposure,147900000.0,405000000.0,257100000.0,0.3651851851851851,0.0195061728395061,0.6348148148148148,Low Vulnerability,False
+Farmer,Garut,41,Low Vulnerability,Far from actor frontier,40520000.0,49500000.0,8980000.0,0.8185858585858586,0.5838383838383838,0.1814141414141414,Low Vulnerability,False
+Retail,Subang,16,High Vulnerability,R/C < 1: below break-even; Negative margin; High precipitation proxy exposure,5500000.0,3000000.0,-2500000.0,1.8333333333333333,1.0833333333333333,-0.8333333333333334,High Vulnerability,False
+Farmer,Karawang,29,Low Vulnerability,Positive financial/operational buffer,82800000.0,237600000.0,154800000.0,0.3484848484848485,0.1388888888888889,0.6515151515151515,Low Vulnerability,False
+Farmer,Tasikmalaya,56,Low Vulnerability,Positive financial/operational buffer,26468000.0,84150000.0,57682000.0,0.3145335710041592,0.1902554961378491,0.6854664289958408,Low Vulnerability,False
+Retail,Tasikmalaya,28,High Vulnerability,R/C < 1: below break-even; Negative margin,5245000.0,2500000.0,-2745000.0,2.098,1.02,-1.098,High Vulnerability,False
+Middlemen,Karawang,10,Medium Vulnerability,Thin R/C buffer; Thin margin buffer,83450000.0,88000000.0,4550000.0,0.9482954545454544,0.152840909090909,0.0517045454545454,Medium Vulnerability,False
+Rice Miller,Garut,21,High Vulnerability,R/C < 1: below break-even; Negative margin,8745037.98670466,5920000.0,-2825037.9867046606,1.4772023626190305,0.6326077680244359,-0.4772023626190305,High Vulnerability,False
+Wholesaler,Garut,4,High Vulnerability,R/C < 1: below break-even; Negative margin; Far from actor frontier,33999999.99999999,15999999.99999999,-18000000.0,2.125000000000001,1.1250000000000009,-1.1250000000000009,High Vulnerability,False
+Wholesaler,Garut,6,High Vulnerability,R/C < 1: below break-even; Negative margin; Far from actor frontier,40000000.0,30000000.0,-10000000.0,1.3333333333333333,0.4333333333333333,-0.3333333333333333,High Vulnerability,False
+Farmer,Garut,34,Low Vulnerability,Far from actor frontier,7754000.0,19000000.0,11246000.0,0.4081052631578947,0.1984210526315789,0.5918947368421053,Low Vulnerability,False
+Rice Miller,Indramayu,16,High Vulnerability,R/C < 1: below break-even; Negative margin,37000000.0,31108989.588667,-5891010.411332998,1.1893668193414773,0.5464658359136517,-0.1893668193414771,High Vulnerability,False
+Retail,Subang,8,High Vulnerability,R/C < 1: below break-even; Negative margin; High operational burden,5750000.0,2500000.0,-3250000.0,2.3,1.32,-1.3,High Vulnerability,False
+Rice Miller,Tasikmalaya,19,Medium Vulnerability,Thin R/C buffer; Thin margin buffer,25050000.0,26840000.0,1790000.0,0.9333084947839048,0.1285394932935916,0.0666915052160953,Medium Vulnerability,False
+Wholesaler,Karawang,11,High Vulnerability,R/C < 1: below break-even; Negative margin; Far from actor frontier,201000000.0,190000000.0,-11000000.0,1.0578947368421052,0.0789473684210526,-0.0578947368421052,High Vulnerability,False
+Wholesaler,Karawang,8,Low Vulnerability,Far from actor frontier,130000000.0,228000000.0,98000000.0,0.5701754385964912,0.0701754385964912,0.4298245614035088,Low Vulnerability,False
+Farmer,Garut,47,High Vulnerability,R/C < 1: below break-even; Negative margin; Far from actor frontier,29745000.0,24750000.0,-4995000.0,1.201818181818182,0.9,-0.2018181818181818,High Vulnerability,False
+Retail,Tasikmalaya,2,High Vulnerability,R/C < 1: below break-even; Negative margin; High operational burden,7895000.0,3000000.0,-4895000.0,2.631666666666667,1.7333333333333334,-1.6316666666666666,High Vulnerability,False
+Wholesaler,Indramayu,5,Low Vulnerability,Far from actor frontier,156000000.0,180000000.0,24000000.0,0.8666666666666667,0.2333333333333333,0.1333333333333333,Low Vulnerability,False
+Farmer,Tasikmalaya,7,Low Vulnerability,Positive financial/operational buffer,6356000.0,27900000.0,21544000.0,0.2278136200716846,0.1028673835125448,0.7721863799283154,Low Vulnerability,False
+Farmer,Indramayu,35,Low Vulnerability,Positive financial/operational buffer,9410000.0,25650000.0,16240000.0,0.3668615984405458,0.2608187134502924,0.6331384015594542,Low Vulnerability,False
+Farmer,Tasikmalaya,109,Low Vulnerability,Positive financial/operational buffer,11203000.0,36450000.0,25247000.0,0.3073525377229081,0.179835390946502,0.692647462277092,Low Vulnerability,False

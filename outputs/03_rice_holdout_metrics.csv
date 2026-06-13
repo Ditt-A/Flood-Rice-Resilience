@@ -1,0 +1,2 @@
+mode,model,accuracy,balanced_accuracy,f1_macro,f1_weighted,n_features
+operational_prediction,Decision Tree,0.9847715736040609,0.9693627450980392,0.9632534165376562,0.9849377249517359,34

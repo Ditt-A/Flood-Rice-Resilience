@@ -1,0 +1,6 @@
+decision,domain_basis,reference
+Use hazard × vulnerability as final decision layer,"Disaster risk is understood through interaction of hazard, exposure, vulnerability, and capacity.",UNDRR/UNISDR terminology; IPCC risk framing
+Do not train new supervised priority model,"Priority label is a decision rule output, not observed ground truth.",Model governance / pseudo-label limitation
+Critical if high flood and high vulnerability,A high hazard scenario interacting with highly vulnerable supply-chain units creates highest intervention need.,Hazard-vulnerability risk framework
+Use stress fail share as capacity/resilience signal,Resilience concerns ability to persist/adapt under disruption; failure under stress indicates low buffer.,Ponomarov & Holcomb (2009); Wieland & Durach (2021)
+Actor-specific recommended actions,"Different rice supply-chain actors represent different operational roles: production, milling, intermediation, wholesale, and retail access.",Rice supply chain structure from provided dataset

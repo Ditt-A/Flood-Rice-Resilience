@@ -1,0 +1,27 @@
+flood_scenario,priority_label,actor,n_actor_region,avg_fail_share,example_action
+High,Critical,Retail,5,1.0,"Prepare buffer stock, backup suppliers, and consumer price monitoring."
+High,Critical,Middlemen,5,0.9339285714285713,"Monitor distribution bottleneck, prepare alternative storage, and coordinate pickup/delivery windows."
+High,Critical,Rice Miller,4,0.8700135226504395,"Secure milling capacity, backup machine schedule, and protect grain-to-rice processing continuity."
+High,Critical,Wholesaler,3,0.7977380952380951,Prepare buffer stock and route contingency for bulk distribution.
+High,Moderate,Rice Miller,1,0.4285714285714285,Monitor periodically and prepare support if flood-risk scenario escalates.
+High,Moderate,Wholesaler,1,0.1904761904761904,Monitor periodically and prepare support if flood-risk scenario escalates.
+High,Moderate,Farmer,5,0.1654835209134835,Monitor periodically and prepare support if flood-risk scenario escalates.
+Low,High,Retail,5,0.9913043478260869,Prepare contingency plan because many units fail under stress scenario.
+Low,High,Rice Miller,1,0.7857142857142857,Prepare contingency plan because many units fail under stress scenario.
+Low,High,Middlemen,4,0.7748614532019704,Prepare contingency plan because many units fail under stress scenario.
+Low,High,Wholesaler,2,0.7728571428571429,Prepare contingency plan because many units fail under stress scenario.
+Low,Moderate,Rice Miller,3,0.4059612350687401,Monitor periodically and prepare support if flood-risk scenario escalates.
+Low,Routine,Rice Miller,1,0.1904761904761904,Routine monitoring.
+Low,Routine,Farmer,5,0.10471626973148576,Routine monitoring.
+Low,Routine,Wholesaler,2,0.1026785714285714,Routine monitoring.
+Low,Watchlist,Middlemen,1,0.4761904761904761,Watch financial feasibility and margin because vulnerability is high even when flood scenario is not high.
+Medium,Critical,Middlemen,3,1.0,"Monitor distribution bottleneck, prepare alternative storage, and coordinate pickup/delivery windows."
+Medium,Critical,Retail,5,1.0,"Prepare buffer stock, backup suppliers, and consumer price monitoring."
+Medium,Critical,Rice Miller,1,1.0,"Secure milling capacity, backup machine schedule, and protect grain-to-rice processing continuity."
+Medium,Critical,Wholesaler,2,0.8328571428571429,Prepare buffer stock and route contingency for bulk distribution.
+Medium,High,Rice Miller,2,0.6095334685598377,Prepare contingency plan because many units fail under stress scenario.
+Medium,High,Middlemen,2,0.5982142857142857,Prepare contingency plan because many units fail under stress scenario.
+Medium,Moderate,Rice Miller,1,0.4583333333333333,Monitor periodically and prepare support if flood-risk scenario escalates.
+Medium,Routine,Rice Miller,1,0.1904761904761904,Routine monitoring.
+Medium,Routine,Wholesaler,2,0.1339285714285714,Routine monitoring.
+Medium,Routine,Farmer,5,0.12085487766732872,Routine monitoring.

@@ -1,0 +1,11 @@
+{
+  "final_output": "05_final_flood_logistics_priority.csv",
+  "shortlist_output": "05_high_priority_shortlist.csv",
+  "recommended_action_output": "05_actor_region_recommended_actions.csv",
+  "scope": "scenario-based decision support",
+  "not_a_claim": "not actual location-specific flood impact prediction",
+  "input_notebooks": [
+    "03_model_training_evaluation",
+    "04_flood_stress_test_sensitivity_analysis"
+  ]
+}
