@@ -1,16 +1,16 @@
 flood_scenario,actor,mean_failure_probability,median_failure_probability,n_actor_regions
-High,Farmer,0.2862034883697296,0.0,5
-High,Middlemen,0.9714154761904762,1.0,5
+High,Farmer,0.28612185170421844,0.0,5
+High,Middlemen,0.9714543650793651,1.0,5
 High,Retail,1.0,1.0,5
-High,Rice Miller,0.9701973244470201,1.0,5
-High,Wholesaler,0.748169375,1.0,4
-Low,Farmer,0.11350389077403773,0.0,5
-Low,Middlemen,0.7660795566502463,1.0,5
-Low,Retail,0.9988434782608696,1.0,5
-Low,Rice Miller,0.5111693229015744,0.009,5
-Low,Wholesaler,0.46196973214285714,0.5,4
-Medium,Farmer,0.15593073453804696,0.0,5
-Medium,Middlemen,0.9092107142857143,1.0,5
+High,Rice Miller,0.9696981390257251,1.0,5
+High,Wholesaler,0.7481963293650794,1.0,4
+Low,Farmer,0.11333090854888958,0.0,5
+Low,Middlemen,0.7663081554460864,1.0,5
+Low,Retail,0.999072463768116,1.0,5
+Low,Rice Miller,0.5120567548858623,0.01,5
+Low,Wholesaler,0.4615220238095238,0.5,4
+Medium,Farmer,0.15638343212015066,0.0,5
+Medium,Middlemen,0.9082738095238095,1.0,5
 Medium,Retail,1.0,1.0,5
-Medium,Rice Miller,0.7323999517048199,1.0,5
-Medium,Wholesaler,0.6074619345238096,0.931,4
+Medium,Rice Miller,0.7329973437650923,1.0,5
+Medium,Wholesaler,0.6085930555555555,0.9333333333333333,4

@@ -1,0 +1,2 @@
+selected_model,accuracy,balanced_accuracy,macro_f1,roc_auc,interpretation
+Logistic Regression,0.9947754695857693,0.9948985250429848,0.9947246535318657,0.999948234399142,Surrogate approximates simulation output; not observed real-world disruption.

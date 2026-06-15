@@ -16,7 +16,7 @@ scipy
 scikit-learn
 joblib
 
-# Booster model candidates used by Notebook 03
+# Booster model candidates used by the model-evaluation section
 xgboost
 lightgbm
 catboost

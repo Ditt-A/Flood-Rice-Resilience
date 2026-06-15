@@ -1,0 +1,17 @@
+feature,target,sensitivity_score,signed_correlation,method,rank_within_target
+base_cost_revenue_ratio,fail_under_stress,0.8407021545872886,0.8407021545872886,Spearman rank correlation on LHS simulation design,1
+combined_break_even_buffer,fail_under_stress,0.8407021545872886,-0.8407021545872886,Spearman rank correlation on LHS simulation design,1
+vulnerability_score,fail_under_stress,0.8262193043509992,0.8262193043509992,Spearman rank correlation on LHS simulation design,2
+sampled_cost_shock,fail_under_stress,0.16799524730334575,0.16799524730334575,Spearman rank correlation on LHS simulation design,3
+sampled_revenue_shock,fail_under_stress,0.16545513889024738,0.16545513889024738,Spearman rank correlation on LHS simulation design,4
+flood_probability_reference,fail_under_stress,0.16284537018478978,0.16284537018478978,Spearman rank correlation on LHS simulation design,5
+scenario_score,fail_under_stress,0.16284537018478978,0.16284537018478978,Spearman rank correlation on LHS simulation design,5
+historical_flood_exposure_score,fail_under_stress,0.08435329281028102,0.08435329281028102,Spearman rank correlation on LHS simulation design,6
+base_cost_revenue_ratio,stressed_margin,0.7549570385164459,-0.7549570385164459,Spearman rank correlation on LHS simulation design,1
+combined_break_even_buffer,stressed_margin,0.7549570385164459,0.7549570385164459,Spearman rank correlation on LHS simulation design,1
+vulnerability_score,stressed_margin,0.7198876865180007,-0.7198876865180007,Spearman rank correlation on LHS simulation design,2
+sampled_cost_shock,stressed_margin,0.2523777583860109,-0.2523777583860109,Spearman rank correlation on LHS simulation design,3
+sampled_revenue_shock,stressed_margin,0.2488635931594598,-0.2488635931594598,Spearman rank correlation on LHS simulation design,4
+flood_probability_reference,stressed_margin,0.2488519160943288,-0.2488519160943288,Spearman rank correlation on LHS simulation design,5
+scenario_score,stressed_margin,0.2488519160943288,-0.2488519160943288,Spearman rank correlation on LHS simulation design,5
+historical_flood_exposure_score,stressed_margin,0.038496159024791095,-0.038496159024791095,Spearman rank correlation on LHS simulation design,6
