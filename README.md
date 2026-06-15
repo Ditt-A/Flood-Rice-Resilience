@@ -8,9 +8,9 @@ Primary notebook:
 flood_resilient_rice_supply_chain_single_submission.ipynb
 ```
 
-The notebook consolidates the earlier five-notebook workflow into one paper-style analytical pipeline. It covers flood hazard structure, rice supply-chain vulnerability, stress simulation, sensitivity analysis, surrogate-model audit, and logistics intervention prioritization.
+The notebook consolidates the earlier five-notebook workflow into one paper-style analytical pipeline. It covers flood hazard structure, rice supply-chain vulnerability, stress simulation, robustness checks, surrogate-model audit, and logistics intervention prioritization.
 
-The final output is not a real-time flood forecasting system. It is a scenario-based decision-support framework for ranking actor-region rice supply chain units by vulnerability, flood-stress severity, simulated failure probability, regional historical flood exposure, and actor role importance.
+The final output is not a real-time flood forecasting system. It is a scenario-based decision-support framework for ranking actor-region rice supply chain units by vulnerability, flood-stress severity, simulated failure probability, regional historical flood exposure, actor role importance, and ranking robustness.
 
 ## Analytical Framing
 
@@ -20,6 +20,7 @@ The project combines:
 - the provided `Rice Supply Chain in West Java Province, Indonesia` dataset as the financial and operational vulnerability input,
 - Open Data Jabar flood-event context as a regional exposure bridge,
 - deterministic stress tests, Monte Carlo simulation, and Latin Hypercube Sampling,
+- convergence, ablation, sensitivity, and decision-weight robustness checks,
 - an optional ML surrogate model that emulates simulated failure behavior,
 - transparent rule-based and simulation-enhanced logistics priority scoring.
 
@@ -30,6 +31,7 @@ Flood hazard structure
 + rice actor vulnerability
 + regional historical flood exposure
 + stress simulation
++ robustness checks
 = logistics intervention priority
 ```
 
@@ -43,6 +45,7 @@ The single submission notebook answers four business questions:
 | Which predictive models best learn the flood-probability and rice-vulnerability patterns? | K-fold model evaluation, holdout checks, leakage controls | `03_model_selection_rationale.csv`, trained `.joblib` models |
 | Which actor-region units are most likely to fail under flood-stress scenarios? | Deterministic stress tests, Monte Carlo, LHS, sensitivity analysis | `04_unit_stress_test_results.csv`, `04_lhs_actor_region_summary.csv` |
 | Which actor-region units should be prioritized for intervention when flood risk increases? | Hazard, vulnerability, failure probability, exposure, and role scoring | `05_lhs_enhanced_priority.csv`, `05_actor_region_recommended_actions.csv` |
+| Are the simulation and priority rankings stable? | LHS convergence, simulation-driver ablation, decision-component ablation, weight perturbation | `04_lhs_convergence_stability_summary.csv`, `05_priority_weight_robustness.csv` |
 
 ## Repository Structure
 
@@ -108,8 +111,8 @@ The submission notebook is organized as:
 1. Data understanding and external exposure bridge.
 2. Preprocessing and Method 3 weak labeling.
 3. Flood and rice model training and evaluation.
-4. Method 5 stress-test simulation, Monte Carlo, LHS, sensitivity analysis, and surrogate-model audit.
-5. Method 1 decision support and final recommendations.
+4. Method 5 stress-test simulation, Monte Carlo, LHS, convergence, ablation, sensitivity analysis, and surrogate-model audit.
+5. Method 1 decision support, decision-score ablation, weight robustness, and final recommendations.
 6. Final synthesis and bibliography.
 
 ## Data Inputs
@@ -198,6 +201,20 @@ outputs/05_lhs_enhanced_priority.csv
 
 The surrogate output is an audit layer. It should not replace the LHS-enhanced priority table as the final recommendation source.
 
+### Robustness Checks
+
+The current notebook includes several checks to reduce the risk that the final ranking is an artifact of one sample draw or one exact policy-weight vector:
+
+| Check | Purpose | Current takeaway |
+| --- | --- | --- |
+| Flood residual diagnostics | Inspect whether the flood regression has visible holdout residual structure | Supports the caution that the target is highly regular and likely formula-like |
+| LHS convergence | Recompute high-stress actor failure probabilities at larger sample sizes | Actor rankings are stable from 100 to 1,000 samples |
+| Simulation-driver ablation | Neutralize stress drivers such as cost shock, revenue shock, and exposure modifier | High-stress failure is driven mainly by stress-induced margin compression |
+| Decision-score component ablation | Remove one priority component at a time and re-rank units | Vulnerability and flood scenario are the largest decision drivers |
+| Decision-weight robustness | Perturb priority weights by +/-20% and track high-stress top-10 stability | The leading high-stress shortlist remains stable across 300 perturbed-weight runs |
+
+Under the latest convergence summary, high-stress failure probabilities remain approximately stable by actor: Retail stays at 100%, Middlemen near 97%, Rice Miller near 97%, Wholesaler near 75%, and Farmer near 28%.
+
 ## Key Outputs
 
 Data understanding and preprocessing:
@@ -215,6 +232,8 @@ Modeling:
 - `outputs/03_rice_cv_results.csv`
 - `outputs/03_model_selection_rationale.csv`
 - `outputs/03_final_model_summary.json`
+- `outputs/03_flood_feature_target_correlation.csv`
+- `outputs/03_flood_holdout_residual_diagnostics.csv`
 - `models/03_final_flood_probability_model.joblib`
 - `models/03_final_rice_vulnerability_model.joblib`
 
@@ -225,6 +244,11 @@ Stress simulation and surrogate audit:
 - `outputs/04_monte_carlo_actor_region_summary.csv`
 - `outputs/04_lhs_actor_region_summary.csv`
 - `outputs/04_lhs_unit_results.csv`
+- `outputs/04_lhs_convergence_by_actor.csv`
+- `outputs/04_lhs_convergence_stability_summary.csv`
+- `outputs/04_lhs_simulation_ablation_by_component.csv`
+- `outputs/04_lhs_simulation_ablation_by_actor.csv`
+- `outputs/04_lhs_simulation_ablation_unit_results.csv`
 - `outputs/04_sensitivity_results.csv`
 - `outputs/04_surrogate_model_cv_results.csv`
 - `outputs/04_surrogate_holdout_metrics.csv`
@@ -242,6 +266,11 @@ Decision support:
 - `outputs/05_top10_lhs_priority.csv`
 - `outputs/05_lhs_priority_distribution_share.csv`
 - `outputs/05_lhs_priority_policy.csv`
+- `outputs/05_priority_component_ablation.csv`
+- `outputs/05_priority_component_ablation_unit_scores.csv`
+- `outputs/05_priority_weight_robustness.csv`
+- `outputs/05_priority_weight_robustness_rank_detail.csv`
+- `outputs/05_priority_weight_robustness_weight_samples.csv`
 - `outputs/05_stakeholder_action_summary.csv`
 
 ## Key Figures
@@ -249,12 +278,15 @@ Decision support:
 The `figures/` folder contains visual outputs for:
 
 - flood target distribution and pressure trends,
+- flood target correlation and residual diagnostics,
 - rice actor-region coverage and vulnerability,
 - model performance and feature importance,
 - stress failure response curves,
+- LHS convergence and simulation-driver ablation,
 - Monte Carlo and LHS high-failure heatmaps,
 - surrogate confusion matrix and feature importance,
 - final Monte Carlo and LHS priority distributions,
+- decision-score component ablation and weight-robustness diagnostics,
 - top intervention priority rankings.
 
 ## Interpretation Boundaries
@@ -263,6 +295,7 @@ The `figures/` folder contains visual outputs for:
 - The stress shock ranges are internal scenario assumptions, not causal flood-damage estimates.
 - The surrogate model approximates simulated failure behavior, not observed disruption outcomes.
 - The external Jabar flood-event bridge is a small regional exposure context layer, not a primary supervised training target.
+- The decision weights are transparent policy assumptions, not fitted parameters; ablation and weight-robustness checks are used to inspect whether conclusions are stable.
 - Because the flood and rice datasets do not share row-level temporal or geographic keys, final outputs are not district-date flood impact predictions.
 
 The final decision-support question is:
@@ -279,5 +312,7 @@ For most reporting or presentation use cases, start with:
 - `outputs/05_top10_lhs_priority.csv`
 - `outputs/05_actor_region_recommended_actions.csv`
 - `outputs/05_stakeholder_action_summary.csv`
+- `outputs/05_priority_weight_robustness.csv`
+- `outputs/05_priority_component_ablation.csv`
 
-The top LHS-enhanced priorities are dominated by downstream and intermediary nodes, especially Retail, Rice Miller, Wholesaler, and Middlemen units under high flood stress. Karawang receives additional priority because of its high historical flood exposure.
+The top LHS-enhanced priorities are dominated by downstream and intermediary nodes, especially Retail, Rice Miller, Wholesaler, and Middlemen units under high flood stress. Karawang receives additional priority because of its high historical flood exposure. The latest weight-robustness output keeps the leading high-stress units in the top-10 list across nearly all perturbed-weight runs, with the strongest units appearing in 100% of runs.

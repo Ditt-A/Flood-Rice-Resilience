@@ -1,0 +1,13 @@
+flood_scenario,ablation_scenario,ablation_description,mean_delta_failure_probability,median_delta_failure_probability,p75_delta_failure_probability,mean_absolute_delta_failure_probability
+High,All stress drivers neutralized,"Cost shock, revenue shock, and exposure modifier set to neutral",0.26077509529860227,0.0,0.6837500000000001,0.26077509529860227
+High,No cost shock,Cost-side shock set to zero,0.14930432020330367,0.0,0.015,0.14930432020330367
+High,No exposure modifier,Historical exposure modifier set to neutral,0.004710927573062262,0.0,0.0,0.004710927573062262
+High,No revenue shock,Revenue-side shock set to zero,0.09613087674714105,0.0,0.0025,0.09613087674714105
+Low,All stress drivers neutralized,"Cost shock, revenue shock, and exposure modifier set to neutral",0.05909783989834815,0.0,0.0,0.05909783989834815
+Low,No cost shock,Cost-side shock set to zero,0.02710927573062262,0.0,0.0,0.02710927573062262
+Low,No exposure modifier,Historical exposure modifier set to neutral,0.0014104193138500636,0.0,0.0,0.0014104193138500636
+Low,No revenue shock,Revenue-side shock set to zero,0.01775730622617535,0.0,0.0,0.01775730622617535
+Medium,All stress drivers neutralized,"Cost shock, revenue shock, and exposure modifier set to neutral",0.14406289707750952,0.0,0.0,0.14406289707750952
+Medium,No cost shock,Cost-side shock set to zero,0.08314167725540025,0.0,0.0,0.08314167725540025
+Medium,No exposure modifier,Historical exposure modifier set to neutral,0.003294155019059721,0.0,0.0,0.003294155019059721
+Medium,No revenue shock,Revenue-side shock set to zero,0.056855146124523505,0.0,0.0,0.056855146124523505

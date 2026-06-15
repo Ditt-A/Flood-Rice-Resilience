@@ -60,7 +60,7 @@
     "03_rice_cv_fold_results.csv"
   ],
   "next_notebooks": {
-    "04": "Method 5 stress-test sensitivity analysis",
-    "05": "Method 1 hazard-vulnerability decision support"
+    "04": "Stress-test sensitivity analysis stress-test sensitivity analysis",
+    "05": "Hazard \u00d7 vulnerability decision support hazard-vulnerability decision support"
   }
 }

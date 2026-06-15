@@ -1,5 +1,5 @@
 component,weight,source,role
-vulnerability_component,0.35,Method 3 pseudo-label vulnerability,primary rice supply-chain vulnerability component
+vulnerability_component,0.35,weak-labeling stage pseudo-label vulnerability,primary rice supply-chain vulnerability component
 hazard_component,0.3,Flood scenario from primary Flood Prediction model,primary flood hazard component
-monte_carlo_failure_component,0.25,Notebook 04 Monte Carlo failure probability,probabilistic resilience/failure component
+monte_carlo_failure_component,0.25,the advanced simulation stage Monte Carlo failure probability,probabilistic resilience/failure component
 external_exposure_component,0.1,Open Data Jabar flood-event bridge,"small regional exposure modifier only, not primary model driver"

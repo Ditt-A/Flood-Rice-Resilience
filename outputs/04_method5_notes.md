@@ -1,6 +1,6 @@
-# Method 5 Notes — Flood Stress-Test Sensitivity Analysis
+# Stress-test sensitivity analysis notes
 
-This notebook is a scenario-based sensitivity analysis, not a causal forecast.
+This stress-testing section is a scenario-based sensitivity analysis, not a causal forecast.
 
 ## Core principle
 
@@ -12,7 +12,7 @@ An actor-region unit is financially viable while revenue remains greater than co
 - `revenue_drop_tolerance = (revenue - cost) / revenue`
 - `combined_break_even_buffer = min(cost_shock_tolerance, revenue_drop_tolerance)`
 
-These indicators use only values available in the rice supply chain dataset and predictions produced by Notebook 03.
+These indicators use only values available in the rice supply chain dataset and predictions produced by this workflow.
 
 ## Scenario grid
 

@@ -120,7 +120,7 @@
     }
   },
   "labeling_policy": "Rule-based weak supervision is primary; clustering is support/audit only.",
-  "operational_model_policy": "Notebook 03 must exclude cluster outputs, rule scores, final scores, hard rule flags, labeling function outputs, labels, redundant inverse ratios, and admin identifiers from operational_prediction.",
+  "operational_model_policy": "this workflow must exclude cluster outputs, rule scores, final scores, hard rule flags, labeling function outputs, labels, redundant inverse ratios, and admin identifiers from operational_prediction.",
   "thresholds": {
     "break_even_rc": 1.0,
     "thin_rc_buffer": 1.15,

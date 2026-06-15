@@ -1,6 +1,6 @@
 component,weight,reason
-vulnerability,0.35,Main rice actor-region financial/operational vulnerability from Method 3.
+vulnerability,0.35,Main rice actor-region financial/operational vulnerability from weak-labeling stage.
 flood scenario,0.25,Primary flood hazard scenario from FloodPrediction model.
-LHS failure probability,0.25,Uncertainty-aware stress failure probability from Method 5.
+LHS failure probability,0.25,Uncertainty-aware stress failure probability from Stress-test sensitivity analysis.
 historical Jabar flood exposure,0.1,Small external regional context bridge; does not dominate primary datasets.
 actor role weight,0.05,Small supply-chain role tie-breaker.

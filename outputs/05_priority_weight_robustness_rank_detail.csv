@@ -1,0 +1,3001 @@
+iteration,rank,unit,region,actor,score
+0,1,Karawang — Retail,Karawang,Retail,1.0
+0,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9909364326232516
+0,3,Karawang — Wholesaler,Karawang,Wholesaler,0.949284417550493
+0,4,Garut — Retail,Garut,Retail,0.9347348035037043
+0,5,Subang — Retail,Subang,Retail,0.9314115091821985
+0,6,Garut — Middlemen,Garut,Middlemen,0.9286924252525387
+0,7,Garut — Wholesaler,Garut,Wholesaler,0.9008740848500415
+0,8,Subang — Middlemen,Subang,Middlemen,0.8992075337636403
+0,9,Indramayu — Retail,Indramayu,Retail,0.8981652416275939
+0,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8928389219099707
+1,1,Karawang — Retail,Karawang,Retail,1.0
+1,2,Karawang — Rice Miller,Karawang,Rice Miller,0.992513481279909
+1,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9585230488610285
+1,4,Garut — Retail,Garut,Retail,0.9470602579481353
+1,5,Subang — Retail,Subang,Retail,0.9443645739758526
+1,6,Garut — Middlemen,Garut,Middlemen,0.9420692454680746
+1,7,Garut — Wholesaler,Garut,Wholesaler,0.919324734231155
+1,8,Subang — Middlemen,Subang,Middlemen,0.9180445437669311
+1,9,Indramayu — Retail,Indramayu,Retail,0.9173969262399274
+1,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9130764919644749
+2,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+2,2,Karawang — Rice Miller,Karawang,Rice Miller,0.99322248334974
+2,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9597569681074787
+2,4,Garut — Retail,Garut,Retail,0.930822114200398
+2,5,Subang — Retail,Subang,Retail,0.9272995863081446
+2,6,Garut — Middlemen,Garut,Middlemen,0.9263037697668912
+2,7,Garut — Wholesaler,Garut,Wholesaler,0.9041945991487682
+2,8,Subang — Middlemen,Subang,Middlemen,0.901647658647161
+2,9,Indramayu — Retail,Indramayu,Retail,0.892060184243585
+2,10,Karawang — Middlemen,Karawang,Middlemen,0.8888828188206692
+3,1,Karawang — Retail,Karawang,Retail,0.9999999999999998
+3,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9934256226540962
+3,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9590989014752846
+3,4,Garut — Retail,Garut,Retail,0.9326427973610599
+3,5,Subang — Retail,Subang,Retail,0.929212978390773
+3,6,Garut — Middlemen,Garut,Middlemen,0.9282598791304575
+3,7,Garut — Wholesaler,Garut,Wholesaler,0.9057625086907566
+3,8,Subang — Middlemen,Subang,Middlemen,0.9030673936791654
+3,9,Indramayu — Retail,Indramayu,Retail,0.8949010372508882
+3,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.889403988045496
+4,1,Karawang — Retail,Karawang,Retail,1.0
+4,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9930738238647848
+4,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9630260609357428
+4,4,Garut — Retail,Garut,Retail,0.9326415181995334
+4,5,Subang — Retail,Subang,Retail,0.9292116340945273
+4,6,Garut — Middlemen,Garut,Middlemen,0.9280240674427234
+4,7,Garut — Wholesaler,Garut,Wholesaler,0.9077702895557864
+4,8,Subang — Middlemen,Subang,Middlemen,0.9058087313465207
+4,9,Indramayu — Retail,Indramayu,Retail,0.8948990413463025
+4,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8894018877480082
+5,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+5,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9909364001186696
+5,3,Karawang — Wholesaler,Karawang,Wholesaler,0.95874961494222
+5,4,Garut — Retail,Garut,Retail,0.9269376942212031
+5,5,Subang — Retail,Subang,Retail,0.923217372228078
+5,6,Garut — Middlemen,Garut,Middlemen,0.9208952943003159
+5,7,Garut — Wholesaler,Garut,Wholesaler,0.8984124309874828
+5,8,Subang — Middlemen,Subang,Middlemen,0.8974234326270459
+5,9,Karawang — Middlemen,Karawang,Middlemen,0.8925319905128213
+5,10,Indramayu — Retail,Indramayu,Retail,0.8859992361236982
+6,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+6,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9912078505158168
+6,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9530259579425489
+6,4,Garut — Retail,Garut,Retail,0.9353149208331818
+6,5,Subang — Retail,Subang,Retail,0.9320211660017925
+6,6,Garut — Middlemen,Garut,Middlemen,0.9294534878437265
+6,7,Garut — Wholesaler,Garut,Wholesaler,0.9037211808241409
+6,8,Subang — Middlemen,Subang,Middlemen,0.9022869048852694
+6,9,Indramayu — Retail,Indramayu,Retail,0.8990704117833038
+6,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8937914356812124
+7,1,Karawang — Retail,Karawang,Retail,1.0
+7,2,Karawang — Rice Miller,Karawang,Rice Miller,0.994303643988318
+7,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9611890399759762
+7,4,Garut — Retail,Garut,Retail,0.9470732221965391
+7,5,Subang — Retail,Subang,Retail,0.9443781983619013
+7,6,Garut — Middlemen,Garut,Middlemen,0.9432756515220845
+7,7,Garut — Wholesaler,Garut,Wholesaler,0.9218819132968344
+7,8,Subang — Middlemen,Subang,Middlemen,0.9194406273533761
+7,9,Indramayu — Retail,Indramayu,Retail,0.9174171546491648
+7,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.913097778391394
+8,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+8,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9935692326917253
+8,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9527673740541006
+8,4,Garut — Retail,Garut,Retail,0.9377873152557518
+8,5,Subang — Retail,Subang,Retail,0.934619454389081
+8,6,Garut — Middlemen,Garut,Middlemen,0.9335001370502354
+8,7,Garut — Wholesaler,Garut,Wholesaler,0.9074215269095504
+8,8,Subang — Middlemen,Subang,Middlemen,0.9041520936489584
+8,9,Indramayu — Retail,Indramayu,Retail,0.9029281445741335
+8,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8978509416048851
+9,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+9,2,Karawang — Rice Miller,Karawang,Rice Miller,0.991607212709005
+9,3,Karawang — Wholesaler,Karawang,Wholesaler,0.958299744523208
+9,4,Garut — Retail,Garut,Retail,0.9229012863127777
+9,5,Subang — Retail,Subang,Retail,0.9189754310155108
+9,6,Garut — Middlemen,Garut,Middlemen,0.9173060947854477
+9,7,Garut — Wholesaler,Garut,Wholesaler,0.8945126733260218
+9,8,Subang — Middlemen,Subang,Middlemen,0.8927183206095162
+9,9,Indramayu — Retail,Indramayu,Retail,0.879701137809227
+9,10,Karawang — Middlemen,Karawang,Middlemen,0.8782663244210577
+10,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+10,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9925729654638411
+10,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9587635519739102
+10,4,Garut — Retail,Garut,Retail,0.9390927233349985
+10,5,Subang — Retail,Subang,Retail,0.9359913336580261
+10,6,Garut — Middlemen,Garut,Middlemen,0.9341413669775593
+10,7,Garut — Wholesaler,Garut,Wholesaler,0.9115273741771459
+10,8,Subang — Middlemen,Subang,Middlemen,0.9098201213730295
+10,9,Indramayu — Retail,Indramayu,Retail,0.9049650022481163
+10,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8999943341728895
+11,1,Karawang — Retail,Karawang,Retail,1.0
+11,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9927726778898326
+11,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9616406140717147
+11,4,Garut — Retail,Garut,Retail,0.9471259205837572
+11,5,Subang — Retail,Subang,Retail,0.9444335801433386
+11,6,Garut — Middlemen,Garut,Middlemen,0.9423077058436456
+11,7,Garut — Wholesaler,Garut,Wholesaler,0.9212985348619404
+11,8,Subang — Middlemen,Subang,Middlemen,0.9201635831121032
+11,9,Indramayu — Retail,Indramayu,Retail,0.9174993811315331
+11,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9131843056109699
+12,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+12,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9919563583143992
+12,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9546199074807926
+12,4,Garut — Retail,Garut,Retail,0.9423104845704907
+12,5,Subang — Retail,Subang,Retail,0.9393729428280371
+12,6,Garut — Middlemen,Garut,Middlemen,0.9369480567800902
+12,7,Garut — Wholesaler,Garut,Wholesaler,0.9120506822363358
+12,8,Subang — Middlemen,Subang,Middlemen,0.9105412692658046
+12,9,Indramayu — Retail,Indramayu,Retail,0.9099857476914408
+12,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.905277682443376
+13,1,Karawang — Retail,Karawang,Retail,1.0
+13,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9906523169966828
+13,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9569502345682337
+13,4,Garut — Retail,Garut,Retail,0.9359325110621887
+13,5,Subang — Retail,Subang,Retail,0.9326702038355147
+13,6,Garut — Middlemen,Garut,Middlemen,0.9297007223933105
+13,7,Garut — Wholesaler,Garut,Wholesaler,0.9062276851112284
+13,8,Subang — Middlemen,Subang,Middlemen,0.9057248137309393
+13,9,Indramayu — Retail,Indramayu,Retail,0.9000340517494786
+13,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8948054774417702
+14,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+14,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9933034327503365
+14,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9591777949881664
+14,4,Garut — Retail,Garut,Retail,0.9469095303720726
+14,5,Subang — Retail,Subang,Retail,0.9442061713735199
+14,6,Garut — Middlemen,Garut,Middlemen,0.9424451522056303
+14,7,Garut — Wholesaler,Garut,Wholesaler,0.9200026305674978
+14,8,Subang — Middlemen,Subang,Middlemen,0.9181428877692669
+14,9,Indramayu — Retail,Indramayu,Retail,0.917161742602822
+14,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9128290073874586
+15,1,Karawang — Retail,Karawang,Retail,0.9999999999999998
+15,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9923391954252287
+15,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9520570999657268
+15,4,Garut — Retail,Garut,Retail,0.9330331409464496
+15,5,Subang — Retail,Subang,Retail,0.9296231982148074
+15,6,Garut — Middlemen,Garut,Middlemen,0.9279259378966023
+15,7,Garut — Wholesaler,Garut,Wholesaler,0.9015514117750312
+15,8,Subang — Middlemen,Subang,Middlemen,0.8989654759656415
+15,9,Indramayu — Retail,Indramayu,Retail,0.8955100991527034
+15,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8900449060489874
+16,1,Karawang — Retail,Karawang,Retail,1.0
+16,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9923842961674794
+16,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9586583932278602
+16,4,Garut — Retail,Garut,Retail,0.9362992150987667
+16,5,Subang — Retail,Subang,Retail,0.9330555803883472
+16,6,Garut — Middlemen,Garut,Middlemen,0.9312220792104196
+16,7,Garut — Wholesaler,Garut,Wholesaler,0.9085648318486502
+16,8,Subang — Middlemen,Subang,Middlemen,0.9068577339050194
+16,9,Indramayu — Retail,Indramayu,Retail,0.900606228330012
+16,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8954075808906103
+17,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+17,2,Karawang — Rice Miller,Karawang,Rice Miller,0.99081860058314
+17,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9463957369880006
+17,4,Garut — Retail,Garut,Retail,0.9459403700111887
+17,5,Subang — Retail,Subang,Retail,0.9431876615078945
+17,6,Garut — Middlemen,Garut,Middlemen,0.9398194370666154
+17,7,Indramayu — Retail,Indramayu,Retail,0.9156495398290154
+17,8,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9112377110351931
+17,9,Garut — Wholesaler,Garut,Wholesaler,0.9103827718757987
+17,10,Subang — Middlemen,Subang,Middlemen,0.9090552546982406
+18,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+18,2,Karawang — Rice Miller,Karawang,Rice Miller,0.991860353867665
+18,3,Garut — Retail,Garut,Retail,0.9510726220389857
+18,4,Karawang — Wholesaler,Karawang,Wholesaler,0.9497819179285664
+18,5,Subang — Retail,Subang,Retail,0.948581247063148
+18,6,Garut — Middlemen,Garut,Middlemen,0.9456461912840958
+18,7,Indramayu — Retail,Indramayu,Retail,0.9236575084434463
+18,8,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9196645248632904
+18,9,Garut — Wholesaler,Garut,Wholesaler,0.9180298245904415
+18,10,Subang — Middlemen,Subang,Middlemen,0.9164958718645699
+19,1,Karawang — Retail,Karawang,Retail,1.0
+19,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9937830648794954
+19,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9521058651155823
+19,4,Garut — Retail,Garut,Retail,0.9389530271326997
+19,5,Subang — Retail,Subang,Retail,0.9358445241454064
+19,6,Garut — Middlemen,Garut,Middlemen,0.93480840371903
+19,7,Garut — Wholesaler,Garut,Wholesaler,0.9083387452538716
+19,8,Subang — Middlemen,Subang,Middlemen,0.9048786484855182
+19,9,Indramayu — Retail,Indramayu,Retail,0.9047470311123449
+19,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8997649623721892
+20,1,Karawang — Retail,Karawang,Retail,1.0
+20,2,Karawang — Rice Miller,Karawang,Rice Miller,0.993246913979904
+20,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9541480276763387
+20,4,Garut — Retail,Garut,Retail,0.9452522015892255
+20,5,Subang — Retail,Subang,Retail,0.942464451649887
+20,6,Garut — Middlemen,Garut,Middlemen,0.9407501442424948
+20,7,Garut — Wholesaler,Garut,Wholesaler,0.9154771731645875
+20,8,Indramayu — Retail,Indramayu,Retail,0.9145757751162391
+20,9,Subang — Middlemen,Subang,Middlemen,0.9130082602879812
+20,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9101077846124745
+21,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+21,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9914485780013191
+21,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9498120650870325
+21,4,Garut — Retail,Garut,Retail,0.9465412644623259
+21,5,Subang — Retail,Subang,Retail,0.9438191534171639
+21,6,Garut — Middlemen,Garut,Middlemen,0.9408403164632054
+21,7,Indramayu — Retail,Indramayu,Retail,0.9165871289963499
+21,8,Garut — Wholesaler,Garut,Wholesaler,0.9132759137048708
+21,9,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9122243394475635
+21,10,Subang — Middlemen,Subang,Middlemen,0.9118514948073668
+22,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+22,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9922392064047905
+22,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9569401809190047
+22,4,Garut — Retail,Garut,Retail,0.9440978681213102
+22,5,Subang — Retail,Subang,Retail,0.9412513396895287
+22,6,Garut — Middlemen,Garut,Middlemen,0.938924005724504
+22,7,Garut — Wholesaler,Garut,Wholesaler,0.9153105342945672
+22,8,Subang — Middlemen,Subang,Middlemen,0.913924168056764
+22,9,Indramayu — Retail,Indramayu,Retail,0.9127746425663202
+22,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9082124464301369
+23,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+23,2,Karawang — Rice Miller,Karawang,Rice Miller,0.991903116513546
+23,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9580417884527385
+23,4,Garut — Retail,Garut,Retail,0.9254450079694139
+23,5,Subang — Retail,Subang,Retail,0.921648678609259
+23,6,Garut — Middlemen,Garut,Middlemen,0.9200470856451113
+23,7,Garut — Wholesaler,Garut,Wholesaler,0.8970831262120252
+23,8,Subang — Middlemen,Subang,Middlemen,0.8951469546033686
+23,9,Indramayu — Retail,Indramayu,Retail,0.8836701640923993
+23,10,Karawang — Middlemen,Karawang,Middlemen,0.8818788817558575
+24,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+24,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9917499317147198
+24,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9542002490628263
+24,4,Garut — Retail,Garut,Retail,0.9254489646638081
+24,5,Subang — Retail,Subang,Retail,0.9216528367779568
+24,6,Garut — Middlemen,Garut,Middlemen,0.9199489191402879
+24,7,Garut — Wholesaler,Garut,Wholesaler,0.8948325165219704
+24,8,Subang — Middlemen,Subang,Middlemen,0.8925857392619979
+24,9,Karawang — Middlemen,Karawang,Middlemen,0.8864472711085806
+24,10,Indramayu — Retail,Indramayu,Retail,0.8836763378119192
+25,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+25,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9916063386565861
+25,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9576994313403753
+25,4,Garut — Retail,Garut,Retail,0.9371701747137721
+25,5,Subang — Retail,Subang,Retail,0.9339708891403842
+25,6,Garut — Middlemen,Garut,Middlemen,0.9315744004848294
+25,7,Garut — Wholesaler,Garut,Wholesaler,0.9084426603564154
+25,8,Subang — Middlemen,Subang,Middlemen,0.9073074407202899
+25,9,Indramayu — Retail,Indramayu,Retail,0.9019652062647714
+25,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8968376382002845
+26,1,Karawang — Retail,Karawang,Retail,1.0
+26,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9923350143851922
+26,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9538328745590023
+26,4,Garut — Retail,Garut,Retail,0.9513079820628049
+26,5,Subang — Retail,Subang,Retail,0.9488285915851784
+26,6,Garut — Middlemen,Garut,Middlemen,0.946197991652933
+26,7,Indramayu — Retail,Indramayu,Retail,0.9240247459979598
+26,8,Garut — Wholesaler,Garut,Wholesaler,0.9208248139689589
+26,9,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9200509702468294
+26,10,Subang — Middlemen,Subang,Middlemen,0.9193744487053279
+27,1,Karawang — Retail,Karawang,Retail,1.0
+27,2,Karawang — Rice Miller,Karawang,Rice Miller,0.990811961143086
+27,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9572265594714002
+27,4,Garut — Retail,Garut,Retail,0.9266519091273306
+27,5,Subang — Retail,Subang,Retail,0.9229170349987548
+27,6,Garut — Middlemen,Garut,Middlemen,0.920526549889388
+27,7,Garut — Wholesaler,Garut,Wholesaler,0.8971957174605696
+27,8,Subang — Middlemen,Subang,Middlemen,0.8961210548456053
+27,9,Karawang — Middlemen,Karawang,Middlemen,0.8957423949532801
+27,10,Indramayu — Retail,Indramayu,Retail,0.8855533191948712
+28,1,Karawang — Retail,Karawang,Retail,1.0
+28,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9909320104138766
+28,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9526377409108033
+28,4,Garut — Retail,Garut,Retail,0.9347034464292225
+28,5,Subang — Retail,Subang,Retail,0.9313785554100408
+28,6,Garut — Middlemen,Garut,Middlemen,0.9286581200384735
+28,7,Garut — Wholesaler,Garut,Wholesaler,0.9027304032214006
+28,8,Subang — Middlemen,Subang,Middlemen,0.9014465651169803
+28,9,Indramayu — Retail,Indramayu,Retail,0.8981163144769143
+28,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.892787435695455
+29,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+29,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9934463336668049
+29,3,Karawang — Wholesaler,Karawang,Wholesaler,0.959091441781757
+29,4,Garut — Retail,Garut,Retail,0.9448627816177876
+29,5,Subang — Retail,Subang,Retail,0.9420552024700924
+29,6,Garut — Middlemen,Garut,Middlemen,0.9404936707289909
+29,7,Garut — Wholesaler,Garut,Wholesaler,0.9179903364175548
+29,8,Subang — Middlemen,Subang,Middlemen,0.9158996720040747
+29,9,Indramayu — Retail,Indramayu,Retail,0.9139681543501081
+29,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9094683831211845
+30,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+30,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9922378998698005
+30,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9587798278743606
+30,4,Garut — Retail,Garut,Retail,0.9460102878986644
+30,5,Subang — Retail,Subang,Retail,0.9432611396040402
+30,6,Garut — Middlemen,Garut,Middlemen,0.9408355544785314
+30,7,Garut — Wholesaler,Garut,Wholesaler,0.9182591918310444
+30,8,Subang — Middlemen,Subang,Middlemen,0.9171801238006728
+30,9,Indramayu — Retail,Indramayu,Retail,0.9157586342860803
+30,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9113525115200135
+31,1,Karawang — Retail,Karawang,Retail,1.0
+31,2,Karawang — Rice Miller,Karawang,Rice Miller,0.991705652804316
+31,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9618456765533008
+31,4,Garut — Retail,Garut,Retail,0.9525171200580774
+31,5,Subang — Retail,Subang,Retail,0.9500992987114629
+31,6,Garut — Middlemen,Garut,Middlemen,0.9469875552609547
+31,7,Subang — Middlemen,Subang,Middlemen,0.9262203062394153
+31,8,Garut — Wholesaler,Garut,Wholesaler,0.92618459411914
+31,9,Indramayu — Retail,Indramayu,Retail,0.9259113912882175
+31,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9220362937896823
+32,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+32,2,Karawang — Rice Miller,Karawang,Rice Miller,0.992522994461808
+32,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9572093677518736
+32,4,Garut — Retail,Garut,Retail,0.9435094931786073
+32,5,Subang — Retail,Subang,Retail,0.9406330047802436
+32,6,Garut — Middlemen,Garut,Middlemen,0.9385248228198128
+32,7,Garut — Wholesaler,Garut,Wholesaler,0.9150389896045961
+32,8,Subang — Middlemen,Subang,Middlemen,0.9134210745458873
+32,9,Indramayu — Retail,Indramayu,Retail,0.911856587870416
+32,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9072463742114654
+33,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+33,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9914978863038433
+33,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9572216934216544
+33,4,Garut — Retail,Garut,Retail,0.9278480928329704
+33,5,Subang — Retail,Subang,Retail,0.9241741282048609
+33,6,Garut — Middlemen,Garut,Middlemen,0.9221800170355328
+33,7,Garut — Wholesaler,Garut,Wholesaler,0.8987881892838244
+33,8,Subang — Middlemen,Subang,Middlemen,0.8972127724274127
+33,9,Karawang — Middlemen,Karawang,Middlemen,0.8879734290235997
+33,10,Indramayu — Retail,Indramayu,Retail,0.8874197516147866
+34,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+34,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9935613199781509
+34,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9562212893456907
+34,4,Garut — Retail,Garut,Retail,0.9362193791793508
+34,5,Subang — Retail,Subang,Retail,0.9329716792355162
+34,6,Garut — Middlemen,Garut,Middlemen,0.9319269258314513
+34,7,Garut — Wholesaler,Garut,Wholesaler,0.907795938769314
+34,8,Subang — Middlemen,Subang,Middlemen,0.9048452513510704
+34,9,Indramayu — Retail,Indramayu,Retail,0.900481658543976
+34,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8952764956621242
+35,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+35,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9934270874031236
+35,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9558715041034644
+35,4,Garut — Retail,Garut,Retail,0.929622608936383
+35,5,Subang — Retail,Subang,Retail,0.9260390024103935
+35,6,Garut — Middlemen,Garut,Middlemen,0.9252406672051321
+35,7,Garut — Wholesaler,Garut,Wholesaler,0.9009239080585595
+35,8,Subang — Middlemen,Subang,Middlemen,0.897707411097607
+35,9,Indramayu — Retail,Indramayu,Retail,0.8901885691212079
+35,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8844450410875752
+36,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+36,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9909561663464215
+36,3,Garut — Retail,Garut,Retail,0.9505138970205553
+36,4,Karawang — Wholesaler,Karawang,Wholesaler,0.9480740513928576
+36,5,Subang — Retail,Subang,Retail,0.9479940718479708
+36,6,Garut — Middlemen,Garut,Middlemen,0.9444846745848362
+36,7,Indramayu — Retail,Indramayu,Retail,0.9227857171932398
+36,8,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9187471358329168
+36,9,Garut — Wholesaler,Garut,Wholesaler,0.915982382233297
+36,10,Subang — Middlemen,Subang,Middlemen,0.9149657483775178
+37,1,Karawang — Retail,Karawang,Retail,1.0
+37,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9921059743403089
+37,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9585918256560594
+37,4,Garut — Retail,Garut,Retail,0.9359580900888821
+37,5,Subang — Retail,Subang,Retail,0.9326970853425303
+37,6,Garut — Middlemen,Garut,Middlemen,0.9306954063157546
+37,7,Garut — Wholesaler,Garut,Wholesaler,0.9080242717662219
+37,8,Subang — Middlemen,Subang,Middlemen,0.9065199237908469
+37,9,Indramayu — Retail,Indramayu,Retail,0.9000739632818505
+37,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8948474764891048
+38,1,Karawang — Retail,Karawang,Retail,1.0
+38,2,Karawang — Rice Miller,Karawang,Rice Miller,0.99285167874792
+38,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9532935169296209
+38,4,Garut — Retail,Garut,Retail,0.9356663210284952
+38,5,Subang — Retail,Subang,Retail,0.9323904594439872
+38,6,Garut — Middlemen,Garut,Middlemen,0.9309007735271084
+38,7,Garut — Wholesaler,Garut,Wholesaler,0.9051796853746313
+38,8,Subang — Middlemen,Subang,Middlemen,0.9024489675168692
+38,9,Indramayu — Retail,Indramayu,Retail,0.8996187094350818
+38,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.894368411248473
+39,1,Karawang — Retail,Karawang,Retail,1.0
+39,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9933462008043498
+39,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9572431078994217
+39,4,Garut — Retail,Garut,Retail,0.9500249145065479
+39,5,Subang — Retail,Subang,Retail,0.9474801904154071
+39,6,Garut — Middlemen,Garut,Middlemen,0.9455890483761145
+39,7,Garut — Wholesaler,Garut,Wholesaler,0.9220523232795703
+39,8,Indramayu — Retail,Indramayu,Retail,0.9220227467459646
+39,9,Subang — Middlemen,Subang,Middlemen,0.9200965907083881
+39,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9179442593201467
+40,1,Karawang — Retail,Karawang,Retail,1.0
+40,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9928895562656717
+40,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9577130298985157
+40,4,Garut — Retail,Garut,Retail,0.9423466009056897
+40,5,Subang — Retail,Subang,Retail,0.939410898201776
+40,6,Garut — Middlemen,Garut,Middlemen,0.9376063050828041
+40,7,Garut — Wholesaler,Garut,Wholesaler,0.9143732528132731
+40,8,Subang — Middlemen,Subang,Middlemen,0.9124534419471408
+40,9,Indramayu — Retail,Indramayu,Retail,0.9100421008239787
+40,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9053369830449882
+41,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+41,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9930013118006581
+41,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9619738491869346
+41,4,Garut — Retail,Garut,Retail,0.9405141723343344
+41,5,Subang — Retail,Subang,Retail,0.9374851626338488
+41,6,Garut — Middlemen,Garut,Middlemen,0.9358483802014399
+41,7,Garut — Wholesaler,Garut,Wholesaler,0.9150076350417378
+41,8,Subang — Middlemen,Subang,Middlemen,0.9133868144399141
+41,9,Indramayu — Retail,Indramayu,Retail,0.9071829211874134
+41,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9023282581537587
+42,1,Karawang — Retail,Karawang,Retail,1.0
+42,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9904954045234426
+42,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9512418663777055
+42,4,Garut — Retail,Garut,Retail,0.9301229033266416
+42,5,Subang — Retail,Subang,Retail,0.9265647717183032
+42,6,Garut — Middlemen,Garut,Middlemen,0.9237865063422701
+42,7,Garut — Wholesaler,Garut,Wholesaler,0.8971090223827409
+42,8,Subang — Middlemen,Subang,Middlemen,0.8957906337196531
+42,9,Indramayu — Retail,Indramayu,Retail,0.8909691897441756
+42,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8852664909429439
+43,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+43,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9914338743328939
+43,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9612049069693864
+43,4,Garut — Retail,Garut,Retail,0.9497013460118345
+43,5,Subang — Retail,Subang,Retail,0.9471401458599628
+43,6,Garut — Middlemen,Garut,Middlemen,0.9439905955670972
+43,7,Subang — Middlemen,Subang,Middlemen,0.9228914306406635
+43,8,Garut — Wholesaler,Garut,Wholesaler,0.9228495173518245
+43,9,Indramayu — Retail,Indramayu,Retail,0.9215178755244718
+43,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9174129815397847
+44,1,Karawang — Retail,Karawang,Retail,1.0
+44,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9925056858565126
+44,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9527954284832304
+44,4,Garut — Retail,Garut,Retail,0.9347894537120497
+44,5,Subang — Retail,Subang,Retail,0.9314689421712112
+44,6,Garut — Middlemen,Garut,Middlemen,0.929793244283058
+44,7,Garut — Wholesaler,Garut,Wholesaler,0.903820770226037
+44,8,Subang — Middlemen,Subang,Middlemen,0.901271890572241
+44,9,Karawang — Middlemen,Karawang,Middlemen,0.8988096738988882
+44,10,Indramayu — Retail,Indramayu,Retail,0.8982505135804972
+45,1,Karawang — Retail,Karawang,Retail,1.0
+45,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9933281433313256
+45,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9602373345739498
+45,4,Garut — Retail,Garut,Retail,0.9360451133935176
+45,5,Subang — Retail,Subang,Retail,0.9327885398611919
+45,6,Garut — Middlemen,Garut,Middlemen,0.9315972089477347
+45,7,Garut — Wholesaler,Garut,Wholesaler,0.9097498447921173
+45,8,Subang — Middlemen,Subang,Middlemen,0.9074369594861629
+45,9,Indramayu — Retail,Indramayu,Retail,0.900209747707181
+45,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8949903629223699
+46,1,Karawang — Retail,Karawang,Retail,0.9999999999999998
+46,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9939136594286819
+46,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9568981067428148
+46,4,Garut — Retail,Garut,Retail,0.9354936123368522
+46,5,Subang — Retail,Subang,Retail,0.9322089564508632
+46,6,Garut — Middlemen,Garut,Middlemen,0.9314360519559737
+46,7,Garut — Wholesaler,Garut,Wholesaler,0.9076566602402053
+46,8,Subang — Middlemen,Subang,Middlemen,0.904457627537461
+46,9,Indramayu — Retail,Indramayu,Retail,0.8993492281674776
+46,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8940848351530113
+47,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+47,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9928365066052122
+47,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9552778123197851
+47,4,Garut — Retail,Garut,Retail,0.9342877920767789
+47,5,Subang — Retail,Subang,Retail,0.930941735998372
+47,6,Garut — Middlemen,Garut,Middlemen,0.9295121298135871
+47,7,Garut — Wholesaler,Garut,Wholesaler,0.9049108654285365
+47,8,Subang — Middlemen,Subang,Middlemen,0.9023476351877308
+47,9,Indramayu — Retail,Indramayu,Retail,0.8974677596142943
+47,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8921049591089762
+48,1,Karawang — Retail,Karawang,Retail,1.0
+48,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9908808179295943
+48,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9541813355924749
+48,4,Garut — Retail,Garut,Retail,0.9449830446369697
+48,5,Subang — Retail,Subang,Retail,0.942181589264735
+48,6,Garut — Middlemen,Garut,Middlemen,0.9389035899233659
+48,7,Indramayu — Retail,Indramayu,Retail,0.9141558034518806
+48,8,Garut — Wholesaler,Garut,Wholesaler,0.9138503355949995
+48,9,Subang — Middlemen,Subang,Middlemen,0.9133070498239153
+48,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.909665846937763
+49,1,Karawang — Retail,Karawang,Retail,1.0
+49,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9938728879483847
+49,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9557773043242347
+49,4,Garut — Retail,Garut,Retail,0.9378718253139333
+49,5,Subang — Retail,Subang,Retail,0.9347082676871445
+49,6,Garut — Middlemen,Garut,Middlemen,0.9337870839461897
+49,7,Garut — Wholesaler,Garut,Wholesaler,0.9093793652365966
+49,8,Subang — Middlemen,Subang,Middlemen,0.9062075421821851
+49,9,Indramayu — Retail,Indramayu,Retail,0.9030600075243268
+49,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.897989701455929
+50,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+50,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9917443901687653
+50,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9518470759829942
+50,4,Garut — Retail,Garut,Retail,0.9396094164299431
+50,5,Subang — Retail,Subang,Retail,0.9365343366902815
+50,6,Garut — Middlemen,Garut,Middlemen,0.9341056765424534
+50,7,Garut — Wholesaler,Garut,Wholesaler,0.9076632751566351
+50,8,Subang — Middlemen,Subang,Middlemen,0.9058749309572682
+50,9,Indramayu — Retail,Indramayu,Retail,0.9057712101399344
+50,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9008427096021903
+51,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+51,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9928481976817745
+51,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9544082382429692
+51,4,Garut — Retail,Garut,Retail,0.9327126241828548
+51,5,Subang — Retail,Subang,Retail,0.9292863607841866
+51,6,Garut — Middlemen,Garut,Middlemen,0.9279447559707045
+51,7,Garut — Wholesaler,Garut,Wholesaler,0.9028523250881464
+51,8,Subang — Middlemen,Subang,Middlemen,0.9001006038242769
+51,9,Indramayu — Retail,Indramayu,Retail,0.8950099896161169
+51,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8895186390065721
+52,1,Karawang — Retail,Karawang,Retail,1.0
+52,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9921502652879413
+52,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9553914738172476
+52,4,Garut — Retail,Garut,Retail,0.9410464421693824
+52,5,Subang — Retail,Subang,Retail,0.93804453557155
+52,6,Garut — Middlemen,Garut,Middlemen,0.9358132856946765
+52,7,Garut — Wholesaler,Garut,Wholesaler,0.9113343708158258
+52,8,Subang — Middlemen,Subang,Middlemen,0.9096895636265957
+52,9,Indramayu — Retail,Indramayu,Retail,0.9080134338182011
+52,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9032022095462404
+53,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+53,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9932086782063071
+53,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9564871742121659
+53,4,Garut — Retail,Garut,Retail,0.9248102800414163
+53,5,Subang — Retail,Subang,Retail,0.9209816304274041
+53,6,Garut — Middlemen,Garut,Middlemen,0.9202827321789544
+53,7,Garut — Wholesaler,Garut,Wholesaler,0.8963315709902653
+53,8,Subang — Middlemen,Subang,Middlemen,0.8931185925487233
+53,9,Karawang — Middlemen,Karawang,Middlemen,0.8928623720795994
+53,10,Indramayu — Retail,Indramayu,Retail,0.8826797837878902
+54,1,Karawang — Retail,Karawang,Retail,1.0
+54,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9933306383642734
+54,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9538872531533767
+54,4,Garut — Retail,Garut,Retail,0.9405015590716462
+54,5,Subang — Retail,Subang,Retail,0.9374719071056575
+54,6,Garut — Middlemen,Garut,Middlemen,0.9360553179811618
+54,7,Garut — Wholesaler,Garut,Wholesaler,0.9106282395736051
+54,8,Subang — Middlemen,Subang,Middlemen,0.9078193302257677
+54,9,Indramayu — Retail,Indramayu,Retail,0.9071632404291057
+54,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9023075480218589
+55,1,Karawang — Retail,Karawang,Retail,1.0
+55,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9918960282519919
+55,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9570584705614715
+55,4,Garut — Retail,Garut,Retail,0.9494693665383666
+55,5,Subang — Retail,Subang,Retail,0.9468963540254162
+55,6,Garut — Middlemen,Garut,Middlemen,0.9440667187063612
+55,7,Indramayu — Retail,Indramayu,Retail,0.921155912718931
+55,8,Garut — Wholesaler,Garut,Wholesaler,0.9205490709176593
+55,9,Subang — Middlemen,Subang,Middlemen,0.9197303816495421
+55,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9170320867933327
+56,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+56,2,Karawang — Rice Miller,Karawang,Rice Miller,0.993151977404645
+56,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9615061821898954
+56,4,Garut — Retail,Garut,Retail,0.9380578331967148
+56,5,Subang — Retail,Subang,Retail,0.9349037470642872
+56,6,Garut — Middlemen,Garut,Middlemen,0.9334924847998114
+56,7,Garut — Wholesaler,Garut,Wholesaler,0.9123753232791034
+56,8,Subang — Middlemen,Subang,Middlemen,0.910453083643154
+56,9,Indramayu — Retail,Indramayu,Retail,0.9033502398198733
+56,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8982951139318301
+57,1,Karawang — Retail,Karawang,Retail,0.9999999999999998
+57,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9918908600891996
+57,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9502022696606724
+57,4,Garut — Retail,Garut,Retail,0.9306541541689557
+57,5,Subang — Retail,Subang,Retail,0.9271230737763086
+57,6,Garut — Middlemen,Garut,Middlemen,0.9252480608950888
+57,7,Garut — Wholesaler,Garut,Wholesaler,0.8978660531736334
+57,8,Subang — Middlemen,Subang,Middlemen,0.8953151610481523
+57,9,Karawang — Middlemen,Karawang,Middlemen,0.8945756074225688
+57,10,Indramayu — Retail,Indramayu,Retail,0.8917981124176142
+58,1,Karawang — Retail,Karawang,Retail,0.9999999999999998
+58,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9923269513194162
+58,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9560270004526833
+58,4,Garut — Retail,Garut,Retail,0.9478323596994767
+58,5,Subang — Retail,Subang,Retail,0.9451759910361734
+58,6,Garut — Middlemen,Garut,Middlemen,0.942716993912421
+58,7,Indramayu — Retail,Indramayu,Retail,0.9186016540199355
+58,8,Garut — Wholesaler,Garut,Wholesaler,0.9185813164372505
+58,9,Subang — Middlemen,Subang,Middlemen,0.9172096610104478
+58,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9143442312881995
+59,1,Karawang — Retail,Karawang,Retail,1.0
+59,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9923776426785114
+59,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9563112242685663
+59,4,Garut — Retail,Garut,Retail,0.9416567346905669
+59,5,Subang — Retail,Subang,Retail,0.9386859040992278
+59,6,Garut — Middlemen,Garut,Middlemen,0.9365751631429078
+59,7,Garut — Wholesaler,Garut,Wholesaler,0.9125953959319777
+59,8,Subang — Middlemen,Subang,Middlemen,0.9109000782597402
+59,9,Indramayu — Retail,Indramayu,Retail,0.9089656870062358
+59,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9042042689597002
+60,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+60,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9906656647248113
+60,3,Karawang — Wholesaler,Karawang,Wholesaler,0.957768486723914
+60,4,Garut — Retail,Garut,Retail,0.9394349926379963
+60,5,Subang — Retail,Subang,Retail,0.9363510312641954
+60,6,Garut — Middlemen,Garut,Middlemen,0.9332121024545373
+60,7,Garut — Wholesaler,Garut,Wholesaler,0.9101991753879263
+60,8,Subang — Middlemen,Subang,Middlemen,0.9099566245107635
+60,9,Indramayu — Retail,Indramayu,Retail,0.9054990527626361
+60,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9005563174269883
+61,1,Karawang — Retail,Karawang,Retail,1.0
+61,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9934694867540288
+61,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9555783825030598
+61,4,Garut — Retail,Garut,Retail,0.9385836835241644
+61,5,Subang — Retail,Subang,Retail,0.9354563736139961
+61,6,Garut — Middlemen,Garut,Middlemen,0.9342300080268503
+61,7,Garut — Wholesaler,Garut,Wholesaler,0.9097444172378372
+61,8,Subang — Middlemen,Subang,Middlemen,0.906916255542557
+61,9,Indramayu — Retail,Indramayu,Retail,0.9041707359481418
+61,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8991585249231187
+62,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+62,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9929100416514623
+62,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9617509361534347
+62,4,Garut — Retail,Garut,Retail,0.9433344500022458
+62,5,Subang — Retail,Subang,Retail,0.9404490484307785
+62,6,Garut — Middlemen,Garut,Middlemen,0.9386078111032208
+62,7,Garut — Wholesaler,Garut,Wholesaler,0.9176491623588006
+62,8,Subang — Middlemen,Subang,Middlemen,0.9162213055235242
+62,9,Indramayu — Retail,Indramayu,Retail,0.911583464053643
+62,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9069589650485701
+63,1,Karawang — Retail,Karawang,Retail,1.0
+63,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9909252932044322
+63,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9532767775163739
+63,4,Garut — Retail,Garut,Retail,0.9426648917326476
+63,5,Subang — Retail,Subang,Retail,0.9397453963513899
+63,6,Garut — Middlemen,Garut,Middlemen,0.936615087202269
+63,7,Garut — Wholesaler,Garut,Wholesaler,0.9110481619023345
+63,8,Indramayu — Retail,Indramayu,Retail,0.910538737181417
+63,9,Subang — Middlemen,Subang,Middlemen,0.9102477621502909
+63,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9058595952486443
+64,1,Karawang — Retail,Karawang,Retail,1.0
+64,2,Karawang — Rice Miller,Karawang,Rice Miller,0.993401576013967
+64,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9544212088909199
+64,4,Garut — Retail,Garut,Retail,0.9334011952948711
+64,5,Subang — Retail,Subang,Retail,0.9300099938371663
+64,6,Garut — Middlemen,Garut,Middlemen,0.929002245970849
+64,7,Garut — Wholesaler,Garut,Wholesaler,0.9038701307751231
+64,8,Subang — Middlemen,Subang,Middlemen,0.9007022607004813
+64,9,Indramayu — Retail,Indramayu,Retail,0.8960843826552672
+64,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8906492266193667
+65,1,Karawang — Retail,Karawang,Retail,1.0
+65,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9923220854048801
+65,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9523718538159394
+65,4,Garut — Retail,Garut,Retail,0.9403105739380901
+65,5,Subang — Retail,Subang,Retail,0.9372711970368539
+65,6,Garut — Middlemen,Garut,Middlemen,0.9351919642080102
+65,7,Garut — Wholesaler,Garut,Wholesaler,0.9089963159943045
+65,8,Indramayu — Retail,Indramayu,Retail,0.9068652420168967
+65,9,Subang — Middlemen,Subang,Middlemen,0.9068306756291983
+65,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9019939632337981
+66,1,Karawang — Retail,Karawang,Retail,1.0
+66,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9932804839448802
+66,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9527984007401703
+66,4,Garut — Retail,Garut,Retail,0.9401747654154011
+66,5,Subang — Retail,Subang,Retail,0.9371284731639247
+66,6,Garut — Middlemen,Garut,Middlemen,0.9356950880453213
+66,7,Garut — Wholesaler,Garut,Wholesaler,0.9096584895164491
+66,8,Subang — Middlemen,Subang,Middlemen,0.9067503540347015
+66,9,Indramayu — Retail,Indramayu,Retail,0.9066533369153202
+66,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9017709747424358
+67,1,Karawang — Retail,Karawang,Retail,1.0
+67,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9923240968228606
+67,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9553816513604367
+67,4,Garut — Retail,Garut,Retail,0.9474408983755285
+67,5,Subang — Retail,Subang,Retail,0.9447645965584954
+67,6,Garut — Middlemen,Garut,Middlemen,0.9423236295907688
+67,7,Indramayu — Retail,Indramayu,Retail,0.9179908480854326
+67,8,Garut — Wholesaler,Garut,Wholesaler,0.9178244151674756
+67,9,Subang — Middlemen,Subang,Middlemen,0.9163618972337761
+67,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9137014780329135
+68,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+68,2,Karawang — Rice Miller,Karawang,Rice Miller,0.993552346215482
+68,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9525816981566929
+68,4,Garut — Retail,Garut,Retail,0.93118756256907
+68,5,Subang — Retail,Subang,Retail,0.9276836432546438
+68,6,Garut — Middlemen,Garut,Middlemen,0.9268891267127248
+68,7,Garut — Wholesaler,Garut,Wholesaler,0.9007072862835434
+68,8,Subang — Middlemen,Subang,Middlemen,0.8970945291216279
+68,9,Karawang — Middlemen,Karawang,Middlemen,0.8962703599926933
+68,10,Indramayu — Retail,Indramayu,Retail,0.8926304015771592
+69,1,Karawang — Retail,Karawang,Retail,1.0
+69,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9915652079361383
+69,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9563835489260026
+69,4,Garut — Retail,Garut,Retail,0.9338713299970938
+69,5,Subang — Retail,Subang,Retail,0.930504067730108
+69,6,Garut — Middlemen,Garut,Middlemen,0.9282481352878527
+69,7,Garut — Wholesaler,Garut,Wholesaler,0.904378133264405
+69,8,Subang — Middlemen,Subang,Middlemen,0.9029591953825673
+69,9,Indramayu — Retail,Indramayu,Retail,0.896817944436638
+69,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8914211562885065
+70,1,Karawang — Retail,Karawang,Retail,1.0
+70,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9933271336834711
+70,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9580699766477354
+70,4,Garut — Retail,Garut,Retail,0.9433129385554047
+70,5,Subang — Retail,Subang,Retail,0.9404264416241901
+70,6,Garut — Middlemen,Garut,Middlemen,0.938864361011052
+70,7,Garut — Wholesaler,Garut,Wholesaler,0.9157953560898475
+70,8,Subang — Middlemen,Subang,Middlemen,0.9136073200491068
+70,9,Indramayu — Retail,Indramayu,Retail,0.9115498992578724
+70,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9069236446947132
+71,1,Karawang — Retail,Karawang,Retail,1.0
+71,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9932720648687554
+71,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9551506936485573
+71,4,Garut — Retail,Garut,Retail,0.9372338669167007
+71,5,Subang — Retail,Subang,Retail,0.9340378245410306
+71,6,Garut — Middlemen,Garut,Middlemen,0.9327485768292043
+71,7,Garut — Wholesaler,Garut,Wholesaler,0.9080386665297376
+71,8,Subang — Middlemen,Subang,Middlemen,0.9052547163744958
+71,9,Indramayu — Retail,Indramayu,Retail,0.9020645866457963
+71,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8969422165283705
+72,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+72,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9919779597812598
+72,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9534306496233831
+72,4,Garut — Retail,Garut,Retail,0.9405025229594214
+72,5,Subang — Retail,Subang,Retail,0.937472920074458
+72,6,Garut — Middlemen,Garut,Middlemen,0.935154496146928
+72,7,Garut — Wholesaler,Garut,Wholesaler,0.9095849096562862
+72,8,Subang — Middlemen,Subang,Middlemen,0.9078307521021096
+72,9,Indramayu — Retail,Indramayu,Retail,0.907164744404945
+72,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9023091306609787
+73,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+73,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9916267862276432
+73,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9547824187474199
+73,4,Garut — Retail,Garut,Retail,0.9520493259637061
+73,5,Subang — Retail,Subang,Retail,0.9496076846097842
+73,6,Garut — Middlemen,Garut,Middlemen,0.9464671834488015
+73,7,Indramayu — Retail,Indramayu,Retail,0.9251814816100777
+73,8,Garut — Wholesaler,Garut,Wholesaler,0.9216894045090085
+73,9,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9212682072417497
+73,10,Subang — Middlemen,Subang,Middlemen,0.920963943069784
+74,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+74,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9935317016487464
+74,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9564991155494476
+74,4,Garut — Retail,Garut,Retail,0.935329525802367
+74,5,Subang — Retail,Subang,Retail,0.9320365146538863
+74,6,Garut — Middlemen,Garut,Middlemen,0.9310173269015312
+74,7,Garut — Wholesaler,Garut,Wholesaler,0.9070454641282233
+74,8,Subang — Middlemen,Subang,Middlemen,0.9041052350849429
+74,9,Indramayu — Retail,Indramayu,Retail,0.8990932002461882
+74,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.893815416061681
+75,1,Karawang — Retail,Karawang,Retail,1.0
+75,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9921125311768372
+75,3,Karawang — Wholesaler,Karawang,Wholesaler,0.953041923188531
+75,4,Garut — Retail,Garut,Retail,0.9526598173157491
+75,5,Subang — Retail,Subang,Retail,0.9502492620927591
+75,6,Garut — Middlemen,Garut,Middlemen,0.9474015047669739
+75,7,Indramayu — Retail,Indramayu,Retail,0.9261340450383863
+75,8,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9222705931221521
+75,9,Garut — Wholesaler,Garut,Wholesaler,0.9216013670357143
+75,10,Subang — Middlemen,Subang,Middlemen,0.9203120420508287
+76,1,Karawang — Retail,Karawang,Retail,1.0
+76,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9915596355479341
+76,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9614183443172948
+76,4,Garut — Retail,Garut,Retail,0.936476526331497
+76,5,Subang — Retail,Subang,Retail,0.933241920283282
+76,6,Garut — Middlemen,Garut,Middlemen,0.9308496166967865
+76,7,Garut — Wholesaler,Garut,Wholesaler,0.909818171517659
+76,8,Subang — Middlemen,Subang,Middlemen,0.909108032602636
+76,9,Indramayu — Retail,Indramayu,Retail,0.9008828910463013
+76,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8956987140500415
+77,1,Karawang — Retail,Karawang,Retail,0.9999999999999998
+77,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9938416525733249
+77,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9584215553338667
+77,4,Garut — Retail,Garut,Retail,0.9441217165085767
+77,5,Subang — Retail,Subang,Retail,0.941276402433209
+77,6,Garut — Middlemen,Garut,Middlemen,0.94001615155746
+77,7,Garut — Wholesaler,Garut,Wholesaler,0.9171016337668721
+77,8,Subang — Middlemen,Subang,Middlemen,0.9145737993394337
+77,9,Indramayu — Retail,Indramayu,Retail,0.9128118537429535
+77,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9082516038835327
+78,1,Karawang — Retail,Karawang,Retail,1.0
+78,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9912590950157315
+78,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9527155351226495
+78,4,Garut — Retail,Garut,Retail,0.9513646827377965
+78,5,Subang — Retail,Subang,Retail,0.948888179450301
+78,6,Garut — Middlemen,Garut,Middlemen,0.9455374127482842
+78,7,Indramayu — Retail,Indramayu,Retail,0.9241132173402266
+78,8,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9201440689546664
+78,9,Garut — Wholesaler,Garut,Wholesaler,0.9196257703174042
+78,10,Subang — Middlemen,Subang,Middlemen,0.9189315847715092
+79,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+79,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9918504298166473
+79,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9588002293908809
+79,4,Garut — Retail,Garut,Retail,0.9360602876750342
+79,5,Subang — Retail,Subang,Retail,0.9328044868149183
+79,6,Garut — Middlemen,Garut,Middlemen,0.9306272408861325
+79,7,Garut — Wholesaler,Garut,Wholesaler,0.9080952844376787
+79,8,Subang — Middlemen,Subang,Middlemen,0.9068288443231909
+79,9,Indramayu — Retail,Indramayu,Retail,0.900233424480939
+79,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8950152780755275
+80,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+80,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9931810957743673
+80,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9582652234954052
+80,4,Garut — Retail,Garut,Retail,0.9367824525456099
+80,5,Subang — Retail,Subang,Retail,0.9335634242157614
+80,6,Garut — Middlemen,Garut,Middlemen,0.9322365163951881
+80,7,Garut — Wholesaler,Garut,Wholesaler,0.909289973241892
+80,8,Subang — Middlemen,Subang,Middlemen,0.906911035790152
+80,9,Indramayu — Retail,Indramayu,Retail,0.9013602346193914
+80,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.896201024388174
+81,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+81,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9914028718993386
+81,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9565522992729717
+81,4,Garut — Retail,Garut,Retail,0.9468915887160212
+81,5,Subang — Retail,Subang,Retail,0.9441873161309495
+81,6,Garut — Middlemen,Garut,Middlemen,0.9411601699822468
+81,7,Garut — Wholesaler,Garut,Wholesaler,0.9173990779324954
+81,8,Indramayu — Retail,Indramayu,Retail,0.9171337478321495
+81,9,Subang — Middlemen,Subang,Middlemen,0.9167950841079936
+81,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9127995483908047
+82,1,Karawang — Retail,Karawang,Retail,1.0
+82,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9932800987692281
+82,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9593022242823361
+82,4,Garut — Retail,Garut,Retail,0.9353398336908512
+82,5,Subang — Retail,Subang,Retail,0.9320473474185542
+82,6,Garut — Middlemen,Garut,Middlemen,0.9308598995370032
+82,7,Garut — Wholesaler,Garut,Wholesaler,0.9084894995808714
+82,8,Subang — Middlemen,Subang,Middlemen,0.9060738436027226
+82,9,Indramayu — Retail,Indramayu,Retail,0.8991092838771199
+82,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8938323409236612
+83,1,Karawang — Retail,Karawang,Retail,1.0
+83,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9936884826307385
+83,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9583261992256149
+83,4,Garut — Retail,Garut,Retail,0.9539518915370456
+83,5,Subang — Retail,Subang,Retail,0.9516071285456448
+83,6,Garut — Middlemen,Garut,Middlemen,0.9497442132908712
+83,7,Indramayu — Retail,Indramayu,Retail,0.9281500975930187
+83,8,Garut — Wholesaler,Garut,Wholesaler,0.9267889518351605
+83,9,Subang — Middlemen,Subang,Middlemen,0.9248761415068865
+83,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9243920923891362
+84,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+84,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9932310194557303
+84,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9579448981095123
+84,4,Garut — Retail,Garut,Retail,0.9330040611873606
+84,5,Subang — Retail,Subang,Retail,0.9295926377186113
+84,6,Garut — Middlemen,Garut,Middlemen,0.9284914074911808
+84,7,Garut — Wholesaler,Garut,Wholesaler,0.9053600590810692
+84,8,Subang — Middlemen,Subang,Middlemen,0.9027115216094512
+84,9,Indramayu — Retail,Indramayu,Retail,0.8954647253486034
+84,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8899971590337039
+85,1,Karawang — Retail,Karawang,Retail,1.0
+85,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9907876756212357
+85,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9568241230839094
+85,4,Garut — Retail,Garut,Retail,0.923392938698407
+85,5,Subang — Retail,Subang,Retail,0.9194921182691713
+85,6,Garut — Middlemen,Garut,Middlemen,0.9172513891125642
+85,7,Garut — Wholesaler,Garut,Wholesaler,0.8936957681881602
+85,8,Subang — Middlemen,Subang,Middlemen,0.8924293383726937
+85,9,Karawang — Middlemen,Karawang,Middlemen,0.8821690284634952
+85,10,Indramayu — Retail,Indramayu,Retail,0.8804682741174219
+86,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+86,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9914563220963103
+86,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9586931863872037
+86,4,Garut — Retail,Garut,Retail,0.9481334697479576
+86,5,Subang — Retail,Subang,Retail,0.945492433564567
+86,6,Garut — Middlemen,Garut,Middlemen,0.9424376844788313
+86,7,Garut — Wholesaler,Garut,Wholesaler,0.9198788582322762
+86,8,Subang — Middlemen,Subang,Middlemen,0.9195374247533136
+86,9,Indramayu — Retail,Indramayu,Retail,0.919071482821145
+86,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9148386338051793
+87,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+87,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9927357840133786
+87,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9534856957304411
+87,4,Garut — Retail,Garut,Retail,0.9454674532398428
+87,5,Subang — Retail,Subang,Retail,0.9426906638832742
+87,6,Garut — Middlemen,Garut,Middlemen,0.9406246425820953
+87,7,Garut — Wholesaler,Garut,Wholesaler,0.9150217268417457
+87,8,Indramayu — Retail,Indramayu,Retail,0.9149116371224328
+87,9,Subang — Middlemen,Subang,Middlemen,0.9129067046990278
+87,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9104612133950283
+88,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+88,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9903419793723923
+88,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9495411070295999
+88,4,Garut — Retail,Garut,Retail,0.9230576175526345
+88,5,Subang — Retail,Subang,Retail,0.9191397226193836
+88,6,Garut — Middlemen,Garut,Middlemen,0.9166189371342293
+88,7,Karawang — Middlemen,Karawang,Middlemen,0.8897192720163617
+88,8,Garut — Wholesaler,Garut,Wholesaler,0.8889957751194648
+88,9,Subang — Middlemen,Subang,Middlemen,0.8872500485836836
+88,10,Indramayu — Retail,Indramayu,Retail,0.8799450649693601
+89,1,Karawang — Retail,Karawang,Retail,0.9999999999999998
+89,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9907651980264028
+89,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9522989152996948
+89,4,Garut — Retail,Garut,Retail,0.9266995500676919
+89,5,Subang — Retail,Subang,Retail,0.9229671018088762
+89,6,Garut — Middlemen,Garut,Middlemen,0.9205430154186273
+89,7,Garut — Wholesaler,Garut,Wholesaler,0.8944384712431225
+89,8,Subang — Middlemen,Subang,Middlemen,0.8928450686024892
+89,9,Karawang — Middlemen,Karawang,Middlemen,0.8897433262693233
+89,10,Indramayu — Retail,Indramayu,Retail,0.8856276544288209
+90,1,Karawang — Retail,Karawang,Retail,1.0
+90,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9933640249172127
+90,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9530147862509765
+90,4,Garut — Retail,Garut,Retail,0.9502063739297009
+90,5,Subang — Retail,Subang,Retail,0.947670889726018
+90,6,Garut — Middlemen,Garut,Middlemen,0.9457823905411759
+90,7,Indramayu — Retail,Indramayu,Retail,0.9223058819773466
+90,8,Garut — Wholesaler,Garut,Wholesaler,0.9198606724743067
+90,9,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9182422035302091
+90,10,Subang — Middlemen,Subang,Middlemen,0.9174195710970183
+91,1,Karawang — Retail,Karawang,Retail,1.0
+91,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9938235629509629
+91,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9540499123112709
+91,4,Garut — Retail,Garut,Retail,0.949096842181677
+91,5,Subang — Retail,Subang,Retail,0.9465048607826179
+91,6,Garut — Middlemen,Garut,Middlemen,0.944979217482319
+91,7,Indramayu — Retail,Indramayu,Retail,0.9205746545616302
+91,8,Garut — Wholesaler,Garut,Wholesaler,0.9196019673152078
+91,9,Subang — Middlemen,Subang,Middlemen,0.9168459647698824
+91,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9164204267689902
+92,1,Karawang — Retail,Karawang,Retail,0.9999999999999998
+92,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9921878500940514
+92,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9511914860606905
+92,4,Garut — Retail,Garut,Retail,0.9410754353032909
+92,5,Subang — Retail,Subang,Retail,0.9380750050316239
+92,6,Garut — Middlemen,Garut,Middlemen,0.935867335365992
+92,7,Garut — Wholesaler,Garut,Wholesaler,0.9090177209780732
+92,8,Indramayu — Retail,Indramayu,Retail,0.9080586724590777
+92,9,Subang — Middlemen,Subang,Middlemen,0.9068668331243797
+92,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9032498143287837
+93,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+93,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9932707726776018
+93,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9600244429103583
+93,4,Garut — Retail,Garut,Retail,0.9526682209210634
+93,5,Subang — Retail,Subang,Retail,0.9502580936084347
+93,6,Garut — Middlemen,Garut,Middlemen,0.948182069372798
+93,7,Garut — Wholesaler,Garut,Wholesaler,0.9262195716950122
+93,8,Indramayu — Retail,Indramayu,Retail,0.9261471573733302
+93,9,Subang — Middlemen,Subang,Middlemen,0.9247758949408242
+93,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9222843912788063
+94,1,Karawang — Retail,Karawang,Retail,1.0
+94,2,Karawang — Rice Miller,Karawang,Rice Miller,0.993765538658827
+94,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9527954704116098
+94,4,Garut — Retail,Garut,Retail,0.9425897031457997
+94,5,Subang — Retail,Subang,Retail,0.9396663791726259
+94,6,Garut — Middlemen,Garut,Middlemen,0.9384333955850177
+94,7,Garut — Wholesaler,Garut,Wholesaler,0.9123539518588195
+94,8,Indramayu — Retail,Indramayu,Retail,0.9104214187332231
+94,9,Subang — Middlemen,Subang,Middlemen,0.9091716598796924
+94,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9057361406287362
+95,1,Karawang — Retail,Karawang,Retail,1.0
+95,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9935167960818939
+95,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9634703304607407
+95,4,Garut — Retail,Garut,Retail,0.9432768650788582
+95,5,Subang — Retail,Subang,Retail,0.9403885312914599
+95,6,Garut — Middlemen,Garut,Middlemen,0.9389547291334542
+95,7,Garut — Wholesaler,Garut,Wholesaler,0.9189137637589865
+95,8,Subang — Middlemen,Subang,Middlemen,0.9171818252587143
+95,9,Indramayu — Retail,Indramayu,Retail,0.9114936129986566
+95,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9068644144641356
+96,1,Karawang — Retail,Karawang,Retail,1.0
+96,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9930922837085148
+96,3,Karawang — Wholesaler,Karawang,Wholesaler,0.958924530878242
+96,4,Garut — Retail,Garut,Retail,0.9449686566712617
+96,5,Subang — Retail,Subang,Retail,0.942166468665904
+96,6,Garut — Middlemen,Garut,Middlemen,0.9403635124769382
+96,7,Garut — Wholesaler,Garut,Wholesaler,0.9177961592804462
+96,8,Subang — Middlemen,Subang,Middlemen,0.9159815626734313
+96,9,Indramayu — Retail,Indramayu,Retail,0.9141333535844168
+96,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9096422228624585
+97,1,Karawang — Retail,Karawang,Retail,1.0
+97,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9915637163102003
+97,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9522416115230378
+97,4,Garut — Retail,Garut,Retail,0.9475095489372708
+97,5,Subang — Retail,Subang,Retail,0.9448367427968657
+97,6,Garut — Middlemen,Garut,Middlemen,0.9418853598107376
+97,7,Indramayu — Retail,Indramayu,Retail,0.9180979651055671
+97,8,Garut — Wholesaler,Garut,Wholesaler,0.9156806994857001
+97,9,Subang — Middlemen,Subang,Middlemen,0.9144872169311945
+97,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9138141976538254
+98,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+98,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9935425995161504
+98,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9512611031469523
+98,4,Garut — Retail,Garut,Retail,0.9378340141343602
+98,5,Subang — Retail,Subang,Retail,0.9346685311678021
+98,6,Garut — Middlemen,Garut,Middlemen,0.9335290804784605
+98,7,Garut — Wholesaler,Garut,Wholesaler,0.9066036563972515
+98,8,Subang — Middlemen,Subang,Middlemen,0.9031873857733264
+98,9,Indramayu — Retail,Indramayu,Retail,0.9030010098878788
+98,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8979276180334554
+99,1,Karawang — Retail,Karawang,Retail,1.0
+99,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9922823319352971
+99,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9531845350755555
+99,4,Garut — Retail,Garut,Retail,0.9224985249161468
+99,5,Subang — Retail,Subang,Retail,0.9185521610670911
+99,6,Garut — Middlemen,Garut,Middlemen,0.9173534128730115
+99,7,Garut — Wholesaler,Garut,Wholesaler,0.8916192442265318
+99,8,Karawang — Middlemen,Karawang,Middlemen,0.8908144005962187
+99,9,Subang — Middlemen,Subang,Middlemen,0.8886713977966962
+99,10,Indramayu — Retail,Indramayu,Retail,0.8790727001164059
+100,1,Karawang — Retail,Karawang,Retail,1.0
+100,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9919731893549242
+100,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9608057723702736
+100,4,Garut — Retail,Garut,Retail,0.9301269675932303
+100,5,Subang — Retail,Subang,Retail,0.926569042936756
+100,6,Garut — Middlemen,Garut,Middlemen,0.9247757604965131
+100,7,Garut — Wholesaler,Garut,Wholesaler,0.9033638910712223
+100,8,Subang — Middlemen,Subang,Middlemen,0.901922588394177
+100,9,Indramayu — Retail,Indramayu,Retail,0.8909755313110175
+100,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8852731641962653
+101,1,Karawang — Retail,Karawang,Retail,1.0
+101,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9941766923620216
+101,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9594176183249876
+101,4,Garut — Retail,Garut,Retail,0.9398812323986334
+101,5,Subang — Retail,Subang,Retail,0.9368199934885982
+101,6,Garut — Middlemen,Garut,Middlemen,0.9359990273066477
+101,7,Garut — Wholesaler,Garut,Wholesaler,0.9136175308443559
+101,8,Subang — Middlemen,Subang,Middlemen,0.9107127769207096
+101,9,Indramayu — Retail,Indramayu,Retail,0.9061953307276187
+101,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9012890132036602
+102,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+102,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9937176189885131
+102,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9539012689389079
+102,4,Garut — Retail,Garut,Retail,0.9433333990781725
+102,5,Subang — Retail,Subang,Retail,0.9404479439938039
+102,6,Garut — Middlemen,Garut,Middlemen,0.9391451450705145
+102,7,Garut — Wholesaler,Garut,Wholesaler,0.9136931028530948
+102,8,Indramayu — Retail,Indramayu,Retail,0.911581824273104
+102,9,Subang — Middlemen,Subang,Middlemen,0.910713417562885
+102,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9069572395016822
+103,1,Karawang — Retail,Karawang,Retail,1.0
+103,2,Karawang — Rice Miller,Karawang,Rice Miller,0.991862025604255
+103,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9556066570230423
+103,4,Garut — Retail,Garut,Retail,0.9333765383122672
+103,5,Subang — Retail,Subang,Retail,0.9299840813245912
+103,6,Garut — Middlemen,Garut,Middlemen,0.927951222048437
+103,7,Garut — Wholesaler,Garut,Wholesaler,0.9036180834616836
+103,8,Subang — Middlemen,Subang,Middlemen,0.9018429453193721
+103,9,Indramayu — Retail,Indramayu,Retail,0.8960459098090878
+103,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8906087415066246
+104,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+104,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9922427685581368
+104,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9576995445480213
+104,4,Garut — Retail,Garut,Retail,0.9505987673591942
+104,5,Subang — Retail,Subang,Retail,0.9480832637719201
+104,6,Garut — Middlemen,Garut,Middlemen,0.9454272797312854
+104,7,Indramayu — Retail,Indramayu,Retail,0.9229181422971581
+104,8,Garut — Wholesaler,Garut,Wholesaler,0.9222415544540155
+104,9,Subang — Middlemen,Subang,Middlemen,0.9212695072336823
+104,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9188864872403231
+105,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+105,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9922640115366901
+105,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9536597677178313
+105,4,Garut — Retail,Garut,Retail,0.9418556892172968
+105,5,Subang — Retail,Subang,Retail,0.9388949893615476
+105,6,Garut — Middlemen,Garut,Middlemen,0.9366983635750903
+105,7,Garut — Wholesaler,Garut,Wholesaler,0.9112336365493469
+105,8,Subang — Middlemen,Subang,Middlemen,0.9093403925071408
+105,9,Indramayu — Retail,Indramayu,Retail,0.9092761202423909
+105,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9045309389571846
+106,1,Karawang — Retail,Karawang,Retail,1.0
+106,2,Karawang — Rice Miller,Karawang,Rice Miller,0.993046454604237
+106,3,Karawang — Wholesaler,Karawang,Wholesaler,0.957818288178442
+106,4,Garut — Retail,Garut,Retail,0.9431540339835626
+106,5,Subang — Retail,Subang,Retail,0.9402594456546411
+106,6,Garut — Middlemen,Garut,Middlemen,0.9385183370530538
+106,7,Garut — Wholesaler,Garut,Wholesaler,0.915331293607796
+106,8,Subang — Middlemen,Subang,Middlemen,0.9133361983023062
+106,9,Indramayu — Retail,Indramayu,Retail,0.9113019568697923
+106,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9066627340387099
+107,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+107,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9914467240216809
+107,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9569630794779587
+107,4,Garut — Retail,Garut,Retail,0.9482683972138213
+107,5,Subang — Retail,Subang,Retail,0.9456342315173852
+107,6,Garut — Middlemen,Garut,Middlemen,0.9425662132282753
+107,7,Indramayu — Retail,Indramayu,Retail,0.9192820131898815
+107,8,Garut — Wholesaler,Garut,Wholesaler,0.9190329513351176
+107,9,Subang — Middlemen,Subang,Middlemen,0.9185098263671684
+107,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9150601756602891
+108,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+108,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9922157409120489
+108,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9593601286126874
+108,4,Garut — Retail,Garut,Retail,0.9410771149149081
+108,5,Subang — Retail,Subang,Retail,0.9380767701688207
+108,6,Garut — Middlemen,Garut,Middlemen,0.9358876088562741
+108,7,Garut — Wholesaler,Garut,Wholesaler,0.9136402400682144
+108,8,Subang — Middlemen,Subang,Middlemen,0.9123939821067265
+108,9,Indramayu — Retail,Indramayu,Retail,0.9080612931949735
+108,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9032525721384792
+109,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+109,2,Karawang — Rice Miller,Karawang,Rice Miller,0.991808292191506
+109,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9570057010929707
+109,4,Garut — Retail,Garut,Retail,0.9307341688781644
+109,5,Subang — Retail,Subang,Retail,0.9272071628228828
+109,6,Garut — Middlemen,Garut,Middlemen,0.9252730303391685
+109,7,Garut — Wholesaler,Garut,Wholesaler,0.9017330877274666
+109,8,Subang — Middlemen,Subang,Middlemen,0.9000261854023048
+109,9,Indramayu — Retail,Indramayu,Retail,0.8919229611733973
+109,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8862701480069995
+110,1,Karawang — Retail,Karawang,Retail,1.0
+110,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9932709328197474
+110,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9571105004215212
+110,4,Garut — Retail,Garut,Retail,0.9327888764115464
+110,5,Subang — Retail,Subang,Retail,0.9293664957652825
+110,6,Garut — Middlemen,Garut,Middlemen,0.9283028316247114
+110,7,Garut — Wholesaler,Garut,Wholesaler,0.9046977486494137
+110,8,Subang — Middlemen,Subang,Middlemen,0.9019108769206615
+110,9,Indramayu — Retail,Indramayu,Retail,0.8951289676886737
+110,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8896438400550947
+111,1,Karawang — Retail,Karawang,Retail,1.0
+111,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9928237676336854
+111,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9562468639693801
+111,4,Garut — Retail,Garut,Retail,0.9503405334926445
+111,5,Subang — Retail,Subang,Retail,0.9478118806744112
+111,6,Garut — Middlemen,Garut,Middlemen,0.945556378581768
+111,7,Indramayu — Retail,Indramayu,Retail,0.9225152141698344
+111,8,Garut — Wholesaler,Garut,Wholesaler,0.9215024445910436
+111,9,Subang — Middlemen,Subang,Middlemen,0.9198770519017689
+111,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9184624845401949
+112,1,Karawang — Retail,Karawang,Retail,1.0
+112,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9931503997647574
+112,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9557488854574766
+112,4,Garut — Retail,Garut,Retail,0.9330221352918167
+112,5,Subang — Retail,Subang,Retail,0.9296116321538398
+112,6,Garut — Middlemen,Garut,Middlemen,0.9284557351349882
+112,7,Garut — Wholesaler,Garut,Wholesaler,0.904093354366405
+112,8,Subang — Middlemen,Subang,Middlemen,0.9012623806722732
+112,9,Karawang — Middlemen,Karawang,Middlemen,0.8978208267458185
+112,10,Indramayu — Retail,Indramayu,Retail,0.8954929267815094
+113,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+113,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9929945378887709
+113,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9562300134973122
+113,4,Garut — Retail,Garut,Retail,0.9372034571246165
+113,5,Subang — Retail,Subang,Retail,0.9340058662867523
+113,6,Garut — Middlemen,Garut,Middlemen,0.9325331490504636
+113,7,Garut — Wholesaler,Garut,Wholesaler,0.9084552138456768
+113,8,Subang — Middlemen,Subang,Middlemen,0.9060192739796404
+113,9,Indramayu — Retail,Indramayu,Retail,0.9020171375612103
+113,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8968922856880575
+114,1,Karawang — Retail,Karawang,Retail,1.0
+114,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9923745940864456
+114,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9548048486476166
+114,4,Garut — Retail,Garut,Retail,0.9361910244586985
+114,5,Subang — Retail,Subang,Retail,0.9329418806966085
+114,6,Garut — Middlemen,Garut,Middlemen,0.9311074205163289
+114,7,Garut — Wholesaler,Garut,Wholesaler,0.9062787774118813
+114,8,Subang — Middlemen,Subang,Middlemen,0.9041366263847701
+114,9,Indramayu — Retail,Indramayu,Retail,0.9004374160337046
+114,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8952299391113565
+115,1,Karawang — Retail,Karawang,Retail,1.0
+115,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9928548648991234
+115,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9617680055434028
+115,4,Garut — Retail,Garut,Retail,0.9419919137926606
+115,5,Subang — Retail,Subang,Retail,0.9390381504724932
+115,6,Garut — Middlemen,Garut,Middlemen,0.9372284903920762
+115,7,Garut — Wholesaler,Garut,Wholesaler,0.9162841494582313
+115,8,Subang — Middlemen,Subang,Middlemen,0.9148350052648024
+115,9,Indramayu — Retail,Indramayu,Retail,0.9094886745203411
+115,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9047546105791519
+116,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+116,2,Karawang — Rice Miller,Karawang,Rice Miller,0.992365869053908
+116,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9535609873000589
+116,4,Garut — Retail,Garut,Retail,0.9347515456918289
+116,5,Subang — Retail,Subang,Retail,0.9314291038801096
+116,6,Garut — Middlemen,Garut,Middlemen,0.929662125061101
+116,7,Garut — Wholesaler,Garut,Wholesaler,0.9041330658390327
+116,8,Subang — Middlemen,Subang,Middlemen,0.9017835425214716
+116,9,Indramayu — Retail,Indramayu,Retail,0.8981913648414022
+116,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.892866411460686
+117,1,Karawang — Retail,Karawang,Retail,1.0
+117,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9929350804515804
+117,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9598114039148621
+117,4,Garut — Retail,Garut,Retail,0.9319540448338003
+117,5,Subang — Retail,Subang,Retail,0.9284891546849121
+117,6,Garut — Middlemen,Garut,Middlemen,0.9272440984681871
+117,7,Garut — Wholesaler,Garut,Wholesaler,0.9051900207449759
+117,8,Subang — Middlemen,Subang,Middlemen,0.9029420037612408
+117,9,Indramayu — Retail,Indramayu,Retail,0.8938263611454411
+117,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8882731025610314
+118,1,Karawang — Retail,Karawang,Retail,1.0
+118,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9917898368537944
+118,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9555408788709213
+118,4,Garut — Retail,Garut,Retail,0.9360561440082408
+118,5,Subang — Retail,Subang,Retail,0.9328001321532139
+118,6,Garut — Middlemen,Garut,Middlemen,0.9305827019107703
+118,7,Garut — Wholesaler,Garut,Wholesaler,0.9062186152259405
+118,8,Subang — Middlemen,Subang,Middlemen,0.9046315076113404
+118,9,Indramayu — Retail,Indramayu,Retail,0.9002269590241666
+118,10,Karawang — Middlemen,Karawang,Middlemen,0.8968273922363468
+119,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+119,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9932249649046235
+119,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9587010242360341
+119,4,Garut — Retail,Garut,Retail,0.9499643433206648
+119,5,Subang — Retail,Subang,Retail,0.9474165349535411
+119,6,Garut — Middlemen,Garut,Middlemen,0.9454476532570804
+119,7,Garut — Wholesaler,Garut,Wholesaler,0.922743042740078
+119,8,Indramayu — Retail,Indramayu,Retail,0.9219282361582415
+119,9,Subang — Middlemen,Subang,Middlemen,0.9210489138078687
+119,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9178448054928561
+120,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+120,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9933294514939237
+120,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9557109718204544
+120,4,Garut — Retail,Garut,Retail,0.9339144704713648
+120,5,Subang — Retail,Subang,Retail,0.9305494049110599
+120,6,Garut — Middlemen,Garut,Middlemen,0.9294674381339806
+120,7,Garut — Wholesaler,Garut,Wholesaler,0.9050684796668851
+120,8,Subang — Middlemen,Subang,Middlemen,0.9021321686170543
+120,9,Indramayu — Retail,Indramayu,Retail,0.8968852574918237
+120,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8914919900556654
+121,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+121,2,Karawang — Rice Miller,Karawang,Rice Miller,0.992217943613098
+121,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9516045047088607
+121,4,Garut — Retail,Garut,Retail,0.944455676988289
+121,5,Subang — Retail,Subang,Retail,0.9416273681320186
+121,6,Garut — Middlemen,Garut,Middlemen,0.9392676393970211
+121,7,Indramayu — Retail,Indramayu,Retail,0.9133329398130673
+121,8,Garut — Wholesaler,Garut,Wholesaler,0.9126482854152465
+121,9,Subang — Middlemen,Subang,Middlemen,0.9106917900978092
+121,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9087999446067155
+122,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+122,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9926857108981343
+122,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9600301370981476
+122,4,Garut — Retail,Garut,Retail,0.9520224539944296
+122,5,Subang — Retail,Subang,Retail,0.9495794443237372
+122,6,Garut — Middlemen,Garut,Middlemen,0.9471462612598526
+122,7,Garut — Wholesaler,Garut,Wholesaler,0.9252366598742949
+122,8,Indramayu — Retail,Indramayu,Retail,0.9251395526702269
+122,9,Subang — Middlemen,Subang,Middlemen,0.9242393486664006
+122,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9212240852693564
+123,1,Karawang — Retail,Karawang,Retail,1.0
+123,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9929945420996016
+123,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9537728044433142
+123,4,Garut — Retail,Garut,Retail,0.9367369558826246
+123,5,Subang — Retail,Subang,Retail,0.9335156108693085
+123,6,Garut — Middlemen,Garut,Middlemen,0.9320666506156923
+123,7,Garut — Wholesaler,Garut,Wholesaler,0.906603601221384
+123,8,Subang — Middlemen,Subang,Middlemen,0.9038649445930776
+123,9,Indramayu — Retail,Indramayu,Retail,0.901289245149803
+123,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8961263219170755
+124,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+124,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9926905687281451
+124,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9564838928243179
+124,4,Garut — Retail,Garut,Retail,0.9355129891356763
+124,5,Subang — Retail,Subang,Retail,0.9322293199134676
+124,6,Garut — Middlemen,Garut,Middlemen,0.9306400349544397
+124,7,Garut — Wholesaler,Garut,Wholesaler,0.9067310246400793
+124,8,Subang — Middlemen,Subang,Middlemen,0.9044864861489672
+124,9,Indramayu — Retail,Indramayu,Retail,0.8993794622237925
+124,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8941166505579037
+125,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+125,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9928777010977083
+125,3,Karawang — Wholesaler,Karawang,Wholesaler,0.953465568040526
+125,4,Garut — Retail,Garut,Retail,0.9321342095716743
+125,5,Subang — Retail,Subang,Retail,0.9286784933850577
+125,6,Garut — Middlemen,Garut,Middlemen,0.9273860103034798
+125,7,Garut — Wholesaler,Garut,Wholesaler,0.9017596963637605
+125,8,Subang — Middlemen,Subang,Middlemen,0.898847369107386
+125,9,Indramayu — Retail,Indramayu,Retail,0.8941074762501764
+125,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8885689209846452
+126,1,Karawang — Retail,Karawang,Retail,1.0
+126,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9915713805724263
+126,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9523878633946616
+126,4,Garut — Retail,Garut,Retail,0.9375973957358977
+126,5,Subang — Retail,Subang,Retail,0.9344198641948744
+126,6,Garut — Middlemen,Garut,Middlemen,0.9319783161175152
+126,7,Garut — Wholesaler,Garut,Wholesaler,0.9058554461956447
+126,8,Subang — Middlemen,Subang,Middlemen,0.9041675721105275
+126,9,Indramayu — Retail,Indramayu,Retail,0.9026318088630223
+126,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8975391064830978
+127,1,Karawang — Retail,Karawang,Retail,1.0
+127,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9924162057354072
+127,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9580500507756374
+127,4,Garut — Retail,Garut,Retail,0.9439726879132699
+127,5,Subang — Retail,Subang,Retail,0.9411197853234857
+127,6,Garut — Middlemen,Garut,Middlemen,0.9389168250702081
+127,7,Garut — Wholesaler,Garut,Wholesaler,0.9159139488321347
+127,8,Subang — Middlemen,Subang,Middlemen,0.914502416654176
+127,9,Indramayu — Retail,Indramayu,Retail,0.9125793210638481
+127,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9080069089190395
+128,1,Karawang — Retail,Karawang,Retail,0.9999999999999998
+128,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9926445276041759
+128,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9625741147300767
+128,4,Garut — Retail,Garut,Retail,0.9301999638768654
+128,5,Subang — Retail,Subang,Retail,0.9266457561805463
+128,6,Garut — Middlemen,Garut,Middlemen,0.9252963156129828
+128,7,Garut — Wholesaler,Garut,Wholesaler,0.904824236481357
+128,8,Subang — Middlemen,Subang,Middlemen,0.9030382263586498
+128,9,Indramayu — Retail,Indramayu,Retail,0.8910894290590536
+128,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8853930192012427
+129,1,Karawang — Retail,Karawang,Retail,1.0
+129,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9936454212176768
+129,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9615602124024588
+129,4,Garut — Retail,Garut,Retail,0.9448982790846454
+129,5,Subang — Retail,Subang,Retail,0.9420925074628042
+129,6,Garut — Middlemen,Garut,Middlemen,0.9406618932297633
+129,7,Garut — Wholesaler,Garut,Wholesaler,0.9195332823768213
+129,8,Subang — Middlemen,Subang,Middlemen,0.9175618364420572
+129,9,Indramayu — Retail,Indramayu,Retail,0.9140235418484127
+129,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9095266675824617
+130,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+130,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9930590714801917
+130,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9502553566092168
+130,4,Garut — Retail,Garut,Retail,0.9288297038138389
+130,5,Subang — Retail,Subang,Retail,0.9252057226742314
+130,6,Garut — Middlemen,Garut,Middlemen,0.9242024181339668
+130,7,Garut — Wholesaler,Garut,Wholesaler,0.8967511245683133
+130,8,Subang — Middlemen,Subang,Middlemen,0.8931577197877631
+130,9,Indramayu — Retail,Indramayu,Retail,0.8889513813718214
+130,10,Karawang — Middlemen,Karawang,Middlemen,0.8870330316036669
+131,1,Karawang — Retail,Karawang,Retail,0.9999999999999998
+131,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9917599666299685
+131,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9580212802712664
+131,4,Garut — Retail,Garut,Retail,0.9454124683810897
+131,5,Subang — Retail,Subang,Retail,0.9426328792035035
+131,6,Garut — Middlemen,Garut,Middlemen,0.9399191128010689
+131,7,Garut — Wholesaler,Garut,Wholesaler,0.9169557500690287
+131,8,Subang — Middlemen,Subang,Middlemen,0.9161510921389685
+131,9,Indramayu — Retail,Indramayu,Retail,0.9148258430069492
+131,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9103709319424481
+132,1,Karawang — Retail,Karawang,Retail,1.0
+132,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9933129798820615
+132,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9573089308082305
+132,4,Garut — Retail,Garut,Retail,0.9278763983498646
+132,5,Subang — Retail,Subang,Retail,0.924203875034562
+132,6,Garut — Middlemen,Garut,Middlemen,0.9234183849379055
+132,7,Garut — Wholesaler,Garut,Wholesaler,0.8999215851104643
+132,8,Subang — Middlemen,Subang,Middlemen,0.8968727018836006
+132,9,Indramayu — Retail,Indramayu,Retail,0.8874639173513241
+132,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8815778803484794
+133,1,Karawang — Retail,Karawang,Retail,1.0
+133,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9905133584442031
+133,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9490593240424435
+133,4,Garut — Retail,Garut,Retail,0.9355372927662614
+133,5,Subang — Retail,Subang,Retail,0.9322548610813904
+133,6,Garut — Middlemen,Garut,Middlemen,0.9292128650623968
+133,7,Garut — Wholesaler,Garut,Wholesaler,0.9013035704923974
+133,8,Subang — Middlemen,Subang,Middlemen,0.8999984177017413
+133,9,Indramayu — Retail,Indramayu,Retail,0.8994173837268459
+133,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8941565554903151
+134,1,Karawang — Retail,Karawang,Retail,1.0
+134,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9934086228858063
+134,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9487433527047268
+134,4,Garut — Retail,Garut,Retail,0.9319748437745966
+134,5,Subang — Retail,Subang,Retail,0.9285110127047513
+134,6,Garut — Middlemen,Garut,Middlemen,0.9275805923651341
+134,7,Garut — Wholesaler,Garut,Wholesaler,0.8992473056366028
+134,8,Subang — Middlemen,Subang,Middlemen,0.8953564523711127
+134,9,Indramayu — Retail,Indramayu,Retail,0.8938588142019568
+134,10,Karawang — Middlemen,Karawang,Middlemen,0.8909909251355386
+135,1,Karawang — Retail,Karawang,Retail,1.0
+135,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9915242552635304
+135,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9499120506095398
+135,4,Garut — Retail,Garut,Retail,0.9449219858530876
+135,5,Subang — Retail,Subang,Retail,0.9421174213764506
+135,6,Garut — Middlemen,Garut,Middlemen,0.9392714893621078
+135,7,Indramayu — Retail,Indramayu,Retail,0.9140605320540003
+135,8,Garut — Wholesaler,Garut,Wholesaler,0.9117570209262411
+135,9,Subang — Middlemen,Subang,Middlemen,0.9101995929289664
+135,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9095655925072407
+136,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+136,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9922039690675694
+136,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9493944491056481
+136,4,Garut — Retail,Garut,Retail,0.9288715874311806
+136,5,Subang — Retail,Subang,Retail,0.9252497389992816
+136,6,Garut — Middlemen,Garut,Middlemen,0.9236742334762269
+136,7,Karawang — Middlemen,Karawang,Middlemen,0.8994823758540761
+136,8,Garut — Wholesaler,Garut,Wholesaler,0.8958102713545274
+136,9,Subang — Middlemen,Subang,Middlemen,0.8928207675438685
+136,10,Indramayu — Retail,Indramayu,Retail,0.8890167333247875
+137,1,Karawang — Retail,Karawang,Retail,1.0
+137,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9932957464579582
+137,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9580758556360499
+137,4,Garut — Retail,Garut,Retail,0.9483142070631229
+137,5,Subang — Retail,Subang,Retail,0.9456823739975563
+137,6,Garut — Middlemen,Garut,Middlemen,0.9438447047017615
+137,7,Garut — Wholesaler,Garut,Wholesaler,0.9207816792983109
+137,8,Indramayu — Retail,Indramayu,Retail,0.9193534913311441
+137,9,Subang — Middlemen,Subang,Middlemen,0.9188746504191806
+137,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9151353923623268
+138,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+138,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9922452527083505
+138,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9631022428119111
+138,4,Garut — Retail,Garut,Retail,0.9443914724974217
+138,5,Subang — Retail,Subang,Retail,0.9415598943578063
+138,6,Garut — Middlemen,Garut,Middlemen,0.9392216409696554
+138,7,Garut — Wholesaler,Garut,Wholesaler,0.9190811729498594
+138,8,Subang — Middlemen,Subang,Middlemen,0.9184043702336738
+138,9,Indramayu — Retail,Indramayu,Retail,0.9132327600976156
+138,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9086945251361719
+139,1,Karawang — Retail,Karawang,Retail,1.0
+139,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9932726984277797
+139,3,Karawang — Wholesaler,Karawang,Wholesaler,0.960581991121918
+139,4,Garut — Retail,Garut,Retail,0.9383543745091583
+139,5,Subang — Retail,Subang,Retail,0.9352153882172682
+139,6,Garut — Middlemen,Garut,Middlemen,0.9338695067943448
+139,7,Garut — Wholesaler,Garut,Wholesaler,0.9122211321150776
+139,8,Subang — Middlemen,Subang,Middlemen,0.9101103177273355
+139,9,Indramayu — Retail,Indramayu,Retail,0.9038129399191803
+139,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8987820148904673
+140,1,Karawang — Retail,Karawang,Retail,1.0
+140,2,Karawang — Rice Miller,Karawang,Rice Miller,0.991272563318641
+140,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9590558406900674
+140,4,Garut — Retail,Garut,Retail,0.9523470093530848
+140,5,Subang — Retail,Subang,Retail,0.9499205259940918
+140,6,Garut — Middlemen,Garut,Middlemen,0.9465287182321789
+140,7,Indramayu — Retail,Indramayu,Retail,0.9256459637177901
+140,8,Subang — Middlemen,Subang,Middlemen,0.9242545353635528
+140,9,Garut — Wholesaler,Garut,Wholesaler,0.9241899237739819
+140,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9217569834141639
+141,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+141,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9922128330975073
+141,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9550560997200986
+141,4,Garut — Retail,Garut,Retail,0.950551234633059
+141,5,Subang — Retail,Subang,Retail,0.9480333106862774
+141,6,Garut — Middlemen,Garut,Middlemen,0.9453597900313973
+141,7,Indramayu — Retail,Indramayu,Retail,0.9228439759123066
+141,8,Garut — Wholesaler,Garut,Wholesaler,0.9206865132228751
+141,9,Subang — Middlemen,Subang,Middlemen,0.9194364320222015
+141,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9188084416900046
+142,1,Karawang — Retail,Karawang,Retail,1.0
+142,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9920737775688512
+142,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9578627753320048
+142,4,Garut — Retail,Garut,Retail,0.9340183042088367
+142,5,Subang — Retail,Subang,Retail,0.9306585258473551
+142,6,Garut — Middlemen,Garut,Middlemen,0.9287341559214041
+142,7,Garut — Wholesaler,Garut,Wholesaler,0.905654794447121
+142,8,Subang — Middlemen,Subang,Middlemen,0.9039952441986998
+142,9,Indramayu — Retail,Indramayu,Retail,0.8970472716147253
+142,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.891662478092888
+143,1,Karawang — Retail,Karawang,Retail,1.0
+143,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9940135168969779
+143,3,Karawang — Wholesaler,Karawang,Wholesaler,0.953066858984363
+143,4,Garut — Retail,Garut,Retail,0.9468148561915342
+143,5,Subang — Retail,Subang,Retail,0.9441066763974663
+143,6,Garut — Middlemen,Garut,Middlemen,0.9428238674561861
+143,7,Indramayu — Retail,Indramayu,Retail,0.9170140203432287
+143,8,Garut — Wholesaler,Garut,Wholesaler,0.9168763442096476
+143,9,Subang — Middlemen,Subang,Middlemen,0.9137371512244713
+143,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9126735587287793
+144,1,Karawang — Retail,Karawang,Retail,1.0
+144,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9916704276214421
+144,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9500660694330156
+144,4,Garut — Retail,Garut,Retail,0.9324215937192404
+144,5,Subang — Retail,Subang,Retail,0.9289805110916564
+144,6,Garut — Middlemen,Garut,Middlemen,0.9268685454668684
+144,7,Garut — Wholesaler,Garut,Wholesaler,0.8994284827842666
+144,8,Subang — Middlemen,Subang,Middlemen,0.8971324476871954
+144,9,Indramayu — Retail,Indramayu,Retail,0.8945558882185539
+144,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8890407864923345
+145,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+145,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9932890708382676
+145,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9530444103066693
+145,4,Garut — Retail,Garut,Retail,0.9474290658773301
+145,5,Subang — Retail,Subang,Retail,0.9447521615512083
+145,6,Garut — Middlemen,Garut,Middlemen,0.9429551131028417
+145,7,Indramayu — Retail,Indramayu,Retail,0.9179723855715716
+145,8,Garut — Wholesaler,Garut,Wholesaler,0.9170564594296731
+145,9,Subang — Middlemen,Subang,Middlemen,0.9145386161723642
+145,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9136820498639737
+146,1,Karawang — Retail,Karawang,Retail,1.0
+146,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9922000912762794
+146,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9521147594535649
+146,4,Garut — Retail,Garut,Retail,0.9467851832332868
+146,5,Subang — Retail,Subang,Retail,0.9440754924964968
+146,6,Garut — Middlemen,Garut,Middlemen,0.9415852440841397
+146,7,Indramayu — Retail,Indramayu,Retail,0.9169677209571002
+146,8,Garut — Wholesaler,Garut,Wholesaler,0.9152550337194442
+146,9,Subang — Middlemen,Subang,Middlemen,0.9134896879726191
+146,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9126248377202384
+147,1,Karawang — Retail,Karawang,Retail,1.0
+147,2,Karawang — Rice Miller,Karawang,Rice Miller,0.99382117154947
+147,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9607111974753161
+147,4,Garut — Retail,Garut,Retail,0.9438128093133221
+147,5,Subang — Retail,Subang,Retail,0.9409517657284614
+147,6,Garut — Middlemen,Garut,Middlemen,0.9396935903463022
+147,7,Garut — Wholesaler,Garut,Wholesaler,0.9180714692918279
+147,8,Subang — Middlemen,Subang,Middlemen,0.9158045953676016
+147,9,Indramayu — Retail,Indramayu,Retail,0.912329858877742
+147,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9077443989741731
+148,1,Karawang — Retail,Karawang,Retail,1.0
+148,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9934657095311964
+148,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9607033329125741
+148,4,Garut — Retail,Garut,Retail,0.9422656014054013
+148,5,Subang — Retail,Subang,Retail,0.9393257742187036
+148,6,Garut — Middlemen,Garut,Middlemen,0.9379094077595322
+148,7,Garut — Wholesaler,Garut,Wholesaler,0.9163130411966427
+148,8,Subang — Middlemen,Subang,Middlemen,0.9142572714763706
+148,9,Indramayu — Retail,Indramayu,Retail,0.9099157154764587
+148,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9052039872947012
+149,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+149,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9942785643245508
+149,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9576106778714473
+149,4,Garut — Retail,Garut,Retail,0.9423456766153321
+149,5,Subang — Retail,Subang,Retail,0.9394099268466877
+149,6,Garut — Middlemen,Garut,Middlemen,0.9385313861650326
+149,7,Garut — Wholesaler,Garut,Wholesaler,0.9151226768336249
+149,8,Subang — Middlemen,Subang,Middlemen,0.912054940929788
+149,9,Indramayu — Retail,Indramayu,Retail,0.9100406586328833
+149,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9053354654221738
+150,1,Karawang — Retail,Karawang,Retail,1.0
+150,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9927249661282568
+150,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9569863845361252
+150,4,Garut — Retail,Garut,Retail,0.9360852004772329
+150,5,Subang — Retail,Subang,Retail,0.9328306681733847
+150,6,Garut — Middlemen,Garut,Middlemen,0.9312351778960707
+150,7,Garut — Wholesaler,Garut,Wholesaler,0.9076064979027099
+150,8,Subang — Middlemen,Subang,Middlemen,0.905420004315007
+150,9,Indramayu — Retail,Indramayu,Retail,0.9002722964882027
+150,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.895056183226897
+151,1,Karawang — Retail,Karawang,Retail,1.0
+151,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9906313542709557
+151,3,Karawang — Wholesaler,Karawang,Wholesaler,0.957483257352325
+151,4,Garut — Retail,Garut,Retail,0.9410310305809172
+151,5,Subang — Retail,Subang,Retail,0.9380283392272397
+151,6,Garut — Middlemen,Garut,Middlemen,0.9347852667615544
+151,7,Garut — Wholesaler,Garut,Wholesaler,0.9116144714527141
+151,8,Subang — Middlemen,Subang,Middlemen,0.9114488765891513
+151,9,Indramayu — Retail,Indramayu,Retail,0.907989386769058
+151,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9031769047509794
+152,1,Karawang — Retail,Karawang,Retail,1.0
+152,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9908313390160304
+152,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9585419428850507
+152,4,Garut — Retail,Garut,Retail,0.9402593774237253
+152,5,Subang — Retail,Subang,Retail,0.9372173936034174
+152,6,Garut — Middlemen,Garut,Middlemen,0.9341469367677455
+152,7,Garut — Wholesaler,Garut,Wholesaler,0.9115559323161173
+152,8,Subang — Middlemen,Subang,Middlemen,0.9113076395188516
+152,9,Indramayu — Retail,Indramayu,Retail,0.9067853589406212
+152,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9019099019887806
+153,1,Karawang — Retail,Karawang,Retail,1.0
+153,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9936290129203847
+153,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9547047415452835
+153,4,Garut — Retail,Garut,Retail,0.9275776584844215
+153,5,Subang — Retail,Subang,Retail,0.9238899233785823
+153,6,Garut — Middlemen,Garut,Middlemen,0.9233303337646781
+153,7,Garut — Wholesaler,Garut,Wholesaler,0.8983387290712838
+153,8,Subang — Middlemen,Subang,Middlemen,0.8947204623864318
+153,9,Indramayu — Retail,Indramayu,Retail,0.886997786800176
+153,10,Karawang — Middlemen,Karawang,Middlemen,0.8815599972840764
+154,1,Karawang — Retail,Karawang,Retail,1.0
+154,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9921112776620152
+154,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9573141829302254
+154,4,Garut — Retail,Garut,Retail,0.9526587859899001
+154,5,Subang — Retail,Subang,Retail,0.9502481782519476
+154,6,Garut — Middlemen,Garut,Middlemen,0.9473996377645769
+154,7,Indramayu — Retail,Indramayu,Retail,0.9261324358373989
+154,8,Garut — Wholesaler,Garut,Wholesaler,0.9240078533781177
+154,9,Subang — Middlemen,Subang,Middlemen,0.923204517382184
+154,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.922268899754235
+155,1,Karawang — Retail,Karawang,Retail,1.0
+155,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9920935944796426
+155,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9502085414471168
+155,4,Garut — Retail,Garut,Retail,0.9417942095726483
+155,5,Subang — Retail,Subang,Retail,0.9388303791823275
+155,6,Garut — Middlemen,Garut,Middlemen,0.9365232725590766
+155,7,Indramayu — Retail,Indramayu,Retail,0.9091801921659625
+155,8,Garut — Wholesaler,Garut,Wholesaler,0.9091275829384362
+155,9,Subang — Middlemen,Subang,Middlemen,0.9069788088487736
+155,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9044299935014929
+156,1,Karawang — Retail,Karawang,Retail,1.0
+156,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9927841468544266
+156,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9542287506066756
+156,4,Garut — Retail,Garut,Retail,0.9467116401464067
+156,5,Subang — Retail,Subang,Retail,0.9439982046063199
+156,6,Garut — Middlemen,Garut,Middlemen,0.9419010713826912
+156,7,Indramayu — Retail,Indramayu,Retail,0.9168529700196263
+156,8,Garut — Wholesaler,Garut,Wholesaler,0.9167129039407975
+156,9,Subang — Middlemen,Subang,Middlemen,0.9147060297416915
+156,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.912504084900984
+157,1,Karawang — Retail,Karawang,Retail,1.0
+157,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9921840827173255
+157,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9570022322920677
+157,4,Garut — Retail,Garut,Retail,0.9259788185193109
+157,5,Subang — Retail,Subang,Retail,0.9222096707147855
+157,6,Garut — Middlemen,Garut,Middlemen,0.9207682069975278
+157,7,Garut — Wholesaler,Garut,Wholesaler,0.8971943949425121
+157,8,Karawang — Middlemen,Karawang,Middlemen,0.8960496540097374
+157,9,Subang — Middlemen,Subang,Middlemen,0.8949375469752698
+157,10,Indramayu — Retail,Indramayu,Retail,0.8845030807353222
+158,1,Karawang — Retail,Karawang,Retail,1.0
+158,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9933987606637689
+158,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9591196824252773
+158,4,Garut — Retail,Garut,Retail,0.9501442508406784
+158,5,Subang — Retail,Subang,Retail,0.9476056033383302
+158,6,Garut — Middlemen,Garut,Middlemen,0.9457434246165243
+158,7,Garut — Wholesaler,Garut,Wholesaler,0.9232600495332484
+158,8,Indramayu — Retail,Indramayu,Retail,0.9222089499201469
+158,9,Subang — Middlemen,Subang,Middlemen,0.9214804392537195
+158,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9181402015819841
+159,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+159,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9926429079188946
+159,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9516278587428296
+159,4,Garut — Retail,Garut,Retail,0.9369044155438895
+159,5,Subang — Retail,Subang,Retail,0.9336915975521903
+159,6,Garut — Middlemen,Garut,Middlemen,0.9319996874898193
+159,7,Garut — Wholesaler,Garut,Wholesaler,0.905357407838813
+159,8,Subang — Middlemen,Subang,Middlemen,0.9026714186935881
+159,9,Indramayu — Retail,Indramayu,Retail,0.9015505362368987
+159,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8964012794564856
+160,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+160,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9916615418456964
+160,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9593571576024243
+160,4,Garut — Retail,Garut,Retail,0.9341052831613829
+160,5,Subang — Retail,Subang,Retail,0.9307499337555255
+160,6,Garut — Middlemen,Garut,Middlemen,0.9285463110585137
+160,7,Garut — Wholesaler,Garut,Wholesaler,0.9063443330197496
+160,8,Subang — Middlemen,Subang,Middlemen,0.905196087767243
+160,9,Indramayu — Retail,Indramayu,Retail,0.8971829868364901
+160,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.891805291702995
+161,1,Karawang — Retail,Karawang,Retail,1.0
+161,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9923045327864857
+161,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9538661297217602
+161,4,Garut — Retail,Garut,Retail,0.9496649695842312
+161,5,Subang — Retail,Subang,Retail,0.947101917149952
+161,6,Garut — Middlemen,Garut,Middlemen,0.9445346581085549
+161,7,Indramayu — Retail,Indramayu,Retail,0.9214611165638877
+161,8,Garut — Wholesaler,Garut,Wholesaler,0.9191828148151577
+161,9,Subang — Middlemen,Subang,Middlemen,0.9176774979858823
+161,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9173532538838775
+162,1,Karawang — Retail,Karawang,Retail,0.9999999999999998
+162,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9918155036450671
+162,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9528381799071519
+162,4,Garut — Retail,Garut,Retail,0.9375749952398411
+162,5,Subang — Retail,Subang,Retail,0.9343963230688138
+162,6,Garut — Middlemen,Garut,Middlemen,0.9321186643365527
+162,7,Garut — Wholesaler,Garut,Wholesaler,0.9062289028889925
+162,8,Subang — Middlemen,Subang,Middlemen,0.904391309772888
+162,9,Indramayu — Retail,Indramayu,Retail,0.9025968568637057
+162,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.89750232637002
+163,1,Karawang — Retail,Karawang,Retail,1.0
+163,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9917354681950885
+163,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9587598037958857
+163,4,Garut — Retail,Garut,Retail,0.9487588546896724
+163,5,Subang — Retail,Subang,Retail,0.9461496630166353
+163,6,Garut — Middlemen,Garut,Middlemen,0.9432491668197314
+163,7,Garut — Wholesaler,Garut,Wholesaler,0.9207041858522215
+163,8,Subang — Middlemen,Subang,Middlemen,0.9201738082535905
+163,9,Indramayu — Retail,Indramayu,Retail,0.920047285053394
+163,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9158654739615437
+164,1,Karawang — Retail,Karawang,Retail,1.0
+164,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9932077186822384
+164,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9578030745148811
+164,4,Garut — Retail,Garut,Retail,0.930163818573218
+164,5,Subang — Retail,Subang,Retail,0.9266077703632896
+164,6,Garut — Middlemen,Garut,Middlemen,0.9256356310280436
+164,7,Garut — Wholesaler,Garut,Wholesaler,0.9024263163421339
+164,8,Subang — Middlemen,Subang,Middlemen,0.8996361142130378
+164,9,Indramayu — Retail,Indramayu,Retail,0.8910330307263916
+164,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8853336710353793
+165,1,Karawang — Retail,Karawang,Retail,1.0
+165,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9922503953162887
+165,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9555238190268172
+165,4,Garut — Retail,Garut,Retail,0.9454466113188058
+165,5,Subang — Retail,Subang,Retail,0.9426687606946466
+165,6,Garut — Middlemen,Garut,Middlemen,0.9402802081963315
+165,7,Garut — Wholesaler,Garut,Wholesaler,0.9158673919420895
+165,8,Indramayu — Retail,Indramayu,Retail,0.914879117002878
+165,9,Subang — Middlemen,Subang,Middlemen,0.9143797555134735
+165,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9104269923576653
+166,1,Karawang — Retail,Karawang,Retail,0.9999999999999998
+166,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9942581450466881
+166,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9576951155877044
+166,4,Garut — Retail,Garut,Retail,0.948330916254963
+166,5,Subang — Retail,Subang,Retail,0.9456999340190169
+166,6,Garut — Middlemen,Garut,Middlemen,0.9445030129527553
+166,7,Garut — Wholesaler,Garut,Wholesaler,0.921143634761694
+166,8,Indramayu — Retail,Indramayu,Retail,0.9193795630601053
+166,9,Subang — Middlemen,Subang,Middlemen,0.918406956036011
+166,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9151628277353547
+167,1,Karawang — Retail,Karawang,Retail,1.0
+167,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9920919580932994
+167,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9505423203697896
+167,4,Garut — Retail,Garut,Retail,0.9318455760919683
+167,5,Subang — Retail,Subang,Retail,0.9283751627305082
+167,6,Garut — Middlemen,Garut,Middlemen,0.9265735481541678
+167,7,Garut — Wholesaler,Garut,Wholesaler,0.8993661466571727
+167,8,Subang — Middlemen,Subang,Middlemen,0.8967500210802631
+167,9,Karawang — Middlemen,Karawang,Middlemen,0.8959850184499002
+167,10,Indramayu — Retail,Indramayu,Retail,0.8936571149206779
+168,1,Karawang — Retail,Karawang,Retail,1.0
+168,2,Karawang — Rice Miller,Karawang,Rice Miller,0.993395387192555
+168,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9564362383576688
+168,4,Garut — Retail,Garut,Retail,0.942185679680672
+168,5,Subang — Retail,Subang,Retail,0.939241782891365
+168,6,Garut — Middlemen,Garut,Middlemen,0.9377826044757087
+168,7,Garut — Wholesaler,Garut,Wholesaler,0.9137868747491334
+168,8,Subang — Middlemen,Subang,Middlemen,0.9113001319177548
+168,9,Indramayu — Retail,Indramayu,Retail,0.9097910118064564
+168,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9050727611796417
+169,1,Karawang — Retail,Karawang,Retail,1.0
+169,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9910935433657335
+169,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9564370534092277
+169,4,Garut — Retail,Garut,Retail,0.9454891089286872
+169,5,Subang — Retail,Subang,Retail,0.9427134222766476
+169,6,Garut — Middlemen,Garut,Middlemen,0.9395514711725095
+169,7,Garut — Wholesaler,Garut,Wholesaler,0.915751685529279
+169,8,Subang — Middlemen,Subang,Middlemen,0.9153162359449367
+169,9,Indramayu — Retail,Indramayu,Retail,0.9149454269822547
+169,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.910496770584586
+170,1,Karawang — Retail,Karawang,Retail,1.0
+170,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9928800236862432
+170,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9575760164089915
+170,4,Garut — Retail,Garut,Retail,0.9452960755682698
+170,5,Subang — Retail,Subang,Retail,0.9425105596855685
+170,6,Garut — Middlemen,Garut,Middlemen,0.940549424692432
+170,7,Garut — Wholesaler,Garut,Wholesaler,0.9172399483069501
+170,8,Subang — Middlemen,Subang,Middlemen,0.9154625675465062
+170,9,Indramayu — Retail,Indramayu,Retail,0.9146442326754691
+170,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9101798227453062
+171,1,Karawang — Retail,Karawang,Retail,1.0
+171,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9917366064896963
+171,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9487538093405844
+171,4,Garut — Retail,Garut,Retail,0.9430550027718311
+171,5,Subang — Retail,Subang,Retail,0.9401553717879992
+171,6,Garut — Middlemen,Garut,Middlemen,0.937546073764962
+171,7,Indramayu — Retail,Indramayu,Retail,0.9111474362361409
+171,8,Garut — Wholesaler,Garut,Wholesaler,0.9093606777754477
+171,9,Subang — Middlemen,Subang,Middlemen,0.9074029809190619
+171,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9065001314268523
+172,1,Karawang — Retail,Karawang,Retail,1.0
+172,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9932275943171294
+172,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9584883614204323
+172,4,Garut — Retail,Garut,Retail,0.9382901147231479
+172,5,Subang — Retail,Subang,Retail,0.9351478563322921
+172,6,Garut — Middlemen,Garut,Middlemen,0.9337751776012342
+172,7,Garut — Wholesaler,Garut,Wholesaler,0.9109504670421501
+172,8,Subang — Middlemen,Subang,Middlemen,0.9086355941984875
+172,9,Indramayu — Retail,Indramayu,Retail,0.9037126739254696
+172,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8986765046290051
+173,1,Karawang — Retail,Karawang,Retail,1.0
+173,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9926301758340571
+173,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9629923868591322
+173,4,Garut — Retail,Garut,Retail,0.929233970850558
+173,5,Subang — Retail,Subang,Retail,0.9256305749297137
+173,6,Garut — Middlemen,Garut,Middlemen,0.9243207547399294
+173,7,Garut — Wholesaler,Garut,Wholesaler,0.9040856718966739
+173,8,Subang — Middlemen,Subang,Middlemen,0.9023096989175018
+173,9,Indramayu — Retail,Indramayu,Retail,0.8895821683488369
+173,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8838069234000536
+174,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+174,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9923678909393031
+174,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9508255528207947
+174,4,Garut — Retail,Garut,Retail,0.9450158715651166
+174,5,Subang — Retail,Subang,Retail,0.942216087735293
+174,6,Garut — Middlemen,Garut,Middlemen,0.9399277988579854
+174,7,Indramayu — Retail,Indramayu,Retail,0.9142070240483917
+174,8,Garut — Wholesaler,Garut,Wholesaler,0.9128566201111117
+174,9,Subang — Middlemen,Subang,Middlemen,0.910717555609511
+174,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9097197465534764
+175,1,Karawang — Retail,Karawang,Retail,0.9999999999999997
+175,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9933617061320329
+175,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9574545852710008
+175,4,Garut — Retail,Garut,Retail,0.9290085221748332
+175,5,Subang — Retail,Subang,Retail,0.9253936464401823
+175,6,Garut — Middlemen,Garut,Middlemen,0.9245829929295221
+175,7,Garut — Wholesaler,Garut,Wholesaler,0.9011641595502616
+175,8,Subang — Middlemen,Subang,Middlemen,0.898149599777501
+175,9,Indramayu — Retail,Indramayu,Retail,0.8892303956943393
+175,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8834367517857538
+176,1,Karawang — Retail,Karawang,Retail,1.0
+176,2,Karawang — Rice Miller,Karawang,Rice Miller,0.992089265750632
+176,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9602596332606984
+176,4,Garut — Retail,Garut,Retail,0.9437659985840596
+176,5,Subang — Retail,Subang,Retail,0.9409025714036672
+176,6,Garut — Middlemen,Garut,Middlemen,0.9384921757511476
+176,7,Garut — Wholesaler,Garut,Wholesaler,0.9167625932081097
+176,8,Subang — Middlemen,Subang,Middlemen,0.9158588319246885
+176,9,Indramayu — Retail,Indramayu,Retail,0.912256819040898
+176,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9076675388943258
+177,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+177,2,Karawang — Rice Miller,Karawang,Rice Miller,0.991558567355698
+177,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9602139587972063
+177,4,Garut — Retail,Garut,Retail,0.937519489483088
+177,5,Subang — Retail,Subang,Retail,0.9343379909669927
+177,6,Garut — Middlemen,Garut,Middlemen,0.9318918677202201
+177,7,Garut — Wholesaler,Garut,Wholesaler,0.9101816084488388
+177,8,Subang — Middlemen,Subang,Middlemen,0.9093887208212448
+177,9,Indramayu — Retail,Indramayu,Retail,0.9025102499793219
+177,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8974111896378384
+178,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+178,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9910960653947841
+178,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9588551176597828
+178,4,Garut — Retail,Garut,Retail,0.9322499498642266
+178,5,Subang — Retail,Subang,Retail,0.9288001271564879
+178,6,Garut — Middlemen,Garut,Middlemen,0.9263139934607493
+178,7,Garut — Wholesaler,Garut,Wholesaler,0.9038770417773611
+178,8,Subang — Middlemen,Subang,Middlemen,0.9030399081843102
+178,9,Indramayu — Retail,Indramayu,Retail,0.8942880684395631
+178,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8887589587872445
+179,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+179,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9927644103412788
+179,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9572903863325579
+179,4,Garut — Retail,Garut,Retail,0.9254202189026599
+179,5,Subang — Retail,Subang,Retail,0.9216226272868282
+179,6,Garut — Middlemen,Garut,Middlemen,0.9205964924635125
+179,7,Garut — Wholesaler,Garut,Wholesaler,0.8971358266286041
+179,8,Subang — Middlemen,Subang,Middlemen,0.8944085193106153
+179,9,Indramayu — Retail,Indramayu,Retail,0.8836314851523411
+179,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8775449983275089
+180,1,Karawang — Retail,Karawang,Retail,1.0
+180,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9919749355928941
+180,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9513349570854484
+180,4,Garut — Retail,Garut,Retail,0.9396891784366006
+180,5,Subang — Retail,Subang,Retail,0.9366181601667273
+180,6,Garut — Middlemen,Garut,Middlemen,0.9343391354985299
+180,7,Garut — Wholesaler,Garut,Wholesaler,0.9075884766721056
+180,8,Indramayu — Retail,Indramayu,Retail,0.9058956645982263
+180,9,Subang — Middlemen,Subang,Middlemen,0.9055574603073057
+180,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9009736734708814
+181,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+181,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9934091949837524
+181,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9575590730174269
+181,4,Garut — Retail,Garut,Retail,0.9402632488621712
+181,5,Subang — Retail,Subang,Retail,0.9372214621749462
+181,6,Garut — Middlemen,Garut,Middlemen,0.9358693788513395
+181,7,Garut — Wholesaler,Garut,Wholesaler,0.9125054115784268
+181,8,Subang — Middlemen,Subang,Middlemen,0.91003695543597
+181,9,Indramayu — Retail,Indramayu,Retail,0.9067913996333617
+181,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9019162586312162
+182,1,Karawang — Retail,Karawang,Retail,1.0
+182,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9918605124717474
+182,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9563492381516001
+182,4,Garut — Retail,Garut,Retail,0.9480915713024998
+182,5,Subang — Retail,Subang,Retail,0.9454484016563548
+182,6,Garut — Middlemen,Garut,Middlemen,0.9426652462836647
+182,7,Indramayu — Retail,Indramayu,Retail,0.9190061077315346
+182,8,Garut — Wholesaler,Garut,Wholesaler,0.9187508246757945
+182,9,Subang — Middlemen,Subang,Middlemen,0.9178105145493385
+182,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9147698393660815
+183,1,Karawang — Retail,Karawang,Retail,1.0
+183,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9921765309541577
+183,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9564155927852461
+183,4,Garut — Retail,Garut,Retail,0.934902261854536
+183,5,Subang — Retail,Subang,Retail,0.9315874944879201
+183,6,Garut — Middlemen,Garut,Middlemen,0.9296866158239743
+183,7,Garut — Wholesaler,Garut,Wholesaler,0.9057827599743582
+183,8,Subang — Middlemen,Subang,Middlemen,0.9039198707367819
+183,9,Indramayu — Retail,Indramayu,Retail,0.8984265306699911
+183,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8931138772977372
+184,1,Karawang — Retail,Karawang,Retail,1.0
+184,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9931395464087125
+184,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9577609461466368
+184,4,Garut — Retail,Garut,Retail,0.9330938900556243
+184,5,Subang — Retail,Subang,Retail,0.9296870406597935
+184,6,Garut — Middlemen,Garut,Middlemen,0.9285202543280993
+184,7,Garut — Wholesaler,Garut,Wholesaler,0.9052929816834882
+184,8,Subang — Middlemen,Subang,Middlemen,0.9027029630266385
+184,9,Indramayu — Retail,Indramayu,Retail,0.8956048873581519
+184,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8901446520143967
+185,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+185,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9935101604165952
+185,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9567019888063104
+185,4,Garut — Retail,Garut,Retail,0.9305094737460083
+185,5,Subang — Retail,Subang,Retail,0.9269710262472491
+185,6,Garut — Middlemen,Garut,Middlemen,0.9261829140237385
+185,7,Garut — Wholesaler,Garut,Wholesaler,0.902327239068518
+185,8,Subang — Middlemen,Subang,Middlemen,0.8991822267300404
+185,9,Indramayu — Retail,Indramayu,Retail,0.8915723642899286
+185,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8859012136607313
+186,1,Karawang — Retail,Karawang,Retail,0.9999999999999998
+186,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9939529609737098
+186,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9600699631514402
+186,4,Garut — Retail,Garut,Retail,0.9347507689324386
+186,5,Subang — Retail,Subang,Retail,0.9314282875682439
+186,6,Garut — Middlemen,Garut,Middlemen,0.9307194095815786
+186,7,Garut — Wholesaler,Garut,Wholesaler,0.9087246363814026
+186,8,Subang — Middlemen,Subang,Middlemen,0.9058157189182929
+186,9,Indramayu — Retail,Indramayu,Retail,0.898190152846203
+186,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8928651360738312
+187,1,Karawang — Retail,Karawang,Retail,1.0
+187,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9938576096817545
+187,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9645296398032642
+187,4,Garut — Retail,Garut,Retail,0.9336938529024779
+187,5,Subang — Retail,Subang,Retail,0.9303175535276245
+187,6,Garut — Middlemen,Garut,Middlemen,0.9295989260236475
+187,7,Garut — Wholesaler,Garut,Wholesaler,0.910126143219635
+187,8,Subang — Middlemen,Subang,Middlemen,0.9077477014437916
+187,9,Indramayu — Retail,Indramayu,Retail,0.8965410229223071
+187,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8911297507949764
+188,1,Karawang — Retail,Karawang,Retail,1.0
+188,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9937395536940135
+188,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9571893541232193
+188,4,Garut — Retail,Garut,Retail,0.9311805124027316
+188,5,Subang — Retail,Subang,Retail,0.9276762340948601
+188,6,Garut — Middlemen,Garut,Middlemen,0.9270068815320739
+188,7,Garut — Wholesaler,Garut,Wholesaler,0.9034064501688019
+188,8,Subang — Middlemen,Subang,Middlemen,0.9001632841526911
+188,9,Indramayu — Retail,Indramayu,Retail,0.892619401043581
+188,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8870030141570898
+189,1,Karawang — Retail,Karawang,Retail,0.9999999999999997
+189,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9920581594426965
+189,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9613878153706529
+189,4,Garut — Retail,Garut,Retail,0.9413112937092044
+189,5,Subang — Retail,Subang,Retail,0.9383228733132926
+189,6,Garut — Middlemen,Garut,Middlemen,0.936016733337669
+189,7,Garut — Wholesaler,Garut,Wholesaler,0.9149257419142497
+189,8,Subang — Middlemen,Subang,Middlemen,0.9140505124207083
+189,9,Indramayu — Retail,Indramayu,Retail,0.9084266876504159
+189,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9036370780223164
+190,1,Karawang — Retail,Karawang,Retail,1.0
+190,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9925271751410216
+190,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9538840304310046
+190,4,Garut — Retail,Garut,Retail,0.9425843969739751
+190,5,Subang — Retail,Subang,Retail,0.9396608028113029
+190,6,Garut — Middlemen,Garut,Middlemen,0.9376025137346562
+190,7,Garut — Wholesaler,Garut,Wholesaler,0.9122418530066196
+190,8,Indramayu — Retail,Indramayu,Retail,0.9104131393936263
+190,9,Subang — Middlemen,Subang,Middlemen,0.9101958972504578
+190,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9057274282502591
+191,1,Karawang — Retail,Karawang,Retail,1.0
+191,2,Karawang — Rice Miller,Karawang,Rice Miller,0.992909990980472
+191,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9530938624093254
+191,4,Garut — Retail,Garut,Retail,0.9498833613398168
+191,5,Subang — Retail,Subang,Retail,0.9473314293819961
+191,6,Garut — Middlemen,Garut,Middlemen,0.9451566886601315
+191,7,Indramayu — Retail,Indramayu,Retail,0.9218018781466993
+191,8,Garut — Wholesaler,Garut,Wholesaler,0.9193181042857342
+191,9,Tasikmalaya — Retail,Tasikmalaya,Retail,0.917711838508316
+191,10,Subang — Middlemen,Subang,Middlemen,0.9172409484190179
+192,1,Karawang — Retail,Karawang,Retail,1.0
+192,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9915996736814426
+192,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9474529778943129
+192,4,Garut — Retail,Garut,Retail,0.9464590682222347
+192,5,Subang — Retail,Subang,Retail,0.9437327717564716
+192,6,Garut — Middlemen,Garut,Middlemen,0.9408588506765297
+192,7,Indramayu — Retail,Indramayu,Retail,0.9164588763487187
+192,8,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9120893787307345
+192,9,Garut — Wholesaler,Garut,Wholesaler,0.9119518129468401
+192,10,Subang — Middlemen,Subang,Middlemen,0.9101317872793739
+193,1,Karawang — Retail,Karawang,Retail,1.0
+193,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9916879085689848
+193,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9549739135877516
+193,4,Garut — Retail,Garut,Retail,0.9444210805023996
+193,5,Subang — Retail,Subang,Retail,0.9415910099980951
+193,6,Garut — Middlemen,Garut,Middlemen,0.9388796862150561
+193,7,Garut — Wholesaler,Garut,Wholesaler,0.9142046609250304
+193,8,Indramayu — Retail,Indramayu,Retail,0.9132789581356919
+193,9,Subang — Middlemen,Subang,Middlemen,0.9130625098752878
+193,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9087431394957977
+194,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+194,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9944325288560568
+194,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9559485987787134
+194,4,Garut — Retail,Garut,Retail,0.94129853196095
+194,5,Subang — Retail,Subang,Retail,0.9383094617386716
+194,6,Garut — Middlemen,Garut,Middlemen,0.9375868845316545
+194,7,Garut — Wholesaler,Garut,Wholesaler,0.9132281958270917
+194,8,Subang — Middlemen,Subang,Middlemen,0.9097925004137949
+194,9,Indramayu — Retail,Indramayu,Retail,0.9084067752067297
+194,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9036161240870695
+195,1,Karawang — Retail,Karawang,Retail,1.0
+195,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9919525440273497
+195,3,Karawang — Wholesaler,Karawang,Wholesaler,0.946496592815702
+195,4,Garut — Retail,Garut,Retail,0.9429692692263134
+195,5,Subang — Retail,Subang,Retail,0.9400652727028022
+195,6,Garut — Middlemen,Garut,Middlemen,0.9376042985778799
+195,7,Indramayu — Retail,Indramayu,Retail,0.9110136642510569
+195,8,Garut — Wholesaler,Garut,Wholesaler,0.9081281847838243
+195,9,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9063593626916094
+195,10,Subang — Middlemen,Subang,Middlemen,0.9057332231332412
+196,1,Karawang — Retail,Karawang,Retail,1.0
+196,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9932649888145286
+196,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9581438308914286
+196,4,Garut — Retail,Garut,Retail,0.952258477217033
+196,5,Subang — Retail,Subang,Retail,0.9498274858145375
+196,6,Garut — Middlemen,Garut,Middlemen,0.947768469760052
+196,7,Indramayu — Retail,Indramayu,Retail,0.9255078250287639
+196,8,Garut — Wholesaler,Garut,Wholesaler,0.9247463736958511
+196,9,Subang — Middlemen,Subang,Middlemen,0.9230730643471349
+196,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9216116195808464
+197,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+197,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9936769216849911
+197,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9628926362222341
+197,4,Garut — Retail,Garut,Retail,0.9423671949505579
+197,5,Subang — Retail,Subang,Retail,0.9394325408924162
+197,6,Garut — Middlemen,Garut,Middlemen,0.9381518094072187
+197,7,Garut — Wholesaler,Garut,Wholesaler,0.9177716025907293
+197,8,Subang — Middlemen,Subang,Middlemen,0.91579677155652
+197,9,Indramayu — Retail,Indramayu,Retail,0.9100742341767556
+197,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9053707970862964
+198,1,Karawang — Retail,Karawang,Retail,1.0
+198,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9908048922238172
+198,3,Karawang — Wholesaler,Karawang,Wholesaler,0.954422780697466
+198,4,Garut — Retail,Garut,Retail,0.934508484388819
+198,5,Subang — Retail,Subang,Retail,0.9311736659308711
+198,6,Garut — Middlemen,Garut,Middlemen,0.9283784125380303
+198,7,Garut — Wholesaler,Garut,Wholesaler,0.9034677073590401
+198,8,Subang — Middlemen,Subang,Middlemen,0.9024805789413517
+198,9,Indramayu — Retail,Indramayu,Retail,0.8978121108072386
+198,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8924673210929124
+199,1,Karawang — Retail,Karawang,Retail,1.0
+199,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9918303959379834
+199,3,Karawang — Wholesaler,Karawang,Wholesaler,0.961055308952404
+199,4,Garut — Retail,Garut,Retail,0.9340064255873389
+199,5,Subang — Retail,Subang,Retail,0.9306460423681768
+199,6,Garut — Middlemen,Garut,Middlemen,0.9285600228793278
+199,7,Garut — Wholesaler,Garut,Wholesaler,0.907300942476516
+199,8,Subang — Middlemen,Subang,Middlemen,0.9062023204549661
+199,9,Indramayu — Retail,Indramayu,Retail,0.8970287371336394
+199,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8916429741925818
+200,1,Karawang — Retail,Karawang,Retail,1.0
+200,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9932999674580827
+200,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9583318700714658
+200,4,Garut — Retail,Garut,Retail,0.9440241154911906
+200,5,Subang — Retail,Subang,Retail,0.9411738315862006
+200,6,Garut — Middlemen,Garut,Middlemen,0.9395574271299124
+200,7,Garut — Wholesaler,Garut,Wholesaler,0.9166383570405997
+200,8,Subang — Middlemen,Subang,Middlemen,0.9145384888989745
+200,9,Indramayu — Retail,Indramayu,Retail,0.912659564673802
+200,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9080913495549277
+201,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+201,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9938042249293741
+201,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9586417557339966
+201,4,Garut — Retail,Garut,Retail,0.9382542287459683
+201,5,Subang — Retail,Subang,Retail,0.9351101430463693
+201,6,Garut — Middlemen,Garut,Middlemen,0.9341237120322177
+201,7,Garut — Wholesaler,Garut,Wholesaler,0.9113364984225893
+201,8,Subang — Middlemen,Subang,Middlemen,0.9085655081746179
+201,9,Indramayu — Retail,Indramayu,Retail,0.9036566802257454
+201,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.89861758225982
+202,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+202,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9942435301924879
+202,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9559088824789984
+202,4,Garut — Retail,Garut,Retail,0.9371259740286602
+202,5,Subang — Retail,Subang,Retail,0.9339244377628094
+202,6,Garut — Middlemen,Garut,Middlemen,0.9332883274903189
+202,7,Garut — Wholesaler,Garut,Wholesaler,0.9089233017058449
+202,8,Subang — Middlemen,Subang,Middlemen,0.9054252390502151
+202,9,Indramayu — Retail,Indramayu,Retail,0.9018962389386942
+202,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8967650636379884
+203,1,Karawang — Retail,Karawang,Retail,1.0
+203,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9935767880248111
+203,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9577598621914317
+203,4,Garut — Retail,Garut,Retail,0.9476535107791083
+203,5,Subang — Retail,Subang,Retail,0.9449880351547696
+203,6,Garut — Middlemen,Garut,Middlemen,0.9433713694623157
+203,7,Garut — Wholesaler,Garut,Wholesaler,0.9201063529487331
+203,8,Indramayu — Retail,Indramayu,Retail,0.9183225920149368
+203,9,Subang — Middlemen,Subang,Middlemen,0.9178999057247518
+203,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9140505733487337
+204,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+204,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9917748231506802
+204,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9550695656308896
+204,4,Garut — Retail,Garut,Retail,0.9409999544801443
+204,5,Subang — Retail,Subang,Retail,0.9379956807359313
+204,6,Garut — Middlemen,Garut,Middlemen,0.9355165032472645
+204,7,Garut — Wholesaler,Garut,Wholesaler,0.9108880151916094
+204,8,Subang — Middlemen,Subang,Middlemen,0.9095114207382494
+204,9,Indramayu — Retail,Indramayu,Retail,0.9079408980279945
+204,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9031258798764608
+205,1,Karawang — Retail,Karawang,Retail,0.9999999999999998
+205,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9929649905144036
+205,3,Karawang — Wholesaler,Karawang,Wholesaler,0.957127347588916
+205,4,Garut — Retail,Garut,Retail,0.9273730525273776
+205,5,Subang — Retail,Subang,Retail,0.9236748989159382
+205,6,Garut — Middlemen,Garut,Middlemen,0.9226830462036466
+205,7,Garut — Wholesaler,Garut,Wholesaler,0.8991134420986487
+205,8,Subang — Middlemen,Subang,Middlemen,0.8963029817584438
+205,9,Indramayu — Retail,Indramayu,Retail,0.8866785355098148
+205,10,Karawang — Middlemen,Karawang,Middlemen,0.8847675540321289
+206,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+206,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9922054036076688
+206,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9570113942707021
+206,4,Garut — Retail,Garut,Retail,0.9399509703947387
+206,5,Subang — Retail,Subang,Retail,0.9368932825333313
+206,6,Garut — Middlemen,Garut,Middlemen,0.9347545727998513
+206,7,Garut — Wholesaler,Garut,Wholesaler,0.9111841146148223
+206,8,Subang — Middlemen,Subang,Middlemen,0.9096223254701653
+206,9,Indramayu — Retail,Indramayu,Retail,0.9063041444961204
+206,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9014035183189082
+207,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+207,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9906671748346774
+207,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9525363110685814
+207,4,Garut — Retail,Garut,Retail,0.925656864698258
+207,5,Subang — Retail,Subang,Retail,0.9218713230519497
+207,6,Garut — Middlemen,Garut,Middlemen,0.9194349812547097
+207,7,Garut — Wholesaler,Garut,Wholesaler,0.8934725802767316
+207,8,Subang — Middlemen,Subang,Middlemen,0.8919332215133022
+207,9,Karawang — Middlemen,Karawang,Middlemen,0.8906046909928323
+207,10,Indramayu — Retail,Indramayu,Retail,0.8840007289255664
+208,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+208,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9932558213188977
+208,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9589378447210698
+208,4,Garut — Retail,Garut,Retail,0.939857164236202
+208,5,Subang — Retail,Subang,Retail,0.9367946997788333
+208,6,Garut — Middlemen,Garut,Middlemen,0.9353610451154672
+208,7,Garut — Wholesaler,Garut,Wholesaler,0.9127873083802652
+208,8,Subang — Middlemen,Subang,Middlemen,0.9105801671850602
+208,9,Indramayu — Retail,Indramayu,Retail,0.9061577766308375
+208,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9012494948941744
+209,1,Karawang — Retail,Karawang,Retail,1.0
+209,2,Karawang — Rice Miller,Karawang,Rice Miller,0.991610490530143
+209,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9525367578543492
+209,4,Garut — Retail,Garut,Retail,0.9252142342216743
+209,5,Subang — Retail,Subang,Retail,0.9214061538958197
+209,6,Garut — Middlemen,Garut,Middlemen,0.9196212279084363
+209,7,Garut — Wholesaler,Garut,Wholesaler,0.8935789674672919
+209,8,Subang — Middlemen,Subang,Middlemen,0.8912454547683648
+209,9,Karawang — Middlemen,Karawang,Middlemen,0.8880516615830704
+209,10,Indramayu — Retail,Indramayu,Retail,0.8833100826079118
+210,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+210,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9929082031024394
+210,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9497239470539742
+210,4,Garut — Retail,Garut,Retail,0.9493792808771266
+210,5,Subang — Retail,Subang,Retail,0.9468016812153968
+210,6,Garut — Middlemen,Garut,Middlemen,0.944651416278753
+210,7,Indramayu — Retail,Indramayu,Retail,0.9210153500295089
+210,8,Garut — Wholesaler,Garut,Wholesaler,0.9169133829051924
+210,9,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9168841721757851
+210,10,Subang — Middlemen,Subang,Middlemen,0.9144294460920062
+211,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+211,2,Karawang — Rice Miller,Karawang,Rice Miller,0.993222693781844
+211,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9562600008615021
+211,4,Garut — Retail,Garut,Retail,0.9405054642526849
+211,5,Subang — Retail,Subang,Retail,0.9374760111379471
+211,6,Garut — Middlemen,Garut,Middlemen,0.9359872601072475
+211,7,Garut — Wholesaler,Garut,Wholesaler,0.9119068524032712
+211,8,Subang — Middlemen,Subang,Middlemen,0.9094558149497042
+211,9,Indramayu — Retail,Indramayu,Retail,0.9071693337711749
+211,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9023139600673701
+212,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+212,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9928005503001384
+212,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9543265430191847
+212,4,Garut — Retail,Garut,Retail,0.9317870438965152
+212,5,Subang — Retail,Subang,Retail,0.9283136500841683
+212,6,Garut — Middlemen,Garut,Middlemen,0.9269874107632742
+212,7,Karawang — Middlemen,Karawang,Middlemen,0.9019806538921439
+212,8,Garut — Wholesaler,Garut,Wholesaler,0.9018529752442545
+212,9,Subang — Middlemen,Subang,Middlemen,0.899083826229699
+212,10,Indramayu — Retail,Indramayu,Retail,0.8935657858157193
+213,1,Karawang — Retail,Karawang,Retail,1.0
+213,2,Karawang — Rice Miller,Karawang,Rice Miller,0.990637127795262
+213,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9552978486011513
+213,4,Garut — Retail,Garut,Retail,0.9356537634051095
+213,5,Subang — Retail,Subang,Retail,0.9323772623882436
+213,6,Garut — Middlemen,Garut,Middlemen,0.9294118486019509
+213,7,Garut — Wholesaler,Garut,Wholesaler,0.9050086613245009
+213,8,Subang — Middlemen,Subang,Middlemen,0.9043164313315677
+213,9,Indramayu — Retail,Indramayu,Retail,0.8995991154920333
+213,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8943477924725789
+214,1,Karawang — Retail,Karawang,Retail,1.0
+214,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9921165976612824
+214,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9566862818183982
+214,4,Garut — Retail,Garut,Retail,0.9372016141842137
+214,5,Subang — Retail,Subang,Retail,0.934003929504092
+214,6,Garut — Middlemen,Garut,Middlemen,0.9319460126250686
+214,7,Garut — Wholesaler,Garut,Wholesaler,0.9081998323901296
+214,8,Subang — Middlemen,Subang,Middlemen,0.9065337838827217
+214,9,Indramayu — Retail,Indramayu,Retail,0.902014261979726
+214,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8968892597034436
+215,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+215,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9939271351420669
+215,3,Karawang — Wholesaler,Karawang,Wholesaler,0.957483642671283
+215,4,Garut — Retail,Garut,Retail,0.935720281958787
+215,5,Subang — Retail,Subang,Retail,0.9324471680570081
+215,6,Garut — Middlemen,Garut,Middlemen,0.9316717053868315
+215,7,Garut — Wholesaler,Garut,Wholesaler,0.9082212322923378
+215,8,Subang — Middlemen,Subang,Middlemen,0.9050891919931435
+215,9,Indramayu — Retail,Indramayu,Retail,0.8997029058918892
+215,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8944570114791509
+216,1,Karawang — Retail,Karawang,Retail,1.0
+216,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9929238876752953
+216,3,Karawang — Wholesaler,Karawang,Wholesaler,0.960540288892319
+216,4,Garut — Retail,Garut,Retail,0.9314537751367483
+216,5,Subang — Retail,Subang,Retail,0.9279634113275834
+216,6,Garut — Middlemen,Garut,Middlemen,0.9267363669202785
+216,7,Garut — Wholesaler,Garut,Wholesaler,0.9050941077847802
+216,8,Subang — Middlemen,Subang,Middlemen,0.9029125212293626
+216,9,Indramayu — Retail,Indramayu,Retail,0.8930457790518406
+216,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8874516932502525
+217,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+217,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9920384187784843
+217,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9529869532753672
+217,4,Garut — Retail,Garut,Retail,0.9282388319063958
+217,5,Subang — Retail,Subang,Retail,0.9245847636551244
+217,6,Garut — Middlemen,Garut,Middlemen,0.9229311110920521
+217,7,Garut — Wholesaler,Garut,Wholesaler,0.8971062811676879
+217,8,Subang — Middlemen,Subang,Middlemen,0.8946278291874141
+217,9,Indramayu — Retail,Indramayu,Retail,0.8880294306055055
+217,10,Karawang — Middlemen,Karawang,Middlemen,0.8872065209613105
+218,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+218,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9924183540167616
+218,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9572675194752218
+218,4,Garut — Retail,Garut,Retail,0.933186200633664
+218,5,Subang — Retail,Subang,Retail,0.9297840516790526
+218,6,Garut — Middlemen,Garut,Middlemen,0.9281317699781718
+218,7,Garut — Wholesaler,Garut,Wholesaler,0.9046876031516113
+218,8,Subang — Middlemen,Subang,Middlemen,0.9026362289438585
+218,9,Indramayu — Retail,Indramayu,Retail,0.8957489216354475
+218,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8902962197961993
+219,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+219,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9917223374528569
+219,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9522005424119838
+219,4,Garut — Retail,Garut,Retail,0.9364108680415065
+219,5,Subang — Retail,Subang,Retail,0.9331729186827064
+219,6,Garut — Middlemen,Garut,Middlemen,0.930892426343411
+219,7,Garut — Wholesaler,Garut,Wholesaler,0.9046511446707994
+219,8,Subang — Middlemen,Subang,Middlemen,0.9027580986840783
+219,9,Indramayu — Retail,Indramayu,Retail,0.9007804429352821
+219,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8955909075387819
+220,1,Karawang — Retail,Karawang,Retail,0.9999999999999998
+220,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9922889474317516
+220,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9559855353151536
+220,4,Garut — Retail,Garut,Retail,0.9483537543815195
+220,5,Subang — Retail,Subang,Retail,0.9457239350596589
+220,6,Garut — Middlemen,Garut,Middlemen,0.9432130526693541
+220,7,Indramayu — Retail,Indramayu,Retail,0.9194151979041634
+220,8,Garut — Wholesaler,Garut,Wholesaler,0.919057229037145
+220,9,Subang — Middlemen,Subang,Middlemen,0.9177385040857547
+220,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9152003264083801
+221,1,Karawang — Retail,Karawang,Retail,1.0
+221,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9914998702949396
+221,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9547476531411015
+221,4,Garut — Retail,Garut,Retail,0.9382913976072924
+221,5,Subang — Retail,Subang,Retail,0.9351492045407108
+221,6,Garut — Middlemen,Garut,Middlemen,0.9326246444705855
+221,7,Garut — Wholesaler,Garut,Wholesaler,0.9078380467357704
+221,8,Subang — Middlemen,Subang,Middlemen,0.9065119085272904
+221,9,Indramayu — Retail,Indramayu,Retail,0.90371467563854
+221,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8986786110387819
+222,1,Karawang — Retail,Karawang,Retail,0.9999999999999998
+222,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9929318199748967
+222,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9584790943249217
+222,4,Garut — Retail,Garut,Retail,0.9352990751223316
+222,5,Subang — Retail,Subang,Retail,0.9320045134296486
+222,6,Garut — Middlemen,Garut,Middlemen,0.9305869551055962
+222,7,Garut — Wholesaler,Garut,Wholesaler,0.9077821394485627
+222,8,Subang — Middlemen,Subang,Middlemen,0.9055558652299426
+222,9,Indramayu — Retail,Indramayu,Retail,0.8990456873632102
+222,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8937654180860934
+223,1,Karawang — Retail,Karawang,Retail,1.0
+223,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9920494627717135
+223,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9541662519043853
+223,4,Garut — Retail,Garut,Retail,0.9473399891636689
+223,5,Subang — Retail,Subang,Retail,0.9446585490642319
+223,6,Garut — Middlemen,Garut,Middlemen,0.9420396310114778
+223,7,Indramayu — Retail,Indramayu,Retail,0.9178333971658168
+223,8,Garut — Wholesaler,Garut,Wholesaler,0.9168786266538015
+223,9,Subang — Middlemen,Subang,Middlemen,0.9154976504729473
+223,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9135357918707232
+224,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+224,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9917416911845162
+224,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9533665255976842
+224,4,Garut — Retail,Garut,Retail,0.9359423840779395
+224,5,Subang — Retail,Subang,Retail,0.9326805795837928
+224,6,Garut — Middlemen,Garut,Middlemen,0.930436844867617
+224,7,Garut — Wholesaler,Garut,Wholesaler,0.9048511772205554
+224,8,Subang — Middlemen,Subang,Middlemen,0.9030508144228225
+224,9,Indramayu — Retail,Indramayu,Retail,0.9000494568386742
+224,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8948216882718704
+225,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+225,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9937571902165206
+225,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9557059162971776
+225,4,Garut — Retail,Garut,Retail,0.9493502788082653
+225,5,Subang — Retail,Subang,Retail,0.9467712023654035
+225,6,Garut — Middlemen,Garut,Middlemen,0.9451884056192791
+225,7,Indramayu — Retail,Indramayu,Retail,0.9209700974472238
+225,8,Garut — Wholesaler,Garut,Wholesaler,0.9207502715699211
+225,9,Subang — Middlemen,Subang,Middlemen,0.9182494701261671
+225,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9168365527226481
+226,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+226,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9933706602078907
+226,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9639367852779719
+226,4,Garut — Retail,Garut,Retail,0.9502024229861098
+226,5,Subang — Retail,Subang,Retail,0.9476667376009535
+226,6,Garut — Middlemen,Garut,Middlemen,0.9457828631247036
+226,7,Garut — Wholesaler,Garut,Wholesaler,0.9260172461244256
+226,8,Subang — Middlemen,Subang,Middlemen,0.9248104555325146
+226,9,Indramayu — Retail,Indramayu,Retail,0.9222997172309346
+226,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9182357163456543
+227,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+227,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9928906420657473
+227,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9532697515232287
+227,4,Garut — Retail,Garut,Retail,0.93637293293736
+227,5,Subang — Retail,Subang,Retail,0.9331330519285693
+227,6,Garut — Middlemen,Garut,Middlemen,0.9316333609811916
+227,7,Garut — Wholesaler,Garut,Wholesaler,0.9058955674441637
+227,8,Subang — Middlemen,Subang,Middlemen,0.9031662587634172
+227,9,Indramayu — Retail,Indramayu,Retail,0.9007212519365267
+227,10,Karawang — Middlemen,Karawang,Middlemen,0.8963665544265889
+228,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+228,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9921769614363702
+228,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9571277355988314
+228,4,Garut — Retail,Garut,Retail,0.9479777364914648
+228,5,Subang — Retail,Subang,Retail,0.945328770393284
+228,6,Garut — Middlemen,Garut,Middlemen,0.942762377449045
+228,7,Garut — Wholesaler,Garut,Wholesaler,0.91925991562293
+228,8,Indramayu — Retail,Indramayu,Retail,0.9188284887079441
+228,9,Subang — Middlemen,Subang,Middlemen,0.918143322816499
+228,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9145829302364143
+229,1,Karawang — Retail,Karawang,Retail,1.0
+229,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9906582086458272
+229,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9527333671639158
+229,4,Garut — Retail,Garut,Retail,0.9494812736730942
+229,5,Subang — Retail,Subang,Retail,0.9469088674697138
+229,6,Garut — Middlemen,Garut,Middlemen,0.9432534127703123
+229,7,Indramayu — Retail,Indramayu,Retail,0.9211744916898525
+229,8,Garut — Wholesaler,Garut,Wholesaler,0.9174028525731759
+229,9,Subang — Middlemen,Subang,Middlemen,0.9171063350686902
+229,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.917051637510451
+230,1,Karawang — Retail,Karawang,Retail,1.0
+230,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9929333207936188
+230,3,Karawang — Wholesaler,Karawang,Wholesaler,0.951887173833175
+230,4,Garut — Retail,Garut,Retail,0.9479771097202729
+230,5,Subang — Retail,Subang,Retail,0.9453281117069942
+230,6,Garut — Middlemen,Garut,Middlemen,0.9432659902493522
+230,7,Indramayu — Retail,Indramayu,Retail,0.9188275107427144
+230,8,Garut — Wholesaler,Garut,Wholesaler,0.9167452215574671
+230,9,Tasikmalaya — Retail,Tasikmalaya,Retail,0.914581901120128
+230,10,Subang — Middlemen,Subang,Middlemen,0.9144149234909218
+231,1,Karawang — Retail,Karawang,Retail,1.0
+231,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9932849963156246
+231,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9501617536398848
+231,4,Garut — Retail,Garut,Retail,0.931536855961638
+231,5,Subang — Retail,Subang,Retail,0.9280507226160035
+231,6,Garut — Middlemen,Garut,Middlemen,0.9270601868387212
+231,7,Garut — Wholesaler,Garut,Wholesaler,0.899536943126002
+231,8,Subang — Middlemen,Subang,Middlemen,0.8958859450955522
+231,9,Indramayu — Retail,Indramayu,Retail,0.8931754119370876
+231,10,Karawang — Middlemen,Karawang,Middlemen,0.889754281002887
+232,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+232,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9939900926372087
+232,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9618878373159339
+232,4,Garut — Retail,Garut,Retail,0.9371598029480857
+232,5,Subang — Retail,Subang,Retail,0.9339599892458962
+232,6,Garut — Middlemen,Garut,Middlemen,0.9331531980395582
+232,7,Garut — Wholesaler,Garut,Wholesaler,0.9121799960584497
+232,8,Subang — Middlemen,Subang,Middlemen,0.9095697487106328
+232,9,Indramayu — Retail,Indramayu,Retail,0.9019490229648004
+232,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8968206084562201
+233,1,Karawang — Retail,Karawang,Retail,1.0
+233,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9926764977047958
+233,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9572136655003314
+233,4,Garut — Retail,Garut,Retail,0.9536634488660104
+233,5,Subang — Retail,Subang,Retail,0.9513039984157158
+233,6,Garut — Middlemen,Garut,Middlemen,0.948781114002541
+233,7,Indramayu — Retail,Indramayu,Retail,0.9277000339865936
+233,8,Garut — Wholesaler,Garut,Wholesaler,0.9252846671020107
+233,9,Subang — Middlemen,Subang,Middlemen,0.9240587067580492
+233,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9239184888568607
+234,1,Karawang — Retail,Karawang,Retail,0.9999999999999998
+234,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9914917882190332
+234,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9546801544056678
+234,4,Garut — Retail,Garut,Retail,0.931798699158398
+234,5,Subang — Retail,Subang,Retail,0.9283258988302925
+234,6,Garut — Middlemen,Garut,Middlemen,0.9261265579710869
+234,7,Garut — Wholesaler,Garut,Wholesaler,0.9013025979809821
+234,8,Subang — Middlemen,Subang,Middlemen,0.8996448010210143
+234,9,Indramayu — Retail,Indramayu,Retail,0.8935839717837593
+234,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8880180353744389
+235,1,Karawang — Retail,Karawang,Retail,1.0
+235,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9914139169273434
+235,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9604766035728255
+235,4,Garut — Retail,Garut,Retail,0.9471874837647105
+235,5,Subang — Retail,Subang,Retail,0.9444982781125199
+235,6,Garut — Middlemen,Garut,Middlemen,0.9414634283829395
+235,7,Garut — Wholesaler,Garut,Wholesaler,0.9199135048503019
+235,8,Subang — Middlemen,Subang,Middlemen,0.9197610565381394
+235,9,Indramayu — Retail,Indramayu,Retail,0.9175954395515422
+235,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9132853882276748
+236,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+236,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9929184938676501
+236,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9623368312680967
+236,4,Garut — Retail,Garut,Retail,0.9499722714843799
+236,5,Subang — Retail,Subang,Retail,0.9474248668182003
+236,6,Garut — Middlemen,Garut,Middlemen,0.9452512673961466
+236,7,Garut — Wholesaler,Garut,Wholesaler,0.9246221663657931
+236,8,Subang — Middlemen,Subang,Middlemen,0.9235919070327935
+236,9,Indramayu — Retail,Indramayu,Retail,0.9219406066509328
+236,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.917857823006272
+237,1,Karawang — Retail,Karawang,Retail,1.0
+237,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9921789707548644
+237,3,Karawang — Wholesaler,Karawang,Wholesaler,0.958444703539619
+237,4,Garut — Retail,Garut,Retail,0.9287858545394453
+237,5,Subang — Retail,Subang,Retail,0.9251596406011576
+237,6,Garut — Middlemen,Garut,Middlemen,0.9235718350426881
+237,7,Garut — Wholesaler,Garut,Wholesaler,0.9008115694107821
+237,8,Subang — Middlemen,Subang,Middlemen,0.898865596258765
+237,9,Indramayu — Retail,Indramayu,Retail,0.8888829623598149
+237,10,Karawang — Middlemen,Karawang,Middlemen,0.8881068275625947
+238,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+238,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9919270205096725
+238,3,Karawang — Wholesaler,Karawang,Wholesaler,0.958935704127718
+238,4,Garut — Retail,Garut,Retail,0.9405430638830522
+238,5,Subang — Retail,Subang,Retail,0.9375155253360289
+238,6,Garut — Middlemen,Garut,Middlemen,0.9351610775561672
+238,7,Garut — Wholesaler,Garut,Wholesaler,0.9126989829115962
+238,8,Subang — Middlemen,Subang,Middlemen,0.9116135312006529
+238,9,Indramayu — Retail,Indramayu,Retail,0.9072280013226249
+238,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9023756961402275
+239,1,Karawang — Retail,Karawang,Retail,1.0
+239,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9926365754324492
+239,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9565796605475613
+239,4,Garut — Retail,Garut,Retail,0.9501244437077975
+239,5,Subang — Retail,Subang,Retail,0.9475847876291211
+239,6,Garut — Middlemen,Garut,Middlemen,0.945215493996097
+239,7,Indramayu — Retail,Indramayu,Retail,0.9221780444038952
+239,8,Garut — Wholesaler,Garut,Wholesaler,0.9213650527598486
+239,9,Subang — Middlemen,Subang,Middlemen,0.9199195680648621
+239,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9181076795974141
+240,1,Karawang — Retail,Karawang,Retail,1.0
+240,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9936098594201375
+240,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9541579313870909
+240,4,Garut — Retail,Garut,Retail,0.9286181150630559
+240,5,Subang — Retail,Subang,Retail,0.9249833598550058
+240,6,Garut — Middlemen,Garut,Middlemen,0.9243580213431475
+240,7,Garut — Wholesaler,Garut,Wholesaler,0.899059809697594
+240,8,Subang — Middlemen,Subang,Middlemen,0.8954481135376645
+240,9,Indramayu — Retail,Indramayu,Retail,0.8886212346708683
+240,10,Karawang — Middlemen,Karawang,Middlemen,0.8828407212442925
+241,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+241,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9920582236395563
+241,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9567738231126423
+241,4,Garut — Retail,Garut,Retail,0.9366125362164983
+241,5,Subang — Retail,Subang,Retail,0.9333848557718631
+241,6,Garut — Middlemen,Garut,Middlemen,0.9313180186428693
+241,7,Garut — Wholesaler,Garut,Wholesaler,0.9076261423321561
+241,8,Subang — Middlemen,Subang,Middlemen,0.9059877883830392
+241,9,Indramayu — Retail,Indramayu,Retail,0.901095110338036
+241,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8959220331648238
+242,1,Karawang — Retail,Karawang,Retail,1.0
+242,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9928108017620413
+242,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9580461064772207
+242,4,Garut — Retail,Garut,Retail,0.9449078332406613
+242,5,Subang — Retail,Subang,Retail,0.9421025481150561
+242,6,Garut — Middlemen,Garut,Middlemen,0.9401150344153555
+242,7,Garut — Wholesaler,Garut,Wholesaler,0.9170764236372003
+242,8,Subang — Middlemen,Subang,Middlemen,0.9153892674765848
+242,9,Indramayu — Retail,Indramayu,Retail,0.9140384494135709
+242,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9095423548662496
+243,1,Karawang — Retail,Karawang,Retail,1.0
+243,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9939568807774158
+243,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9577846071134855
+243,4,Garut — Retail,Garut,Retail,0.9323184765654393
+243,5,Subang — Retail,Subang,Retail,0.9288721432273683
+243,6,Garut — Middlemen,Garut,Middlemen,0.9282897304170498
+243,7,Garut — Wholesaler,Garut,Wholesaler,0.9050063829969159
+243,8,Subang — Middlemen,Subang,Middlemen,0.901710957805367
+243,9,Indramayu — Retail,Indramayu,Retail,0.8943949921973189
+243,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8888714750374687
+244,1,Karawang — Retail,Karawang,Retail,1.0
+244,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9909885175179671
+244,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9562730166323826
+244,4,Garut — Retail,Garut,Retail,0.9271379027008656
+244,5,Subang — Retail,Subang,Retail,0.9234277752944314
+244,6,Garut — Middlemen,Garut,Middlemen,0.9211302477128436
+244,7,Garut — Wholesaler,Garut,Wholesaler,0.897246914879503
+244,8,Subang — Middlemen,Subang,Middlemen,0.8959443168662057
+244,9,Indramayu — Retail,Indramayu,Retail,0.8863116259309013
+244,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8803653199922715
+245,1,Karawang — Retail,Karawang,Retail,1.0
+245,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9924915000467681
+245,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9599422102287095
+245,4,Garut — Retail,Garut,Retail,0.9480840551087723
+245,5,Subang — Retail,Subang,Retail,0.9454405027391349
+245,6,Garut — Middlemen,Garut,Middlemen,0.9430783884732843
+245,7,Garut — Wholesaler,Garut,Wholesaler,0.9211357166485424
+245,8,Subang — Middlemen,Subang,Middlemen,0.9200867521060725
+245,9,Indramayu — Retail,Indramayu,Retail,0.9189943800449081
+245,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9147574982797718
+246,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+246,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9916618268015566
+246,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9527540988189472
+246,4,Garut — Retail,Garut,Retail,0.9326827681826625
+246,5,Subang — Retail,Subang,Retail,0.9292549845208031
+246,6,Garut — Middlemen,Garut,Middlemen,0.9271239860503669
+246,7,Garut — Wholesaler,Garut,Wholesaler,0.9011998796467446
+246,8,Subang — Middlemen,Subang,Middlemen,0.899229342735319
+246,9,Indramayu — Retail,Indramayu,Retail,0.8949634046255129
+246,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8894696174554267
+247,1,Karawang — Retail,Karawang,Retail,1.0
+247,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9914128109227028
+247,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9526238592030775
+247,4,Garut — Retail,Garut,Retail,0.9465257893609776
+247,5,Subang — Retail,Subang,Retail,0.9438028903259038
+247,6,Garut — Middlemen,Garut,Middlemen,0.9408009966427795
+247,7,Indramayu — Retail,Indramayu,Retail,0.9165629828466224
+247,8,Garut — Wholesaler,Garut,Wholesaler,0.9148246226918034
+247,9,Subang — Middlemen,Subang,Middlemen,0.9137478886124503
+247,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9121989303684056
+248,1,Karawang — Retail,Karawang,Retail,0.9999999999999998
+248,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9940957799097414
+248,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9568432729455191
+248,4,Garut — Retail,Garut,Retail,0.9469109464604588
+248,5,Subang — Retail,Subang,Retail,0.944207659568921
+248,6,Garut — Middlemen,Garut,Middlemen,0.9429747997336199
+248,7,Garut — Wholesaler,Garut,Wholesaler,0.919149031913178
+248,8,Indramayu — Retail,Indramayu,Retail,0.9171639521574758
+248,9,Subang — Middlemen,Subang,Middlemen,0.9163761620306325
+248,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9128313325096722
+249,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+249,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9915677174742956
+249,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9575937934910591
+249,4,Garut — Retail,Garut,Retail,0.9360135273475173
+249,5,Subang — Retail,Subang,Retail,0.9327553454583193
+249,6,Garut — Middlemen,Garut,Middlemen,0.9303920056637145
+249,7,Garut — Wholesaler,Garut,Wholesaler,0.9072039980339622
+249,8,Subang — Middlemen,Subang,Middlemen,0.9060294828608594
+249,9,Indramayu — Retail,Indramayu,Retail,0.9001604632870757
+249,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8949385007519682
+250,1,Karawang — Retail,Karawang,Retail,0.9999999999999998
+250,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9912448788385971
+250,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9590382056850174
+250,4,Garut — Retail,Garut,Retail,0.9439547838351457
+250,5,Subang — Retail,Subang,Retail,0.9411009695723052
+250,6,Garut — Middlemen,Garut,Middlemen,0.9381180363942107
+250,7,Garut — Wholesaler,Garut,Wholesaler,0.9157716523018504
+250,8,Subang — Middlemen,Subang,Middlemen,0.9154295778362985
+250,9,Indramayu — Retail,Indramayu,Retail,0.9125513849268634
+250,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9079775116228236
+251,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+251,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9910122193514933
+251,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9505516258980025
+251,4,Garut — Retail,Garut,Retail,0.9279360962340986
+251,5,Subang — Retail,Subang,Retail,0.9242666127263862
+251,6,Garut — Middlemen,Garut,Middlemen,0.9219442424684273
+251,7,Garut — Wholesaler,Garut,Wholesaler,0.8948337835150126
+251,8,Subang — Middlemen,Subang,Middlemen,0.892902909128345
+251,9,Indramayu — Retail,Indramayu,Retail,0.8875570653067839
+251,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8816759002729972
+252,1,Karawang — Retail,Karawang,Retail,1.0
+252,2,Karawang — Rice Miller,Karawang,Rice Miller,0.992305551278664
+252,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9552231337657364
+252,4,Garut — Retail,Garut,Retail,0.9422034521497787
+252,5,Subang — Retail,Subang,Retail,0.9392604603320159
+252,6,Garut — Middlemen,Garut,Middlemen,0.937073819668888
+252,7,Garut — Wholesaler,Garut,Wholesaler,0.9124868248242688
+252,8,Subang — Middlemen,Subang,Middlemen,0.9107547918090748
+252,9,Indramayu — Retail,Indramayu,Retail,0.9098187425909221
+252,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9051019423826723
+253,1,Karawang — Retail,Karawang,Retail,1.0
+253,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9916114179876998
+253,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9569405697220696
+253,4,Garut — Retail,Garut,Retail,0.9488942129746623
+253,5,Subang — Retail,Subang,Retail,0.9462919137258271
+253,6,Garut — Middlemen,Garut,Middlemen,0.9433018249664621
+253,7,Indramayu — Retail,Indramayu,Retail,0.9202584876389317
+253,8,Garut — Wholesaler,Garut,Wholesaler,0.9197418877856147
+253,9,Subang — Middlemen,Subang,Middlemen,0.9191133482493963
+253,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9160877231927822
+254,1,Karawang — Retail,Karawang,Retail,1.0
+254,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9915773655902455
+254,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9543433797801528
+254,4,Garut — Retail,Garut,Retail,0.9366916465268326
+254,5,Subang — Retail,Subang,Retail,0.9334679943677036
+254,6,Garut — Middlemen,Garut,Middlemen,0.9310765569203295
+254,7,Garut — Wholesaler,Garut,Wholesaler,0.9060554914386244
+254,8,Subang — Middlemen,Subang,Middlemen,0.9045386043431991
+254,9,Indramayu — Retail,Indramayu,Retail,0.9012185479398535
+254,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8960519269918336
+255,1,Karawang — Retail,Karawang,Retail,0.9999999999999998
+255,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9915705925831783
+255,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9579111223447465
+255,4,Garut — Retail,Garut,Retail,0.9489149065904134
+255,5,Subang — Retail,Subang,Retail,0.9463136610574852
+255,6,Garut — Middlemen,Garut,Middlemen,0.9432953016458657
+255,7,Indramayu — Retail,Indramayu,Retail,0.9202907763544033
+255,8,Garut — Wholesaler,Garut,Wholesaler,0.9202859261958773
+255,9,Subang — Middlemen,Subang,Middlemen,0.9198020207743783
+255,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9161217007228062
+256,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+256,2,Karawang — Rice Miller,Karawang,Rice Miller,0.993135762511557
+256,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9521407528343184
+256,4,Garut — Retail,Garut,Retail,0.9287904345617665
+256,5,Subang — Retail,Subang,Retail,0.9251644538375497
+256,6,Garut — Middlemen,Garut,Middlemen,0.9242142762361379
+256,7,Garut — Wholesaler,Garut,Wholesaler,0.8978192560764682
+256,8,Subang — Middlemen,Subang,Middlemen,0.894375158751933
+256,9,Indramayu — Retail,Indramayu,Retail,0.8888901086719607
+256,10,Karawang — Middlemen,Karawang,Middlemen,0.8870648627163124
+257,1,Karawang — Retail,Karawang,Retail,1.0
+257,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9925582526832383
+257,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9607262261550269
+257,4,Garut — Retail,Garut,Retail,0.9400749475876904
+257,5,Subang — Retail,Subang,Retail,0.9370235726269321
+257,6,Garut — Middlemen,Garut,Middlemen,0.9351137827098492
+257,7,Garut — Wholesaler,Garut,Wholesaler,0.913607386921095
+257,8,Subang — Middlemen,Subang,Middlemen,0.9121850005822011
+257,9,Indramayu — Retail,Indramayu,Retail,0.9064975889070116
+257,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.901607080559865
+258,1,Karawang — Retail,Karawang,Retail,1.0
+258,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9922607367592449
+258,3,Karawang — Wholesaler,Karawang,Wholesaler,0.952944385358094
+258,4,Garut — Retail,Garut,Retail,0.9328568750958947
+258,5,Subang — Retail,Subang,Retail,0.9294379569327564
+258,6,Garut — Middlemen,Garut,Middlemen,0.9276973662687246
+258,7,Garut — Wholesaler,Garut,Wholesaler,0.9018296606594343
+258,8,Subang — Middlemen,Subang,Middlemen,0.899399662106971
+258,9,Indramayu — Retail,Indramayu,Retail,0.8952350675698046
+258,10,Karawang — Middlemen,Karawang,Middlemen,0.8927928230262273
+259,1,Karawang — Retail,Karawang,Retail,1.0
+259,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9940088401034205
+259,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9540643827400815
+259,4,Garut — Retail,Garut,Retail,0.9348562533350331
+259,5,Subang — Retail,Subang,Retail,0.9315391432212898
+259,6,Garut — Middlemen,Garut,Middlemen,0.9308621467373134
+259,7,Garut — Wholesaler,Garut,Wholesaler,0.9054773187561233
+259,8,Subang — Middlemen,Subang,Middlemen,0.9018462669405015
+259,9,Indramayu — Retail,Indramayu,Retail,0.8983547425391316
+259,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8930383343925452
+260,1,Karawang — Retail,Karawang,Retail,1.0
+260,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9928582772111921
+260,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9594015980492939
+260,4,Garut — Retail,Garut,Retail,0.9229398733597203
+260,5,Subang — Retail,Subang,Retail,0.9190159829092763
+260,6,Garut — Middlemen,Garut,Middlemen,0.9181787248338483
+260,7,Garut — Wholesaler,Garut,Wholesaler,0.8959001645649308
+260,8,Subang — Middlemen,Subang,Middlemen,0.8932094511184958
+260,9,Karawang — Middlemen,Karawang,Middlemen,0.8834367510568794
+260,10,Indramayu — Retail,Indramayu,Retail,0.879761346049034
+261,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+261,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9909890013962558
+261,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9579230935582055
+261,4,Garut — Retail,Garut,Retail,0.9341681240369791
+261,5,Subang — Retail,Subang,Retail,0.9308159744793753
+261,6,Garut — Middlemen,Garut,Middlemen,0.9281607916344831
+261,7,Garut — Wholesaler,Garut,Wholesaler,0.9052075560570887
+261,8,Subang — Middlemen,Subang,Middlemen,0.904449868057233
+261,9,Indramayu — Retail,Indramayu,Retail,0.8972810388722734
+261,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8919084722086632
+262,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+262,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9918833967153943
+262,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9546665635870993
+262,4,Garut — Retail,Garut,Retail,0.9453930006043838
+262,5,Subang — Retail,Subang,Retail,0.9426124201304367
+262,6,Garut — Middlemen,Garut,Middlemen,0.9399819317479801
+262,7,Garut — Wholesaler,Garut,Wholesaler,0.9151170532496558
+262,8,Indramayu — Retail,Indramayu,Retail,0.9147954669957928
+262,9,Subang — Middlemen,Subang,Middlemen,0.913829583464823
+262,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9103389671579716
+263,1,Karawang — Retail,Karawang,Retail,1.0
+263,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9909608270761818
+263,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9525553930712064
+263,4,Garut — Retail,Garut,Retail,0.9455283932032317
+263,5,Subang — Retail,Subang,Retail,0.9427547069007431
+263,6,Garut — Middlemen,Garut,Middlemen,0.9395022779206862
+263,7,Indramayu — Retail,Indramayu,Retail,0.9150067231220173
+263,8,Garut — Wholesaler,Garut,Wholesaler,0.9135256948641528
+263,9,Subang — Middlemen,Subang,Middlemen,0.9127601397272116
+263,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.910561272730265
+264,1,Karawang — Retail,Karawang,Retail,1.0
+264,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9927553460766864
+264,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9587857122093875
+264,4,Garut — Retail,Garut,Retail,0.9464456295418424
+264,5,Subang — Retail,Subang,Retail,0.9437186487804267
+264,6,Garut — Middlemen,Garut,Middlemen,0.9416158602596333
+264,7,Garut — Wholesaler,Garut,Wholesaler,0.9189988703318196
+264,8,Subang — Middlemen,Subang,Middlemen,0.9175193483599857
+264,9,Indramayu — Retail,Indramayu,Retail,0.9164379076725474
+264,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9120673133182904
+265,1,Karawang — Retail,Karawang,Retail,1.0
+265,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9934678773688217
+265,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9532475212696065
+265,4,Garut — Retail,Garut,Retail,0.9475593442953841
+265,5,Subang — Retail,Subang,Retail,0.9448890737273781
+265,6,Garut — Middlemen,Garut,Middlemen,0.9432045958745985
+265,7,Indramayu — Retail,Indramayu,Retail,0.9181756619261355
+265,8,Garut — Wholesaler,Garut,Wholesaler,0.9174052494307838
+265,9,Subang — Middlemen,Subang,Middlemen,0.9147708283370294
+265,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9138959582941937
+266,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+266,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9908632891395662
+266,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9478728229273735
+266,4,Garut — Retail,Garut,Retail,0.9473957399617917
+266,5,Subang — Retail,Subang,Retail,0.9447171386848934
+266,6,Garut — Middlemen,Garut,Middlemen,0.941304599388169
+266,7,Indramayu — Retail,Indramayu,Retail,0.917920386393777
+266,8,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9136273309444091
+266,9,Garut — Wholesaler,Garut,Wholesaler,0.9126967633910676
+266,10,Subang — Middlemen,Subang,Middlemen,0.9115744854793061
+267,1,Karawang — Retail,Karawang,Retail,1.0
+267,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9927719948633099
+267,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9536766797071297
+267,4,Garut — Retail,Garut,Retail,0.9512908800913882
+267,5,Subang — Retail,Subang,Retail,0.9488106187838623
+267,6,Garut — Middlemen,Garut,Middlemen,0.9464722100002615
+267,7,Indramayu — Retail,Indramayu,Retail,0.923998061406165
+267,8,Garut — Wholesaler,Garut,Wholesaler,0.920973875553377
+267,9,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9200228899560638
+267,10,Subang — Middlemen,Subang,Middlemen,0.9191474414938129
+268,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+268,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9939469983395777
+268,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9565137727957332
+268,4,Garut — Retail,Garut,Retail,0.9383657666730886
+268,5,Subang — Retail,Subang,Retail,0.9352273604685304
+268,6,Garut — Middlemen,Garut,Middlemen,0.9343304322328071
+268,7,Garut — Wholesaler,Garut,Wholesaler,0.9103315624883671
+268,8,Subang — Middlemen,Subang,Middlemen,0.9072078748327765
+268,9,Indramayu — Retail,Indramayu,Retail,0.90383071536955
+268,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8988007200600536
+269,1,Karawang — Retail,Karawang,Retail,1.0
+269,2,Karawang — Rice Miller,Karawang,Rice Miller,0.994209561879039
+269,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9566743837062492
+269,4,Garut — Retail,Garut,Retail,0.9427681342301751
+269,5,Subang — Retail,Subang,Retail,0.9398538959418887
+269,6,Garut — Middlemen,Garut,Middlemen,0.9389078421495345
+269,7,Garut — Wholesaler,Garut,Wholesaler,0.9149772095285751
+269,8,Subang — Middlemen,Subang,Middlemen,0.91188113706969
+269,9,Indramayu — Retail,Indramayu,Retail,0.9106998287792961
+269,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9060291125095077
+270,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+270,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9930340849705446
+270,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9565587396153344
+270,4,Garut — Retail,Garut,Retail,0.9419810289350763
+270,5,Subang — Retail,Subang,Retail,0.9390267113595425
+270,6,Garut — Middlemen,Garut,Middlemen,0.937337085582106
+270,7,Garut — Wholesaler,Garut,Wholesaler,0.9134410927496561
+270,8,Subang — Middlemen,Subang,Middlemen,0.9112533944510594
+270,9,Indramayu — Retail,Indramayu,Retail,0.9094716906315073
+270,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9047367383725824
+271,1,Karawang — Retail,Karawang,Retail,1.0
+271,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9913757422425297
+271,3,Karawang — Wholesaler,Karawang,Wholesaler,0.955611173288838
+271,4,Garut — Retail,Garut,Retail,0.9451008416020877
+271,5,Subang — Retail,Subang,Retail,0.9423053844341991
+271,6,Garut — Middlemen,Garut,Middlemen,0.9393513364304408
+271,7,Garut — Wholesaler,Garut,Wholesaler,0.9150620413674182
+271,8,Indramayu — Retail,Indramayu,Retail,0.9143396047138669
+271,9,Subang — Middlemen,Subang,Middlemen,0.9142822129448225
+271,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9098592616588617
+272,1,Karawang — Retail,Karawang,Retail,0.9999999999999998
+272,2,Karawang — Rice Miller,Karawang,Rice Miller,0.991835752501811
+272,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9602226873537506
+272,4,Garut — Retail,Garut,Retail,0.941213821381167
+272,5,Subang — Retail,Subang,Retail,0.9382204377084759
+272,6,Garut — Middlemen,Garut,Middlemen,0.9357709897157079
+272,7,Garut — Wholesaler,Garut,Wholesaler,0.9140421106631055
+272,8,Subang — Middlemen,Subang,Middlemen,0.9132115814407258
+272,9,Indramayu — Retail,Indramayu,Retail,0.9082745993781582
+272,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9034770349929964
+273,1,Karawang — Retail,Karawang,Retail,1.0
+273,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9926225918817564
+273,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9540562954681069
+273,4,Garut — Retail,Garut,Retail,0.9453208584578762
+273,5,Subang — Retail,Subang,Retail,0.9425366045163123
+273,6,Garut — Middlemen,Garut,Middlemen,0.9404025863790471
+273,7,Garut — Wholesaler,Garut,Wholesaler,0.9151309271172325
+273,8,Indramayu — Retail,Indramayu,Retail,0.9146829019771846
+273,9,Subang — Middlemen,Subang,Middlemen,0.9131658139782388
+273,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.910220514588907
+274,1,Karawang — Retail,Karawang,Retail,1.0
+274,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9932445227997987
+274,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9593104099654266
+274,4,Garut — Retail,Garut,Retail,0.9326572840982286
+274,5,Subang — Retail,Subang,Retail,0.929228202790493
+274,6,Garut — Middlemen,Garut,Middlemen,0.9281536326314277
+274,7,Garut — Wholesaler,Garut,Wholesaler,0.9057908681929867
+274,8,Subang — Middlemen,Subang,Middlemen,0.9032686488894368
+274,9,Indramayu — Retail,Indramayu,Retail,0.8949236412336901
+274,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8894277742969182
+275,1,Karawang — Retail,Karawang,Retail,0.9999999999999998
+275,2,Karawang — Rice Miller,Karawang,Rice Miller,0.99371971267938
+275,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9518622712358294
+275,4,Garut — Retail,Garut,Retail,0.9342273762246267
+275,5,Subang — Retail,Subang,Retail,0.9308782437798077
+275,6,Garut — Middlemen,Garut,Middlemen,0.9300405180108802
+275,7,Garut — Wholesaler,Garut,Wholesaler,0.9034389273548967
+275,8,Subang — Middlemen,Subang,Middlemen,0.8997623710548549
+275,9,Indramayu — Retail,Indramayu,Retail,0.8973734913972954
+275,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8920057603292602
+276,1,Karawang — Retail,Karawang,Retail,1.0
+276,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9933843857242286
+276,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9538001587047792
+276,4,Garut — Retail,Garut,Retail,0.9341354312650982
+276,5,Subang — Retail,Subang,Retail,0.9307816169963011
+276,6,Garut — Middlemen,Garut,Middlemen,0.9297250217479173
+276,7,Garut — Wholesaler,Garut,Wholesaler,0.9042442842206839
+276,8,Subang — Middlemen,Subang,Middlemen,0.9010573577510099
+276,9,Indramayu — Retail,Indramayu,Retail,0.8972300276028107
+276,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8918547928685465
+277,1,Karawang — Retail,Karawang,Retail,1.0
+277,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9926017559839598
+277,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9619178212218759
+277,4,Garut — Retail,Garut,Retail,0.9470428411826114
+277,5,Subang — Retail,Subang,Retail,0.9443462703511591
+277,6,Garut — Middlemen,Garut,Middlemen,0.9421106785052513
+277,7,Garut — Wholesaler,Garut,Wholesaler,0.9212722830960284
+277,8,Subang — Middlemen,Subang,Middlemen,0.9203043916350822
+277,9,Indramayu — Retail,Indramayu,Retail,0.9173697504677858
+277,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9130478948028853
+278,1,Karawang — Retail,Karawang,Retail,0.9999999999999998
+278,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9936115520222103
+278,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9639014765598033
+278,4,Garut — Retail,Garut,Retail,0.9383128835353303
+278,5,Subang — Retail,Subang,Retail,0.9351717845290821
+278,6,Garut — Middlemen,Garut,Middlemen,0.934053918216804
+278,7,Garut — Wholesaler,Garut,Wholesaler,0.9142479401107746
+278,8,Subang — Middlemen,Subang,Middlemen,0.9122346692911004
+278,9,Indramayu — Retail,Indramayu,Retail,0.903748200616746
+278,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.898713889492474
+279,1,Karawang — Retail,Karawang,Retail,1.0
+279,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9915188031748006
+279,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9566568829442831
+279,4,Garut — Retail,Garut,Retail,0.9337532382637863
+279,5,Subang — Retail,Subang,Retail,0.930379962782901
+279,6,Garut — Middlemen,Garut,Middlemen,0.9280991070469866
+279,7,Garut — Wholesaler,Garut,Wholesaler,0.9043871226864686
+279,8,Subang — Middlemen,Subang,Middlemen,0.9030311630885017
+279,9,Indramayu — Retail,Indramayu,Retail,0.8966336832411961
+279,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8912272575777981
+280,1,Karawang — Retail,Karawang,Retail,1.0
+280,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9912250805984432
+280,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9539408743369121
+280,4,Garut — Retail,Garut,Retail,0.927745773212094
+280,5,Subang — Retail,Subang,Retail,0.9240665984837582
+280,6,Garut — Middlemen,Garut,Middlemen,0.9218958269443893
+280,7,Garut — Wholesaler,Garut,Wholesaler,0.8966777894751089
+280,8,Subang — Middlemen,Subang,Middlemen,0.8949478663688128
+280,9,Indramayu — Retail,Indramayu,Retail,0.8872601000021648
+280,10,Karawang — Middlemen,Karawang,Middlemen,0.8862428037564267
+281,1,Karawang — Retail,Karawang,Retail,1.0
+281,2,Karawang — Rice Miller,Karawang,Rice Miller,0.994136822259951
+281,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9591712136599702
+281,4,Garut — Retail,Garut,Retail,0.9373499910286522
+281,5,Subang — Retail,Subang,Retail,0.9341598616758878
+281,6,Garut — Middlemen,Garut,Middlemen,0.9334412058686196
+281,7,Garut — Wholesaler,Garut,Wholesaler,0.9109241985700506
+281,8,Subang — Middlemen,Subang,Middlemen,0.907895195833909
+281,9,Indramayu — Retail,Indramayu,Retail,0.9022457777172497
+281,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8971328845366966
+282,1,Karawang — Retail,Karawang,Retail,1.0
+282,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9929655716201641
+282,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9575437319944606
+282,4,Garut — Retail,Garut,Retail,0.9442046318284381
+282,5,Subang — Retail,Subang,Retail,0.9413635397891089
+282,6,Garut — Middlemen,Garut,Middlemen,0.9395150129085473
+282,7,Garut — Wholesaler,Garut,Wholesaler,0.9161800728155363
+282,8,Subang — Middlemen,Subang,Middlemen,0.9142734694816774
+282,9,Indramayu — Retail,Indramayu,Retail,0.9129412283869712
+282,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9083877452811461
+283,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+283,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9913547782857367
+283,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9546689817820091
+283,4,Garut — Retail,Garut,Retail,0.9306637494472634
+283,5,Subang — Retail,Subang,Retail,0.9271331576447933
+283,6,Garut — Middlemen,Garut,Middlemen,0.9249002683044212
+283,7,Garut — Wholesaler,Garut,Wholesaler,0.9000816459758852
+283,8,Subang — Middlemen,Subang,Middlemen,0.8984768681748835
+283,9,Indramayu — Retail,Indramayu,Retail,0.8918130841468118
+283,10,Karawang — Middlemen,Karawang,Middlemen,0.8888959339558301
+284,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+284,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9935385776480764
+284,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9544778300117354
+284,4,Garut — Retail,Garut,Retail,0.9324773469804537
+284,5,Subang — Retail,Subang,Retail,0.9290391033008288
+284,6,Garut — Middlemen,Garut,Middlemen,0.9281697320791713
+284,7,Garut — Wholesaler,Garut,Wholesaler,0.9030578989687256
+284,8,Subang — Middlemen,Subang,Middlemen,0.8997373424514471
+284,9,Indramayu — Retail,Indramayu,Retail,0.8946428812897304
+284,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8891323296102505
+285,1,Karawang — Retail,Karawang,Retail,1.0
+285,2,Karawang — Rice Miller,Karawang,Rice Miller,0.993021808743788
+285,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9614974056394116
+285,4,Garut — Retail,Garut,Retail,0.9464451607486731
+285,5,Subang — Retail,Subang,Retail,0.9437181561163773
+285,6,Garut — Middlemen,Garut,Middlemen,0.9417930332445318
+285,7,Garut — Wholesaler,Garut,Wholesaler,0.9206819790405841
+285,8,Subang — Middlemen,Subang,Middlemen,0.9192923071511319
+285,9,Indramayu — Retail,Indramayu,Retail,0.9164371762039901
+285,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9120665435913283
+286,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+286,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9913634799666382
+286,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9523274573018634
+286,4,Garut — Retail,Garut,Retail,0.9454851247973568
+286,5,Subang — Retail,Subang,Retail,0.9427092352739287
+286,6,Garut — Middlemen,Garut,Middlemen,0.9397274447751157
+286,7,Indramayu — Retail,Indramayu,Retail,0.9149392104522641
+286,8,Garut — Wholesaler,Garut,Wholesaler,0.9135881803145456
+286,9,Subang — Middlemen,Subang,Middlemen,0.9124651606665392
+286,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9104902289079874
+287,1,Karawang — Retail,Karawang,Retail,1.0
+287,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9934296440131546
+287,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9572070935372394
+287,4,Garut — Retail,Garut,Retail,0.9334411982069406
+287,5,Subang — Retail,Subang,Retail,0.9300520336917052
+287,6,Garut — Middlemen,Garut,Middlemen,0.9290609608823769
+287,7,Garut — Wholesaler,Garut,Wholesaler,0.9054968482737377
+287,8,Subang — Middlemen,Subang,Middlemen,0.9026243271529835
+287,9,Indramayu — Retail,Indramayu,Retail,0.8961468001013714
+287,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8907149087196933
+288,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+288,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9927088736871215
+288,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9592962753956304
+288,4,Garut — Retail,Garut,Retail,0.9452124243938336
+288,5,Subang — Retail,Subang,Retail,0.9424226490054859
+288,6,Garut — Middlemen,Garut,Middlemen,0.9403516735185813
+288,7,Garut — Wholesaler,Garut,Wholesaler,0.918026431639372
+288,8,Subang — Middlemen,Subang,Middlemen,0.9165800937349161
+288,9,Indramayu — Retail,Indramayu,Retail,0.9145137098609587
+288,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9100424731238033
+289,1,Karawang — Retail,Karawang,Retail,1.0
+289,2,Karawang — Rice Miller,Karawang,Rice Miller,0.991912703163128
+289,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9598122131799725
+289,4,Garut — Retail,Garut,Retail,0.9391273316192896
+289,5,Subang — Retail,Subang,Retail,0.9360277041911242
+289,6,Garut — Middlemen,Garut,Middlemen,0.9337358003947083
+289,7,Garut — Wholesaler,Garut,Wholesaler,0.9117690044878273
+289,8,Subang — Middlemen,Subang,Middlemen,0.9107226832870654
+289,9,Indramayu — Retail,Indramayu,Retail,0.9050190023348037
+289,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9000511586559921
+290,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+290,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9918913021092955
+290,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9582779447590132
+290,4,Garut — Retail,Garut,Retail,0.9361445999205159
+290,5,Subang — Retail,Subang,Retail,0.9328930922276879
+290,6,Garut — Middlemen,Garut,Middlemen,0.930738801326713
+290,7,Garut — Wholesaler,Garut,Wholesaler,0.907908965111474
+290,8,Subang — Middlemen,Subang,Middlemen,0.9065540898510326
+290,9,Indramayu — Retail,Indramayu,Retail,0.9003649787795145
+290,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8951537131313771
+291,1,Karawang — Retail,Karawang,Retail,1.0
+291,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9910681190755426
+291,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9561977180393744
+291,4,Garut — Retail,Garut,Retail,0.9290286880240202
+291,5,Subang — Retail,Subang,Retail,0.9254148391314794
+291,6,Garut — Middlemen,Garut,Middlemen,0.9230741007410486
+291,7,Garut — Wholesaler,Garut,Wholesaler,0.8991415623662565
+291,8,Subang — Middlemen,Subang,Middlemen,0.8978615775354863
+291,9,Indramayu — Retail,Indramayu,Retail,0.889261860923735
+291,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8834698627584541
+292,1,Karawang — Retail,Karawang,Retail,1.0
+292,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9923678275343062
+292,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9516571516024315
+292,4,Garut — Retail,Garut,Retail,0.9482566963599803
+292,5,Subang — Retail,Subang,Retail,0.945621934857767
+292,6,Garut — Middlemen,Garut,Middlemen,0.9431685813828512
+292,7,Indramayu — Retail,Indramayu,Retail,0.9192637560836807
+292,8,Garut — Wholesaler,Garut,Wholesaler,0.9165661752072292
+292,9,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9150409636425602
+292,10,Subang — Middlemen,Subang,Middlemen,0.9146865936701288
+293,1,Karawang — Retail,Karawang,Retail,1.0
+293,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9922253545228488
+293,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9527360790744477
+293,4,Garut — Retail,Garut,Retail,0.937485740380896
+293,5,Subang — Retail,Subang,Retail,0.9343025233654212
+293,6,Garut — Middlemen,Garut,Middlemen,0.9323026433961286
+293,7,Garut — Wholesaler,Garut,Wholesaler,0.9063205216438583
+293,8,Subang — Middlemen,Subang,Middlemen,0.9041315198229287
+293,9,Indramayu — Retail,Indramayu,Retail,0.9024575904938454
+293,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8973557758741537
+294,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+294,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9942034249324154
+294,3,Karawang — Wholesaler,Karawang,Wholesaler,0.956513233031242
+294,4,Garut — Retail,Garut,Retail,0.9395209400503607
+294,5,Subang — Retail,Subang,Retail,0.9364413551063078
+294,6,Garut — Middlemen,Garut,Middlemen,0.9356565566719708
+294,7,Garut — Wholesaler,Garut,Wholesaler,0.9116356055751453
+294,8,Subang — Middlemen,Subang,Middlemen,0.9083609117778533
+294,9,Indramayu — Retail,Indramayu,Retail,0.9056331584489852
+294,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9006974373172582
+295,1,Karawang — Retail,Karawang,Retail,1.0
+295,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9931387304655546
+295,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9533031922888509
+295,4,Garut — Retail,Garut,Retail,0.9450516231820396
+295,5,Subang — Retail,Subang,Retail,0.9422536598193544
+295,6,Garut — Middlemen,Garut,Middlemen,0.9404774434924092
+295,7,Garut — Wholesaler,Garut,Wholesaler,0.9147374313446663
+295,8,Indramayu — Retail,Indramayu,Retail,0.9142628081027764
+295,9,Subang — Middlemen,Subang,Middlemen,0.912250891549641
+295,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9097784483121257
+296,1,Karawang — Retail,Karawang,Retail,1.0000000000000002
+296,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9927214703478325
+296,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9532222336626436
+296,4,Garut — Retail,Garut,Retail,0.9517724722362034
+296,5,Subang — Retail,Subang,Retail,0.9493167335307084
+296,6,Garut — Middlemen,Garut,Middlemen,0.9469201191347584
+296,7,Indramayu — Retail,Indramayu,Retail,0.9247495004936747
+296,8,Garut — Wholesaler,Garut,Wholesaler,0.921169907017146
+296,9,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9208136319779778
+296,10,Subang — Middlemen,Subang,Middlemen,0.9193577346038112
+297,1,Karawang — Retail,Karawang,Retail,0.9999999999999999
+297,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9903290289123291
+297,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9558811421630093
+297,4,Garut — Retail,Garut,Retail,0.9411660085780994
+297,5,Subang — Retail,Subang,Retail,0.938170190284424
+297,6,Garut — Middlemen,Garut,Middlemen,0.9347186945196523
+297,7,Garut — Wholesaler,Garut,Wholesaler,0.9106704716553967
+297,8,Subang — Middlemen,Subang,Middlemen,0.910577179757662
+297,9,Indramayu — Retail,Indramayu,Retail,0.9081999959829509
+297,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9033985295751276
+298,1,Karawang — Retail,Karawang,Retail,1.0
+298,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9941677742694663
+298,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9640487240733955
+298,4,Garut — Retail,Garut,Retail,0.9475697755224732
+298,5,Subang — Retail,Subang,Retail,0.9449000361110347
+298,6,Garut — Middlemen,Garut,Middlemen,0.9436816250354507
+298,7,Garut — Wholesaler,Garut,Wholesaler,0.923911412150368
+298,8,Subang — Middlemen,Subang,Middlemen,0.9219312077757528
+298,9,Indramayu — Retail,Indramayu,Retail,0.9181919380050746
+298,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.9139130856698959
+299,1,Karawang — Retail,Karawang,Retail,1.0
+299,2,Karawang — Rice Miller,Karawang,Rice Miller,0.9915937649273824
+299,3,Karawang — Wholesaler,Karawang,Wholesaler,0.9595604279642518
+299,4,Garut — Retail,Garut,Retail,0.9260597530208436
+299,5,Subang — Retail,Subang,Retail,0.9222947263893753
+299,6,Garut — Middlemen,Garut,Middlemen,0.9204555963057652
+299,7,Garut — Wholesaler,Garut,Wholesaler,0.8983739565075772
+299,8,Subang — Middlemen,Subang,Middlemen,0.8968945546115833
+299,9,Indramayu — Retail,Indramayu,Retail,0.8846293646638177
+299,10,Tasikmalaya — Retail,Tasikmalaya,Retail,0.8785950704832529

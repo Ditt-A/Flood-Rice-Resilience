@@ -1,0 +1,12 @@
+unit,region,actor,top10_frequency,mean_rank,median_rank,mean_score,top10_share
+Karawang — Retail,Karawang,Retail,300,1.0,1.0,1.0,1.0
+Karawang — Rice Miller,Karawang,Rice Miller,300,2.0,2.0,0.9924887828540706,1.0
+Karawang — Wholesaler,Karawang,Wholesaler,300,3.006666666666667,3.0,0.9561276853594264,1.0
+Garut — Retail,Garut,Retail,300,3.993333333333333,4.0,0.9395647563378255,1.0
+Subang — Retail,Subang,Retail,300,5.0,5.0,0.9364874025127631,1.0
+Garut — Middlemen,Garut,Middlemen,300,6.0,6.0,0.9345572782405391,1.0
+Garut — Wholesaler,Garut,Wholesaler,300,7.226666666666667,7.0,0.9104646126540613,1.0
+Subang — Middlemen,Subang,Middlemen,300,8.336666666666666,8.0,0.908551018519768,1.0
+Indramayu — Retail,Indramayu,Retail,300,8.613333333333333,9.0,0.9057015259907426,1.0
+Tasikmalaya — Retail,Tasikmalaya,Retail,263,9.904942965779467,10.0,0.9033291347165077,0.8766666666666667
+Karawang — Middlemen,Karawang,Middlemen,37,9.243243243243244,9.0,0.8902851084557757,0.12333333333333334

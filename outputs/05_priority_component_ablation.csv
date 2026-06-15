@@ -1,0 +1,6 @@
+removed_component,removed_component_label,mean_absolute_score_change,median_absolute_score_change,mean_absolute_rank_shift,top10_overlap_with_full,spearman_rank_correlation_with_full
+lhs_component_vulnerability,Vulnerability,0.07694664770336951,0.07201426408127112,6.305555555555555,0.7,0.9080005145025404
+lhs_component_flood,Flood scenario,0.07304585506409768,0.062140539446891796,6.75,0.6,0.9162559384909076
+lhs_component_failure_probability,LHS failure probability,0.049183501919407596,0.04882672245787012,2.6944444444444446,1.0,0.983342980255965
+lhs_component_historical_exposure,Historical exposure,0.042107554001708083,0.041625128911702225,3.6666666666666665,0.6,0.9756635886182424
+lhs_component_actor_role,Actor role,0.01036295341604368,0.009152196577509542,0.5,1.0,0.9992603680848632

@@ -1,4 +1,4 @@
-# Notebook 02 Methodological Notes — Method 3
+# the preprocessing stage Methodological Notes — Method 3
 
 ## Labeling stance
 
@@ -50,7 +50,7 @@ The score thresholds are internal calibrated decision thresholds. They are not c
 
 ## Cluster leakage prevention
 
-Cluster outputs are kept only for audit and interpretability. The following columns are marked as audit-only and must be excluded from the operational model in Notebook 03:
+Cluster outputs are kept only for audit and interpretability. The following columns are marked as audit-only and must be excluded from the operational model in this workflow:
 
 | 0                      |
 |:-----------------------|

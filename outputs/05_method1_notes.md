@@ -1,4 +1,4 @@
-# Method 1 Notes — Hazard × Vulnerability Decision Support
+# Hazard × vulnerability decision support Notes — Hazard × Vulnerability Decision Support
 
 This notebook is a decision-support layer, not a new supervised model.
 
@@ -8,7 +8,7 @@ The final priority label is not observed ground truth. It is a policy-style deci
 
 1. predicted flood hazard scenario,
 2. predicted rice supply-chain vulnerability, and
-3. stress-test survival / fail-share from Method 5.
+3. stress-test survival / fail-share from Stress-test sensitivity analysis.
 
 Training another model to predict this label would only replicate the rule matrix and make the process less transparent.
 
