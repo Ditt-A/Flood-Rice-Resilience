@@ -1,0 +1,11 @@
+region,actor,flood_scenario,vulnerability_component,hazard_component,monte_carlo_failure_component,external_exposure_component,vulnerability_component_weighted,hazard_component_weighted,monte_carlo_failure_component_weighted,external_exposure_component_weighted,actor_region
+Garut,Middlemen,High,1.0,1.0,1.0,0.3949554339103519,0.35,0.3,0.25,0.0394955433910352,Garut — Middlemen (High)
+Garut,Retail,High,1.0,1.0,1.0,0.3949554339103519,0.35,0.3,0.25,0.0394955433910352,Garut — Retail (High)
+Garut,Wholesaler,High,1.0,1.0,0.92324,0.3949554339103519,0.35,0.3,0.23081,0.0394955433910352,Garut — Wholesaler (High)
+Indramayu,Retail,High,1.0,1.0,1.0,0.0559353146853146,0.35,0.3,0.25,0.00559353146853146,Indramayu — Retail (High)
+Karawang,Retail,High,1.0,1.0,1.0,1.0,0.35,0.3,0.25,0.1,Karawang — Retail (High)
+Karawang,Rice Miller,High,1.0,1.0,1.0,1.0,0.35,0.3,0.25,0.1,Karawang — Rice Miller (High)
+Karawang,Wholesaler,High,1.0,1.0,0.8650714285714286,1.0,0.35,0.3,0.21626785714285715,0.1,Karawang — Wholesaler (High)
+Subang,Middlemen,High,1.0,1.0,0.908952380952381,0.3641466525278,0.35,0.3,0.22723809523809524,0.03641466525278,Subang — Middlemen (High)
+Subang,Retail,High,1.0,1.0,1.0,0.3641466525278,0.35,0.3,0.25,0.03641466525278,Subang — Retail (High)
+Tasikmalaya,Retail,High,1.0,1.0,1.0,0.0065573770491803,0.35,0.3,0.25,0.0006557377049180301,Tasikmalaya — Retail (High)

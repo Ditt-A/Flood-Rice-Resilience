@@ -57,7 +57,7 @@ Farmer,Karawang,44,Low Vulnerability,Positive financial/operational buffer,50970
 Wholesaler,Indramayu,11,Low Vulnerability,Far from actor frontier,2186000000.0,2640000000.0,454000000.0,0.828030303030303,0.0098484848484848,0.1719696969696969,Low Vulnerability,False
 Farmer,Tasikmalaya,76,Low Vulnerability,Positive financial/operational buffer,4941340.0,14850000.0,9908660.0,0.3327501683501683,0.205986531986532,0.6672498316498316,Low Vulnerability,False
 Farmer,Indramayu,44,Low Vulnerability,Far from actor frontier,49110000.0,83750000.0,34640000.0,0.5863880597014925,0.3485373134328358,0.4136119402985074,Low Vulnerability,False
-Farmer,Indramayu,8,High Vulnerability,Thin R/C buffer; Thin margin buffer; Far from actor frontier,6470000.0,6550000.0,80000.0,0.9877862595419848,0.7465648854961832,0.0122137404580152,Medium Vulnerability,True
+Farmer,Indramayu,8,High Vulnerability,Thin R/C buffer; Thin margin buffer; Far from actor frontier,6470000.0,6550000.0,80000.0,0.9877862595419848,0.7465648854961832,0.0122137404580152,High Vulnerability,False
 Middlemen,Indramayu,1,Low Vulnerability,Positive financial/operational buffer,53300000.0,66000000.0,12700000.0,0.8075757575757576,0.0575757575757575,0.1924242424242424,Low Vulnerability,False
 Retail,Tasikmalaya,12,High Vulnerability,R/C < 1: below break-even; Negative margin,6095000.0,3000000.0,-3095000.0,2.0316666666666667,1.1333333333333333,-1.0316666666666667,High Vulnerability,False
 Rice Miller,Subang,9,Low Vulnerability,Positive financial/operational buffer,216300000.0,309591764.729476,93291764.72947598,0.6986619950598649,0.0155042883785823,0.3013380049401351,Low Vulnerability,False

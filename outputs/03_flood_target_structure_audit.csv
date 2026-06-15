@@ -1,0 +1,2 @@
+target,n_rows,n_features,target_mean,target_std,best_cv_model,best_cv_rmse_mean,best_cv_r2_mean,holdout_rmse,holdout_r2,shuffled_target_r2_mean,caution
+FloodProbability,50000,20,0.4996604,0.050034395575991396,Ridge,2.811193028348273e-06,0.9999999968467181,2.2428357943190447e-06,0.9999999979802693,-0.001056067176508657,Very high regression metrics are plausible if FloodProbability is constructed from a near-linear formula over the provided features.

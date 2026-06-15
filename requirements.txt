@@ -1,13 +1,22 @@
-pandas
-numpy
-matplotlib
-scikit-learn
-scipy
-joblib
-openpyxl
+# Notebook runtime
+jupyterlab
+ipykernel
 nbformat
 
-# Optional booster models for Notebook 03. Leave commented if runtime is limited.
-# xgboost
-# lightgbm
-# catboost
+# Data handling
+numpy
+pandas
+openpyxl
+
+# Visualization
+matplotlib
+
+# Modeling and evaluation
+scipy
+scikit-learn
+joblib
+
+# Booster model candidates used by Notebook 03
+xgboost
+lightgbm
+catboost

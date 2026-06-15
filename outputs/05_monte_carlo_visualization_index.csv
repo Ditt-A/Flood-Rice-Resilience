@@ -1,0 +1,5 @@
+figure,business_message
+05_monte_carlo_priority_distribution.png,How intervention priority composition changes across flood scenarios.
+05_monte_carlo_high_priority_heatmap.png,Which actor-region nodes are most critical under the high flood scenario.
+05_top10_monte_carlo_priority.png,Top final intervention priorities with MC failure probability and historical exposure.
+05_monte_carlo_top10_component_contribution.png,"Why the top 10 priorities were assigned: vulnerability, hazard, failure, and exposure components."

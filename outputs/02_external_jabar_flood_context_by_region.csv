@@ -1,0 +1,6 @@
+region,region_key,flood_events_total,flood_events_mean_annual,flood_events_recent_5y,flood_events_max_yearly,flood_events_trend_slope,historical_flood_exposure_score,historical_flood_exposure_level,external_data_coverage,source_file_used
+Garut,GARUT,141,10.071428571428571,55,21,0.3186813186813271,0.3949554339103519,Medium,multi-year,jabar_flood_events_by_kabupaten_kota.csv
+Indramayu,INDRAMAYU,62,4.428571428571429,29,10,0.1186813186813069,0.0559353146853146,Low,multi-year,jabar_flood_events_by_kabupaten_kota.csv
+Karawang,KARAWANG,225,16.071428571428573,118,71,0.7670329670329822,1.0,High,multi-year,jabar_flood_events_by_kabupaten_kota.csv
+Subang,SUBANG,113,8.071428571428571,51,39,-0.0769230769230587,0.3641466525278,Medium,multi-year,jabar_flood_events_by_kabupaten_kota.csv
+Tasikmalaya,TASIKMALAYA,60,4.285714285714286,14,12,-0.2197802197802024,0.0065573770491803,Low,multi-year,jabar_flood_events_by_kabupaten_kota.csv

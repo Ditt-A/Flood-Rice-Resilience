@@ -1,2 +1,2 @@
-mode,model,accuracy,balanced_accuracy,f1_macro,f1_weighted,n_features
-operational_prediction,Decision Tree,0.9847715736040609,0.9693627450980392,0.9632534165376562,0.9849377249517359,34
+mode,model,validation_role,accuracy,balanced_accuracy,f1_macro,f1_weighted,n_features
+operational_prediction,Random Forest,holdout sanity check after StratifiedKFold selection,0.9898477157360406,0.9742647058823529,0.9752291020829934,0.989840096139432,34

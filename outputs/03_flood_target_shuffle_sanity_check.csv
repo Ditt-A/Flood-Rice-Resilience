@@ -1,0 +1,2 @@
+sanity_check,cv_r2_mean,cv_r2_std,cv_rmse_mean,interpretation
+Ridge with shuffled FloodProbability target,-0.001056067176508657,0.000932419261581531,0.05008821954962021,"Expected to be near/below 0 R2. If so, high real Ridge score comes from target structure, not leakage."

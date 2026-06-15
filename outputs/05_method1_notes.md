@@ -20,6 +20,7 @@ The decision framework follows disaster-risk logic: risk emerges from the intera
 - rice actor-region unit = exposed supply-chain node,
 - vulnerability label = financial/operational vulnerability,
 - stress fail share = low resilience / low buffer,
+- historical flood exposure = regional tie-breaker from Open Data Jabar,
 - priority label = intervention priority.
 
 ## Limitation

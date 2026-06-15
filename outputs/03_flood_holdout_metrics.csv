@@ -1,2 +1,2 @@
-model,mae,rmse,r2
-Ridge,1.790161049403377e-06,2.2428357943190447e-06,0.9999999979802693
+model,validation_role,mae,rmse,r2
+Ridge,holdout sanity check after KFold selection,1.790161049403377e-06,2.2428357943190447e-06,0.9999999979802693

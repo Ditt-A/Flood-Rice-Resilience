@@ -1,0 +1,5 @@
+figure,business_message
+04_monte_carlo_stress_response_curve_by_actor.png,Which actors fail faster as stress increases from Low to High.
+04_monte_carlo_high_failure_heatmap.png,Which actor-region combinations have highest failure probability under High stress.
+04_monte_carlo_top_actor_region_failure_probability.png,Top ranked intervention candidates from Monte Carlo failure risk.
+04_monte_carlo_margin_interval_top_risk.png,Whether high-risk nodes remain financially below break-even under uncertainty.

@@ -1,0 +1,2 @@
+external_dataset,project_role,used_in_method_3_label,used_in_rice_vulnerability_model,allowed_downstream_use,reason
+Open Data Jabar flood events by regency/city,regional historical flood exposure bridge,False,False,stress-test modifier and decision-support tie-breaker only,hazard/exposure context must remain conceptually separate from financial-operational vulnerability

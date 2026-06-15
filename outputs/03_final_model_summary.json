@@ -12,7 +12,7 @@
     "LightGBM",
     "CatBoost"
   ],
-  "best_rice_operational_model": "Decision Tree",
+  "best_rice_operational_model": "Random Forest",
   "rice_classification_candidates": [
     "Dummy Most Frequent",
     "Logistic Regression",
@@ -26,17 +26,19 @@
   ],
   "flood_holdout": {
     "model": "Ridge",
+    "validation_role": "holdout sanity check after KFold selection",
     "mae": 1.790161049403377e-06,
     "rmse": 2.2428357943190447e-06,
     "r2": 0.9999999979802693
   },
   "rice_operational_holdout": {
     "mode": "operational_prediction",
-    "model": "Decision Tree",
-    "accuracy": 0.9847715736040609,
-    "balanced_accuracy": 0.9693627450980392,
-    "f1_macro": 0.9632534165376562,
-    "f1_weighted": 0.9849377249517359,
+    "model": "Random Forest",
+    "validation_role": "holdout sanity check after StratifiedKFold selection",
+    "accuracy": 0.9898477157360406,
+    "balanced_accuracy": 0.9742647058823529,
+    "f1_macro": 0.9752291020829934,
+    "f1_weighted": 0.989840096139432,
     "n_features": 34
   },
   "rice_operational_n_features": 34,
@@ -44,11 +46,18 @@
   "rice_operational_uses_score_features": false,
   "notebook_scope": "model_training_only",
   "boosting_models_retained_in_notebook_03": true,
+  "validation_protocol": {
+    "flood_regression": "5-fold KFold on training partition + holdout sanity check + shuffled-target sanity check",
+    "rice_classification": "5-fold StratifiedKFold on training partition + holdout sanity check"
+  },
   "transition_outputs": [
     "03_flood_full_predictions.csv",
     "03_flood_scenario_summary.csv",
+    "03_flood_cv_fold_results.csv",
+    "03_flood_target_shuffle_sanity_check.csv",
     "03_rice_full_predictions.csv",
-    "03_actor_region_model_summary.csv"
+    "03_actor_region_model_summary.csv",
+    "03_rice_cv_fold_results.csv"
   ],
   "next_notebooks": {
     "04": "Method 5 stress-test sensitivity analysis",

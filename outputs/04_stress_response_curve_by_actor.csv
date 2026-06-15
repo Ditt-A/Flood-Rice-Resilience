@@ -1,8 +1,8 @@
 flood_scenario,actor,mean_fail_share
 Low,Farmer,0.1047162697314858
 Medium,Farmer,0.12085487766732876
-High,Farmer,0.16548352091348353
-Low,Middlemen,0.7151272577996716
+High,Farmer,0.17389532474307712
+Low,Middlemen,0.7436986863711001
 Medium,Middlemen,0.8392857142857142
 High,Middlemen,0.9339285714285713
 Low,Retail,0.9913043478260869
@@ -10,7 +10,7 @@ Medium,Retail,1.0
 High,Retail,1.0
 Low,Rice Miller,0.43881483627933926
 Medium,Rice Miller,0.5735752921858398
-High,Rice Miller,0.7817251038346372
+High,Rice Miller,0.7912489133584468
 Low,Wholesaler,0.43776785714285715
 Medium,Wholesaler,0.4833928571428571
 High,Wholesaler,0.645922619047619
