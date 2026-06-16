@@ -17,6 +17,7 @@ WORKDIR /workspace/app
 ENV NODE_ENV=production
 ENV NEXT_TELEMETRY_DISABLED=1
 ENV PROJECT_ROOT=/workspace
+ENV HOSTNAME=0.0.0.0
 COPY --from=builder /workspace/app/.next/standalone ./
 COPY --from=builder /workspace/app/.next/static ./.next/static
 COPY --from=builder /workspace/app/public ./public
