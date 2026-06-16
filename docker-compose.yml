@@ -1,0 +1,32 @@
+services:
+  simulator:
+    build:
+      context: .
+      dockerfile: ai/simulator/Dockerfile
+    restart: unless-stopped
+    expose:
+      - "8000"
+    healthcheck:
+      test: ["CMD", "python", "-c", "import urllib.request; urllib.request.urlopen('http://127.0.0.1:8000/health')"]
+      interval: 15s
+      timeout: 5s
+      retries: 5
+
+  web:
+    build:
+      context: .
+      dockerfile: app/Dockerfile
+    restart: unless-stopped
+    environment:
+      GOOGLE_GENERATIVE_AI_API_KEY: ${GOOGLE_GENERATIVE_AI_API_KEY}
+      SIMULATOR_URL: http://simulator:8000
+    depends_on:
+      simulator:
+        condition: service_healthy
+    ports:
+      - "${PORT:-3000}:3000"
+    healthcheck:
+      test: ["CMD", "wget", "-qO-", "http://127.0.0.1:3000/ai"]
+      interval: 15s
+      timeout: 5s
+      retries: 5

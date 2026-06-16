@@ -1,0 +1,15 @@
+.git
+.next
+app/.next
+node_modules
+.venv-simulator
+.pytest_cache
+**/__pycache__
+ai/catboost_info
+ai/notebooks
+ai/figures
+data/raw
+*.zip
+*.ipynb_checkpoints
+Dockerfile
+npm-debug.log*

@@ -1,11 +1,11 @@
 # Flood-Resilient Rice Supply Chain Decision Support
 
-This repository contains a single-notebook submission for flood-resilient rice supply chain decision support in West Java, Indonesia.
+This repository contains a flood-resilient rice supply chain decision-support project for West Java, Indonesia.
 
 Primary notebook:
 
 ```text
-flood_resilient_rice_supply_chain_single_submission.ipynb
+ai/notebooks/flood_resilient_rice_supply_chain_single_submission.ipynb
 ```
 
 The notebook consolidates the earlier five-notebook workflow into one paper-style analytical pipeline. It covers flood hazard structure, rice supply-chain vulnerability, stress simulation, robustness checks, surrogate-model audit, and logistics intervention prioritization.
@@ -51,12 +51,29 @@ The single submission notebook answers four business questions:
 
 ```text
 flood_rice_resilience_project/
-|-- flood_resilient_rice_supply_chain_single_submission.ipynb
-|-- 01_flood_rice_data_understanding_visualization.ipynb
-|-- 02_flood_rice_preprocessing_pseudo_labeling.ipynb
-|-- 03_flood_rice_model_training_evaluation.ipynb
-|-- 04_flood_stress_test_sensitivity_analysis.ipynb
-|-- 05_flood_logistics_decision_support.ipynb
+|-- app/
+|   |-- app/
+|   |-- public/
+|   |-- src/
+|   |-- package.json
+|   `-- Dockerfile
+|-- ai/
+|   |-- notebooks/
+|   |   |-- flood_resilient_rice_supply_chain_single_submission.ipynb
+|   |   |-- 01_flood_rice_data_understanding_visualization.ipynb
+|   |   |-- 02_flood_rice_preprocessing_pseudo_labeling.ipynb
+|   |   |-- 03_flood_rice_model_training_evaluation.ipynb
+|   |   |-- 04_flood_stress_test_sensitivity_analysis.ipynb
+|   |   `-- 05_flood_logistics_decision_support.ipynb
+|   |-- simulator/
+|   |-- outputs/
+|   |-- figures/
+|   |-- models/
+|   |   |-- 03_final_flood_probability_model.joblib
+|   |   |-- 03_final_rice_vulnerability_model.joblib
+|   |   `-- 04_failure_surrogate_model.joblib
+|   |-- catboost_info/
+|   `-- requirements-ai.txt
 |-- data/
 |   |-- README.md
 |   |-- raw/
@@ -68,14 +85,8 @@ flood_rice_resilience_project/
 |       |-- jabar_flood_events_by_kabupaten_kota.csv
 |       |-- jabar_flood_events_used_in_project.csv
 |       `-- jabar_flood_exposure_by_region_for_project.csv
-|-- outputs/
-|-- figures/
-|-- models/
-|   |-- 03_final_flood_probability_model.joblib
-|   |-- 03_final_rice_vulnerability_model.joblib
-|   `-- 04_failure_surrogate_model.joblib
-|-- catboost_info/
-|-- requirements.txt
+|-- docker-compose.yml
+|-- DEPLOYMENT.md
 `-- README.md
 ```
 
@@ -93,13 +104,13 @@ python -m venv .venv
 Install requirements:
 
 ```powershell
-python -m pip install -r requirements.txt
+python -m pip install -r ai/requirements-ai.txt
 ```
 
 Then open the main notebook in VS Code, JupyterLab, or another Jupyter-compatible environment:
 
 ```text
-flood_resilient_rice_supply_chain_single_submission.ipynb
+ai/notebooks/flood_resilient_rice_supply_chain_single_submission.ipynb
 ```
 
 Run all cells from top to bottom.
@@ -196,7 +207,7 @@ Current LHS-enhanced priority weights:
 The recommended final simulation-based output is:
 
 ```text
-outputs/05_lhs_enhanced_priority.csv
+ai/outputs/05_lhs_enhanced_priority.csv
 ```
 
 The surrogate output is an audit layer. It should not replace the LHS-enhanced priority table as the final recommendation source.
@@ -219,63 +230,63 @@ Under the latest convergence summary, high-stress failure probabilities remain a
 
 Data understanding and preprocessing:
 
-- `outputs/01_flood_raw.csv`
-- `outputs/01_rice_consolidated_raw.csv`
-- `outputs/01b_jabar_flood_exposure_by_region.csv`
-- `outputs/02_rice_vulnerability_dataset.csv`
-- `outputs/02_actor_region_vulnerability.csv`
-- `outputs/02_external_enrichment_policy.csv`
+- `ai/outputs/01_flood_raw.csv`
+- `ai/outputs/01_rice_consolidated_raw.csv`
+- `ai/outputs/01b_jabar_flood_exposure_by_region.csv`
+- `ai/outputs/02_rice_vulnerability_dataset.csv`
+- `ai/outputs/02_actor_region_vulnerability.csv`
+- `ai/outputs/02_external_enrichment_policy.csv`
 
 Modeling:
 
-- `outputs/03_flood_cv_results.csv`
-- `outputs/03_rice_cv_results.csv`
-- `outputs/03_model_selection_rationale.csv`
-- `outputs/03_final_model_summary.json`
-- `outputs/03_flood_feature_target_correlation.csv`
-- `outputs/03_flood_holdout_residual_diagnostics.csv`
-- `models/03_final_flood_probability_model.joblib`
-- `models/03_final_rice_vulnerability_model.joblib`
+- `ai/outputs/03_flood_cv_results.csv`
+- `ai/outputs/03_rice_cv_results.csv`
+- `ai/outputs/03_model_selection_rationale.csv`
+- `ai/outputs/03_final_model_summary.json`
+- `ai/outputs/03_flood_feature_target_correlation.csv`
+- `ai/outputs/03_flood_holdout_residual_diagnostics.csv`
+- `ai/models/03_final_flood_probability_model.joblib`
+- `ai/models/03_final_rice_vulnerability_model.joblib`
 
 Stress simulation and surrogate audit:
 
-- `outputs/04_unit_stress_test_results.csv`
-- `outputs/04_actor_region_stress_summary.csv`
-- `outputs/04_monte_carlo_actor_region_summary.csv`
-- `outputs/04_lhs_actor_region_summary.csv`
-- `outputs/04_lhs_unit_results.csv`
-- `outputs/04_lhs_convergence_by_actor.csv`
-- `outputs/04_lhs_convergence_stability_summary.csv`
-- `outputs/04_lhs_simulation_ablation_by_component.csv`
-- `outputs/04_lhs_simulation_ablation_by_actor.csv`
-- `outputs/04_lhs_simulation_ablation_unit_results.csv`
-- `outputs/04_sensitivity_results.csv`
-- `outputs/04_surrogate_model_cv_results.csv`
-- `outputs/04_surrogate_holdout_metrics.csv`
-- `outputs/04_surrogate_prediction_summary.csv`
-- `models/04_failure_surrogate_model.joblib`
+- `ai/outputs/04_unit_stress_test_results.csv`
+- `ai/outputs/04_actor_region_stress_summary.csv`
+- `ai/outputs/04_monte_carlo_actor_region_summary.csv`
+- `ai/outputs/04_lhs_actor_region_summary.csv`
+- `ai/outputs/04_lhs_unit_results.csv`
+- `ai/outputs/04_lhs_convergence_by_actor.csv`
+- `ai/outputs/04_lhs_convergence_stability_summary.csv`
+- `ai/outputs/04_lhs_simulation_ablation_by_component.csv`
+- `ai/outputs/04_lhs_simulation_ablation_by_actor.csv`
+- `ai/outputs/04_lhs_simulation_ablation_unit_results.csv`
+- `ai/outputs/04_sensitivity_results.csv`
+- `ai/outputs/04_surrogate_model_cv_results.csv`
+- `ai/outputs/04_surrogate_holdout_metrics.csv`
+- `ai/outputs/04_surrogate_prediction_summary.csv`
+- `ai/models/04_failure_surrogate_model.joblib`
 
 Decision support:
 
-- `outputs/05_final_flood_logistics_priority.csv`
-- `outputs/05_high_priority_shortlist.csv`
-- `outputs/05_actor_region_recommended_actions.csv`
-- `outputs/05_top10_intervention_priority.csv`
-- `outputs/05_monte_carlo_enhanced_priority.csv`
-- `outputs/05_lhs_enhanced_priority.csv`
-- `outputs/05_top10_lhs_priority.csv`
-- `outputs/05_lhs_priority_distribution_share.csv`
-- `outputs/05_lhs_priority_policy.csv`
-- `outputs/05_priority_component_ablation.csv`
-- `outputs/05_priority_component_ablation_unit_scores.csv`
-- `outputs/05_priority_weight_robustness.csv`
-- `outputs/05_priority_weight_robustness_rank_detail.csv`
-- `outputs/05_priority_weight_robustness_weight_samples.csv`
-- `outputs/05_stakeholder_action_summary.csv`
+- `ai/outputs/05_final_flood_logistics_priority.csv`
+- `ai/outputs/05_high_priority_shortlist.csv`
+- `ai/outputs/05_actor_region_recommended_actions.csv`
+- `ai/outputs/05_top10_intervention_priority.csv`
+- `ai/outputs/05_monte_carlo_enhanced_priority.csv`
+- `ai/outputs/05_lhs_enhanced_priority.csv`
+- `ai/outputs/05_top10_lhs_priority.csv`
+- `ai/outputs/05_lhs_priority_distribution_share.csv`
+- `ai/outputs/05_lhs_priority_policy.csv`
+- `ai/outputs/05_priority_component_ablation.csv`
+- `ai/outputs/05_priority_component_ablation_unit_scores.csv`
+- `ai/outputs/05_priority_weight_robustness.csv`
+- `ai/outputs/05_priority_weight_robustness_rank_detail.csv`
+- `ai/outputs/05_priority_weight_robustness_weight_samples.csv`
+- `ai/outputs/05_stakeholder_action_summary.csv`
 
 ## Key Figures
 
-The `figures/` folder contains visual outputs for:
+The `ai/figures/` folder contains visual outputs for:
 
 - flood target distribution and pressure trends,
 - flood target correlation and residual diagnostics,
@@ -308,11 +319,11 @@ If flood hazard increases, which rice supply chain actor-region nodes should rec
 
 For most reporting or presentation use cases, start with:
 
-- `outputs/05_lhs_enhanced_priority.csv`
-- `outputs/05_top10_lhs_priority.csv`
-- `outputs/05_actor_region_recommended_actions.csv`
-- `outputs/05_stakeholder_action_summary.csv`
-- `outputs/05_priority_weight_robustness.csv`
-- `outputs/05_priority_component_ablation.csv`
+- `ai/outputs/05_lhs_enhanced_priority.csv`
+- `ai/outputs/05_top10_lhs_priority.csv`
+- `ai/outputs/05_actor_region_recommended_actions.csv`
+- `ai/outputs/05_stakeholder_action_summary.csv`
+- `ai/outputs/05_priority_weight_robustness.csv`
+- `ai/outputs/05_priority_component_ablation.csv`
 
 The top LHS-enhanced priorities are dominated by downstream and intermediary nodes, especially Retail, Rice Miller, Wholesaler, and Middlemen units under high flood stress. Karawang receives additional priority because of its high historical flood exposure. The latest weight-robustness output keeps the leading high-stress units in the top-10 list across nearly all perturbed-weight runs, with the strongest units appearing in 100% of runs.

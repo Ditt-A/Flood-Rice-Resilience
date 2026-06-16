@@ -1,0 +1,14 @@
+.next/
+app/.next/
+node_modules/
+app/node_modules/
+tsconfig.tsbuildinfo
+app/tsconfig.tsbuildinfo
+npm-debug.log*
+.env*
+!.env.example
+.venv-simulator/
+ai/.venv-simulator/
+.pytest_cache/
+__pycache__/
+*.pyc
