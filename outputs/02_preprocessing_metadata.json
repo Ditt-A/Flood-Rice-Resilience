@@ -103,7 +103,6 @@
       "use_in_notebook": "Supports the idea that efficiency differs by scale; this notebook uses a transparent actor-wise frontier approximation, not full LP DEA."
     },
     "Agricultural financial feasibility / R-C ratio": {
-      "source": "Gittinger, J. P. (1982). Economic Analysis of Agricultural Projects; Soekartawi (2002). Analisis Usahatani; benefit-cost analysis literature.",
       "use_in_notebook": "R/C < 1 means revenue/output value is lower than cost, so the actor-region unit is below break-even and treated as high vulnerability."
     },
     "Margin health": {
