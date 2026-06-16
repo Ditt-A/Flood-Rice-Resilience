@@ -1,7 +1,7 @@
 import { InsightWorkspace } from "@/src/components/InsightWorkspace";
 
 export const metadata = {
-  title: "AI Insight | Flood-Rice Resilience"
+  title: "AI Insight | Sipadi"
 };
 
 export default function AIInsightPage() {

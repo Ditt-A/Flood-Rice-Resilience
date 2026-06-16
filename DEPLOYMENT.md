@@ -1,4 +1,4 @@
-# Flood-Rice-Resilience Deployment
+# Sipadi Deployment
 
 ## Local
 
@@ -39,4 +39,4 @@ The simulator is internal to the Compose network. Only the Next.js service is pu
 - Rotate any key pasted into chat, logs, screenshots, or shell history before production use.
 - The chat route limits input length, conversation context, execution time, and requests per client.
 
-The AI agent uses `gemini-3.1-flash-lite` at temperature `0.8`. All numeric claims are obtained through Zod-validated tools backed by the FastAPI simulator.
+The AI agent uses `gemini-3.1-flash-lite` at temperature `0.8`. All numeric claims are obtained through Zod-validated tools backed by the FastAPI simulator. Final dashboard priority scores use the LHS-enhanced priority outputs.

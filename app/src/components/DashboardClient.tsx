@@ -153,7 +153,7 @@ export function DashboardClient({ data }: Props) {
             <Waves size={16} />
             West Java flood logistics
           </div>
-          <h1>Flood-Rice Resilience</h1>
+          <h1>Sipadi</h1>
           <p>
             Scenario-based priority cockpit for protecting rice supply-chain nodes before flood
             disruption turns into food availability risk.
@@ -227,7 +227,7 @@ export function DashboardClient({ data }: Props) {
         />
         <Metric
           icon={<ShieldCheck size={22} />}
-          label="Peak MC failure"
+          label="Peak LHS failure"
           value={percent(highestFailure)}
           detail="mean failure probability"
           tone="danger"
@@ -262,7 +262,7 @@ export function DashboardClient({ data }: Props) {
                   <th>Rank</th>
                   <th>Node</th>
                   <th>Priority</th>
-                  <th>MC fail</th>
+                  <th>LHS fail</th>
                   <th>Score</th>
                   <th>Action</th>
                 </tr>
@@ -316,7 +316,7 @@ export function DashboardClient({ data }: Props) {
           ) : null}
           <div className="ruleBox">
             <strong>Decision policy</strong>
-            <p>0.35 vulnerability + 0.30 flood hazard + 0.25 MC failure + 0.10 exposure.</p>
+            <p>0.35 vulnerability + 0.25 flood hazard + 0.25 LHS failure + 0.10 exposure + 0.05 actor role.</p>
           </div>
         </aside>
       </section>
@@ -326,7 +326,7 @@ export function DashboardClient({ data }: Props) {
           <div className="panelHead">
             <div>
               <h2>High-Flood Actor-Region Heatmap</h2>
-              <p>Monte Carlo enhanced priority score by actor and region.</p>
+              <p>LHS-enhanced final priority score by actor and region.</p>
             </div>
             <MapPinned size={22} />
           </div>
@@ -358,7 +358,7 @@ export function DashboardClient({ data }: Props) {
           <div className="panelHead">
             <div>
               <h2>Failure Probability By Actor</h2>
-              <p>Monte Carlo mean across actor-region units.</p>
+              <p>LHS mean across actor-region units.</p>
             </div>
             <Factory size={22} />
           </div>

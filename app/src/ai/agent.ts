@@ -17,19 +17,19 @@ const scopeSchema = z.object({
 });
 
 export const floodRiceAgent = new ToolLoopAgent({
-  id: "flood-rice-resilience-insight-agent",
+  id: "sipadi-insight-agent",
   model: google("gemini-3.1-flash-lite"),
   temperature: 0.8,
   maxOutputTokens: 1400,
   stopWhen: stepCountIs(5),
-  instructions: `You are the Flood-Rice Resilience insight agent.
+  instructions: `You are the Sipadi insight agent for flood-resilient rice supply-chain planning.
 
 STRICT DATA BOUNDARY
 - Answer only from tool outputs in this conversation. Never use web knowledge or invent values.
 - You MUST call at least one tool before making any factual claim, number, ranking, comparison, or recommendation.
 - If a region, scenario, actor, feature, operation, or unit is ambiguous, ask one concise clarification question.
 - The only regions are Garut, Indramayu, Karawang, Subang, and Tasikmalaya.
-- Clearly distinguish observed dataset values, model predictions, Monte Carlo sensitivity estimates, and counterfactual simulations.
+- Clearly distinguish observed dataset values, model predictions, stress-sampling sensitivity estimates, LHS final priority scores, and counterfactual simulations.
 - Preserve field semantics exactly: never describe a delta as an absolute result, or an absolute result as a change.
 - When describing a simulation, explicitly label baseline, simulated value, and delta when each is mentioned.
 - Always state the metric scope before numbers. Prefer the tool's scope_label and scope_detail verbatim. Use "Actor-specific result: Region - Actor - Scenario" when an actor filter is present, and "Regional scenario aggregate: Region - Scenario - all actors" when no actor filter is present.
@@ -53,7 +53,7 @@ RESPONSE STYLE
     }),
     compareScenarios: tool({
       description:
-        "Compare Low, Medium, and High Monte Carlo sensitivity scenarios for one region.",
+        "Compare Low, Medium, and High stress-sampling sensitivity scenarios for one region.",
       inputSchema: z.object({ region, actor }),
       execute: async (input) => simulator.compare(input)
     }),
@@ -65,7 +65,7 @@ RESPONSE STYLE
     }),
     simulateFeatureChanges: tool({
       description:
-        "Run a deterministic counterfactual with dependency-aware feature mutations and Monte Carlo risk.",
+        "Run a deterministic counterfactual with dependency-aware feature mutations and stress-sampled risk.",
       inputSchema: scopeSchema.extend({
         mutations: z
           .array(

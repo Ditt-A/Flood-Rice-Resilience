@@ -388,7 +388,7 @@ export function InsightWorkspace() {
         <a className="brandLink" href="/">
           <ShieldCheck size={22} />
           <span>
-            Flood-Rice Resilience
+            Sipadi
             <small>AI insight workspace</small>
           </span>
         </a>
@@ -414,7 +414,7 @@ export function InsightWorkspace() {
               <div className="botMark">
                 <Bot size={28} />
               </div>
-              <h1>Flood-Rice Resilience</h1>
+              <h1>Sipadi</h1>
               <div className="regionChips">
                 {regions.map((region) => (
                   <button

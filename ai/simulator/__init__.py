@@ -1,1 +1,1 @@
-"""Flood-Rice deterministic simulation service."""
+"""Sipadi deterministic simulation service."""

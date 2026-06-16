@@ -1,4 +1,4 @@
-# Flood-Resilient Rice Supply Chain Decision Support
+# Sipadi: Flood-Resilient Rice Supply Chain Decision Support
 
 This repository contains a flood-resilient rice supply chain decision-support project for West Java, Indonesia.
 

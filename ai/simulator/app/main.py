@@ -6,7 +6,7 @@ from .schemas import RegionRequest, ScenarioComparisonRequest, SimulationRequest
 
 
 app = FastAPI(
-    title="Flood-Rice Resilience Simulation API",
+    title="Sipadi Simulation API",
     version="1.0.0",
     description="Deterministic, dataset-bounded calculations for the AI insight interface.",
 )

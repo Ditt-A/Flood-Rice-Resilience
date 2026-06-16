@@ -143,34 +143,42 @@ type ModelSummaryFile = {
 };
 
 export function getDashboardData(): DashboardData {
-  const priorityRows = readCsv("05_monte_carlo_enhanced_priority.csv")
+  const priorityRows = readCsv("05_lhs_enhanced_priority.csv")
     .map((row): PriorityRow => ({
       region: row.region,
       actor: row.actor,
       scenario: scenario(row.flood_scenario),
       vulnerabilityLabel: row.vulnerability_label,
       priorityLabel: row.priority_label,
-      enhancedLabel: row.monte_carlo_enhanced_priority_label,
+      enhancedLabel: row.lhs_enhanced_priority_label,
       priorityRank: n(row.priority_rank),
-      enhancedRank: n(row.monte_carlo_priority_rank),
-      score: n(row.monte_carlo_enhanced_priority_score),
-      failureProbability: n(row.mean_failure_probability),
+      enhancedRank: 0,
+      score: n(row.lhs_enhanced_priority_score),
+      failureProbability: n(row.lhs_mean_failure_probability),
       failShare: n(row.fail_share),
       exposure: n(row.historical_flood_exposure_score),
-      stressedMargin: n(row.expected_stressed_margin || row.median_stressed_margin),
+      stressedMargin: n(row.lhs_expected_stressed_margin || row.median_stressed_margin),
       recommendedAction: row.recommended_action,
-      reason: row.monte_carlo_priority_reason || row.priority_reason,
+      reason: row.priority_reason,
       components: {
-        vulnerability: n(row.vulnerability_component),
-        hazard: n(row.hazard_component),
-        failure: n(row.monte_carlo_failure_component),
-        exposure: n(row.external_exposure_component)
+        vulnerability: n(row.lhs_component_vulnerability),
+        hazard: n(row.lhs_component_flood),
+        failure: n(row.lhs_component_failure_probability),
+        exposure: n(row.lhs_component_historical_exposure)
       }
-    }))
-    .sort((a, b) => a.enhancedRank - b.enhancedRank || b.score - a.score);
+    }));
+  const nextRankByScenario = new Map<Scenario, number>();
+  priorityRows
+    .sort((a, b) => b.score - a.score || a.actor.localeCompare(b.actor))
+    .forEach((row) => {
+      const nextRank = (nextRankByScenario.get(row.scenario) ?? 0) + 1;
+      nextRankByScenario.set(row.scenario, nextRank);
+      row.enhancedRank = nextRank;
+    });
+  priorityRows.sort((a, b) => a.enhancedRank - b.enhancedRank || b.score - a.score);
 
   const regions = Array.from(new Set(priorityRows.map((row) => row.region))).sort();
-  const heatmap = readCsv("05_monte_carlo_high_priority_heatmap_values.csv").map(
+  const heatmap = readCsv("05_lhs_high_priority_heatmap_values.csv").map(
     (row): HeatmapRow => ({
       actor: row.actor,
       values: Object.fromEntries(
@@ -179,7 +187,7 @@ export function getDashboardData(): DashboardData {
     })
   );
 
-  const distribution = readCsv("05_monte_carlo_priority_distribution_share.csv").map(
+  const distribution = readCsv("05_lhs_priority_distribution_share.csv").map(
     (row): DistributionRow => ({
       scenario: scenario(row.flood_scenario),
       low: n(row.Low),
@@ -189,13 +197,13 @@ export function getDashboardData(): DashboardData {
     })
   );
 
-  const actorFailures = readCsv("04_monte_carlo_failure_probability_by_actor.csv").map(
+  const actorFailures = readCsv("04_lhs_failure_probability_by_actor.csv").map(
     (row): ActorFailureRow => ({
       scenario: scenario(row.flood_scenario),
       actor: row.actor,
-      meanFailureProbability: n(row.mean_failure_probability),
-      medianFailureProbability: n(row.median_failure_probability),
-      actorRegions: n(row.n_actor_regions)
+      meanFailureProbability: n(row.lhs_mean_failure_probability),
+      medianFailureProbability: n(row.lhs_p75_failure_probability),
+      actorRegions: n(row.n_units)
     })
   );
 
@@ -222,8 +230,8 @@ export function getDashboardData(): DashboardData {
 
   return {
     generatedFrom: [
-      "05_monte_carlo_enhanced_priority.csv",
-      "04_monte_carlo_failure_probability_by_actor.csv",
+      "05_lhs_enhanced_priority.csv",
+      "04_lhs_failure_probability_by_actor.csv",
       "03_final_model_summary.json"
     ],
     regions,

@@ -135,7 +135,7 @@ FEATURE_UNITS = {
 SOURCES = [
     "ai/outputs/02_rice_vulnerability_dataset.csv",
     "ai/outputs/04_monte_carlo_stress_ranges.csv",
-    "ai/outputs/05_monte_carlo_enhanced_priority.csv",
+    "ai/outputs/05_lhs_enhanced_priority.csv",
     "ai/models/03_final_rice_vulnerability_model.joblib",
 ]
 SATURATION_WARNING = (
@@ -238,7 +238,7 @@ class ModelState:
 class SimulationEngine:
     def __init__(self) -> None:
         self.data = pd.read_csv(OUTPUTS / "02_rice_vulnerability_dataset.csv")
-        self.priority = pd.read_csv(OUTPUTS / "05_monte_carlo_enhanced_priority.csv")
+        self.priority = pd.read_csv(OUTPUTS / "05_lhs_enhanced_priority.csv")
         self.ranges = pd.read_csv(OUTPUTS / "04_monte_carlo_stress_ranges.csv").set_index(
             "flood_scenario"
         )
@@ -743,17 +743,17 @@ class SimulationEngine:
         ].copy()
         if request.actor:
             rows = rows[rows["actor"].eq(request.actor)]
-        rows = rows.sort_values("monte_carlo_priority_rank")
+        rows = rows.sort_values("lhs_enhanced_priority_score", ascending=False)
         queue = [
             {
-                "rank": int(row.monte_carlo_priority_rank),
+                "rank": rank,
                 "actor": row.actor,
-                "priority_label": row.monte_carlo_enhanced_priority_label,
-                "priority_score": _number(row.monte_carlo_enhanced_priority_score),
-                "failure_probability": _number(row.mean_failure_probability),
+                "priority_label": row.lhs_enhanced_priority_label,
+                "priority_score": _number(row.lhs_enhanced_priority_score),
+                "failure_probability": _number(row.lhs_mean_failure_probability),
                 "recommended_action": row.recommended_action,
             }
-            for row in rows.itertuples()
+            for rank, row in enumerate(rows.itertuples(), start=1)
         ]
         snapshot = self.region_snapshot(request)
         return {
@@ -779,11 +779,11 @@ class SimulationEngine:
         ].copy()
         if actor:
             rows = rows[rows["actor"].eq(actor)]
-        rows = rows.sort_values("monte_carlo_priority_rank").head(5)
+        rows = rows.sort_values("lhs_enhanced_priority_score", ascending=False).head(5)
         return [
             {
                 "actor": row.actor,
-                "priority": row.monte_carlo_enhanced_priority_label,
+                "priority": row.lhs_enhanced_priority_label,
                 "action": row.recommended_action,
             }
             for row in rows.itertuples()
